@@ -1,0 +1,7 @@
+#Installation Instructions
+
+= Introduction =
+
+In order to use Fallen Sword Helper, you will need Firefox 3 and Greasemonkey. It doens't work with IE, because I'm using scripting methods that IE doesn't have (such as document.evaluate), it doesn't work with Chrome because with Greasemetal doesn't have some basic Greasemonkey functionality (such as saving and reading variables, and using XMLHTTP). It may work with Firefox 2, but I would strongly recommend upgrading to Firefox 3, as I haven't used FF2 for a long time, and since this is a project I'm doing in my free time, I don't really want to support two browsers :)
+
+For more information, see [http://userscripts.org/about/installing UserScripts.org Guide]
