@@ -30,10 +30,6 @@ Fallen Sword Helper is a Greasemonkey script meant to enhance the experience of 
 
 My ingame name is Coccinella - feel free to contact me for any questions or remarks
 
-= Bugs =
-
-= Suggestions =
-
 = Installation =
 
 = FAQ =
