@@ -1,1 +1,7 @@
 = Frequently Asked Questions =
+
+Q: What are the numbers in parentheses at the right of the gold gained? (e.g. "XP:123 Gold:91 (23)")
+A: This is the guild tax, the money that goes to the guild.
+
+Q: Can you auto repair after all kills?
+A: After killing a screenful of monsters, repair is already automatically (and silently) called. Note that because AJAX is asynchronous (that is, I make the call to the page that kills the monster, but I don't wait until the monster is killed), there's no guarantee that the repair will really occur after all the kills.
