@@ -1,3 +1,4 @@
+#labels Featured
 = Introduction =
 
 Fallen Sword Helper is a Greasemonkey script meant to enhance the experience of playing Fallen Sword, by removing repetitive tasks, presenting more information at a glance, enhancing the social aspect of the game and creating shortcuts to common tasks
