@@ -1,3 +1,4 @@
+#labels Featured
 = Introduction =
 
 A version by version list of changes made to the script
