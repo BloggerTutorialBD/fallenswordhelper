@@ -4,7 +4,7 @@
 A version by version list of changes made to the script
 
 
-==version 48 changes==
+== Revision 48 changes ==
 Major
   # Script updated to work for any server at fallensword.com. If you installed the script prior to this version you will need to add http://*.fallensword.com/* to your list of included sites.
   # Quick Potion Search function added to auction screen that puts one click links for searching for popular higher level potions.
@@ -15,7 +15,7 @@ Minor
   # Enabled auction functionality for search results (this wasn't working previously).
   # Removed a space from the stamina mouseover to make it look prettier.
 
-==version 47 changes and previous==
+== Revision 47 and older changes ==
 (To be tidied up).
   # Holds a list with the current guild, friendly guilds, old guilds and enemy guilds, so that when you see a profile for member of either guild, a message appears under their name (color and message are customizable).
   # A chat box is displayed, with the latest 10 (configurable - set to 0 to disable) chat messages. This only updates when needed.
