@@ -3,6 +3,10 @@
 
 A version by version list of changes made to the script
 
+==Revision 70 changes==
+===Minor===
+  # Presentation clean-up. Several colors changes to be more consistent with the web site itself (and be more eye-friendly)
+
 ==Revision 68 changes==
 ===Minor===
   # Version check and update are now done completely from code.google.com. Userscripts.org will only be kept as discovery point, new versions should only appear here
