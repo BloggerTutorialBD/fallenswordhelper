@@ -3,6 +3,13 @@
 
 A version by version list of changes made to the script
 
+==Revision 75 changes==
+===Major===
+  # Preliminary work for custom potion list
+===Minor===
+  # Fixed issue 2. Now control, alt and meta (Mac's Command) keys are not handled. Extra feature: now you can even copy stuff from the page
+  # Fixed issue 20. Guilds are only searched in profile page, not recruits.
+
 ==Revision 73 changes==
 ===Minor===
   # Centralize server discovery into a function.
