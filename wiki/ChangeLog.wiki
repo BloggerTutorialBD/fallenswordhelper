@@ -3,13 +3,13 @@
 
 A version by version list of changes made to the script
 
-== Revision 59/60 changes ==
+== Revision 60 changes ==
 ===Minor===
   # Fixed some minor typos
   # Added text to world summary when auto kill is running to notify you if a shield imp got killed by that particular monster
   # Added a row to the log coloring to make it look a little nicer (well I think it does)
 
-== Revision 58 changes ==
+== Revision 48 changes ==
 ===Major===
   # Script updated to work for any server at fallensword.com. If you installed the script prior to this version you will need to add http://*.fallensword.com/* to your list of included sites.
   # Quick Potion Search function added to auction screen that puts one click links for searching for popular higher level potions.
@@ -20,11 +20,11 @@ A version by version list of changes made to the script
   # Enabled auction functionality for search results (this wasn't working previously).
   # Removed a space from the stamina mouseover to make it look prettier.
 
-== Revision 57 changes ==
+== Revision 47 changes ==
 ===Minor===
   # Fix to item coloring where sometimes the item was not colored correctly.
 
-== Revision 56 changes ==
+== Revision 46 changes ==
 ===Major===
   # Kill all monsters functionality updated to include kill single and kill type of monster.
 ===Minor===
@@ -35,7 +35,7 @@ A version by version list of changes made to the script
   # Small fix to Chat from world function.
   # Error fix for FF2 for the group stats calculation function
 
-== Revision 55 changes ==
+== Revision 45 changes ==
 ===Major===
   # Added widgets to guild log chat to diminish recall messages not associated with self.
   # Change hide guild logic to use X similar to how they work on the profile screen.
@@ -46,14 +46,37 @@ A version by version list of changes made to the script
   # Fix to kill all monsters toggle from world.
   # Minor color fixes on guild list.
 
-== Revision 54 and older changes ==
+== Revision 44 ==
+=== Major ===
+  # Chat box is now fully functional, you can send text to the guild chat.
+=== Minor ===
+  # Key handling routine is disabled on the page and replicated inside the script.
+  # "0" key works on any screen, effectively either going back to the "world" page or refreshing it.
+
+== Revision 43 ==
+=== Minor ===
+  # Bugfix for credits
+
+== Revision 42 ==
+=== Minor ===
+  # Change chat box color each time new messages appear
+
+== Revision 41 ==
+=== Major ===
+  # Chat box displays last 10 (configurable) messages from guild chat (readonly).
+  # Stamina calculator displays estimated time for when stamina will be full.
+=== Minor ===
+  # Tightened up guild list (to make room for chat box)
+  # Added developer credits and website
+
+== Revision 40 and older changes ==
 (To be tidied up if someone has time and energy).
   # Holds a list with the current guild, friendly guilds, old guilds and enemy guilds, so that when you see a profile for member of either guild, a message appears under their name (color and message are customizable).
-  # A chat box is displayed, with the latest 10 (configurable - set to 0 to disable) chat messages. This only updates when needed.
   # When you try to dispose of an item (optionally), it retrieves data from the server to find out about the item color, and paints the text of the item with that color. This makes it easy to get rid of e.g. all white (common) items. There's even an option to disable this.
   # Displays a list of all members of the guild that are currently online, when at the world or chat pages. You can directly buff a player from that list. Any player that has logged in in the last 15 seconds or so, is displayed in yellow (in order to reduce the calls to the server, I don't update the guild list if it has been updated less than 15 seconds ago).
   # I also incorporated the code and functionality from Fallensword Buffing, with a bit of extra functionality for guild administrators.
   # Optionally (go to Character > Preferences to enable this) kills all monsters on the spot.
+  # Improved kill functionality - you can optionally kill monsters as usual but with no new page opening, kill all monsters of a single type, or kill every monster on the square you just moved to.
   # In guild management report page, the list of guild members is used to show which members are online.
   # In auction house pages, text about the offered item is automatically retrieved.
   # In guild groups page, statistics about each group are automatically retrieved. Also the level of the group creator.
@@ -65,8 +88,5 @@ A version by version list of changes made to the script
   # On the player log screen, it adds a link to trade with the player between Reply and Buff. It also colors guildmate names green.
   # When on the drop item page, you can immediately search the item in the auction house, or even sell it.
   # On the questbook page all completed quests are hidden and all incomplete quests from other pages are also loaded and displayed (optional).
-  # Mouseover for stamina also shows when stamina will be full.
-  # Improved kill functionality - you can optionally kill monsters as usual but with no new page opening, kill all monsters of a single type, or kill every monster on the square you just moved to.
-  # Since I had to disable and replicate the default keypress functionality, now you can press "0" to refresh the world at any point. Also arrow keys (when nothing is selected) work as they should
   # The preferences page have some mouseover help.
   # Finally, it is able to auto update itself (it checks once a day or you can check manually).
