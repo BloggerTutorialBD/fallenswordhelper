@@ -3,6 +3,10 @@
 
 A version by version list of changes made to the script
 
+==Revision 68 changes==
+===Minor===
+  # Version check and update are now done completely from code.google.com. Userscripts.org will only be kept as discovery point, new versions should only appear here
+
 ==Revision 66 changes==
 ===Minor===
   # Re-added website information to credits
