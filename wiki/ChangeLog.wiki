@@ -3,6 +3,11 @@
 
 A version by version list of changes made to the script
 
+==Revision 66 changes==
+===Minor===
+  # Re-added website information to credits
+  # Changed default location for auto update (I have also changed userscripts.org to reflect this)
+
 ==Revision 64 changes==
 ===Minor===
   # Added a button to fetch group stats rather than calculating them every time.
