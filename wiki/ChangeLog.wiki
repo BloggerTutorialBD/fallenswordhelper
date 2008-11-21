@@ -3,6 +3,11 @@
 
 A version by version list of changes made to the script
 
+==Revision 64 changes==
+===Minor===
+  # Added a button to fetch group stats rather than calculating them every time.
+  # Colored the group leader green if they were online.
+
 ==Revision 60 changes==
 ===Minor===
   # Fixed some minor typos
@@ -11,7 +16,7 @@ A version by version list of changes made to the script
 
 ==Revision 48 changes==
 ===Major===
-  # Script updated to work for any server at fallensword.com. If you installed the script prior to this version you will need to add http://*.fallensword.com/* to your list of included sites.
+  # Script updated to work for any server at fallensword.com. If you installed the script prior to this version you will need to add *{{{http://*.fallensword.com/*}}}* to your list of included sites.
   # Quick Potion Search function added to auction screen that puts one click links for searching for popular higher level potions.
   # Auction one click bid and buyout functionality added. You can now bid on or buyout an item with one click. Also, if there is already a bid, there is a link to outbid by 5% (also one click).
 ===Minor===
