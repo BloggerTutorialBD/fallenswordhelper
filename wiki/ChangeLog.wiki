@@ -3,6 +3,9 @@
 
 A version by version list of changes made to the script
 
+==Revision 95 changes==
+  # (minor) Fast recall was not writing return message correctly
+  
 ==Revision 93 changes==
   # (minor) Fix for recall item not working in Firefox 3
   # (minor) Fix for showing that item recall was successful, when it wasn't. Now the info message is displayed.
