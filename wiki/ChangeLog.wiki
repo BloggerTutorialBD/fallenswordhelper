@@ -5,6 +5,7 @@ A version by version list of changes made to the script
 
 ==Revision 97 changes===
   # (Major) Fix for issue 25, hover your mouse over the battle result to see a hit by hit combat report
+  # (minor) Preemptive cleanup for FF3 possible issue (using non-unique html element ids)
 
 ==Revision 95 changes==
   # (minor) Fast recall was not writing return message correctly
