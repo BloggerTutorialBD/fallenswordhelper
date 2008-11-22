@@ -3,7 +3,7 @@
 
 A version by version list of changes made to the script
 
-==Revision ?? changes==
+==Revision 79 changes==
 ===Minor===
   # Fixed a link for the "Join all" button in profile page
 
