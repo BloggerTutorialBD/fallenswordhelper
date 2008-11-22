@@ -3,6 +3,10 @@
 
 A version by version list of changes made to the script
 
+==Revision ?? changes==
+===Minor===
+  # Fixed a link for the "Join all" button in profile page
+
 ==Revision 77 changes==
 ===Major===
   # Added warning message to marketplace if you try and buy FSP for less than 100k or more than 110k
