@@ -3,6 +3,13 @@
 
 A version by version list of changes made to the script
 
+==Revision 77 changes==
+===Major===
+  # Added warning message to marketplace if you try and buy FSP for less than 100k or more than 110k
+===Minor===
+  # Added debug messages for recall item functionality as people with FF3 were having trouble with it
+  # Added commas to the overbid value shown in AH (just to make it easier to read)
+
 ==Revision 75 changes==
 ===Major===
   # Preliminary work for custom potion list
@@ -35,7 +42,7 @@ A version by version list of changes made to the script
 ==Revision 60 changes==
 ===Minor===
   # Fixed some minor typos
-  # Added text to world summary when auto kill is running to notify you if a shield imp got killed by that particular monster
+  # Added text to world summary when auto kill is running to notify you if a shield imp got killed by that particular monster issue 7.
   # Added a row to the log coloring to make it look a little nicer (well I think it does)
 
 ==Revision 48 changes==
