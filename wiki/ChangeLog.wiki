@@ -3,6 +3,10 @@
 
 A version by version list of changes made to the script
 
+==Revision 93 changes==
+  # (minor) Fix for recall item not working in Firefox 3
+  # (minor) Fix for showing that item recall was successful, when it wasn't. Now the info message is displayed.
+  
 ==Revision 90 changes==
   # (minor) Some special characters were not displayed properly. One was rogue and was eliminated, the other one I escape in the text, so it should work now (issue 17).
 
