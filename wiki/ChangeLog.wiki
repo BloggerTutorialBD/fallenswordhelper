@@ -3,6 +3,10 @@
 
 A version by version list of changes made to the script
 
+==Revision 100 changes===
+  # (Major) Hunting buffs list is now customizable (from Character > Preferences)
+  # (minor) Cleaned up and streamlined help link ("[?]") code
+
 ==Revision 97 changes===
   # (Major) Fix for issue 25, hover your mouse over the battle result to see a hit by hit combat report
   # (minor) Preemptive cleanup for FF3 possible issue (using non-unique html element ids)
