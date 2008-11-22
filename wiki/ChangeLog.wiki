@@ -1,7 +1,5 @@
 #labels Featured
-=Change Log=
-
-A version by version list of changes made to the script
+=A version by version list of changes made to the script=
 
 ==Revision 102 changes===
   # (minor) Bugfix for fast recall message not showing
