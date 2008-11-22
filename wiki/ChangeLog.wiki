@@ -3,6 +3,9 @@
 
 A version by version list of changes made to the script
 
+==Revision 90 changes==
+  # (minor) Some special characters were not displayed properly. One was rogue and was eliminated, the other one I escape in the text, so it should work now (issue 21).
+
 ==Revision 88 changes==
   # (minor) A level for one quick potion was 0 (issue 21)
 
