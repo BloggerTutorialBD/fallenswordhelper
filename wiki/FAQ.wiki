@@ -9,3 +9,7 @@ Q: Can you auto repair after all kills?
 
 A: After killing a screenful of monsters, repair is already automatically (and silently) called. Note that because AJAX is asynchronous (that is, I make the call to the page that kills the monster, but I don't wait until the monster is killed), there's no guarantee that the repair will really occur after all the kills.
 This is the same for single and type settings. It should repair after each single or each type has completed.
+----
+Q: What do the colors on the guild members list mean?
+
+A: White is for normal. Dark orange means the member has just logged in. Gold denotes yourself (to find yourself easily and e.g. buff yourself)

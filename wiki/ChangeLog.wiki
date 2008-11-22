@@ -3,115 +3,93 @@
 
 A version by version list of changes made to the script
 
+==Revision 82 changes==
+  # (minor) Removed option to message yourself in the guild list.
+
 ==Revision 79 changes==
-===Minor===
-  # Fixed a link for the "Join all" button in profile page
+  # (minor) Fixed a link for the "Join all" button in profile page
 
 ==Revision 77 changes==
-===Major===
-  # Added warning message to marketplace if you try and buy FSP for less than 100k or more than 110k
-===Minor===
-  # Added debug messages for recall item functionality as people with FF3 were having trouble with it
-  # Added commas to the overbid value shown in AH (just to make it easier to read)
+  # (Major) Added warning message to marketplace if you try and buy FSP for less than 100k or more than 110k
+  # (minor) Added debug messages for recall item functionality as people with FF3 were having trouble with it
+  # (minor) Added commas to the overbid value shown in AH (just to make it easier to read)
 
 ==Revision 75 changes==
-===Major===
-  # Preliminary work for custom potion list
-===Minor===
-  # Fixed issue 2. Now control, alt and meta (Mac's Command) keys are not handled. Extra feature: now you can even copy stuff from the page
-  # Fixed issue 20. Guilds are only searched in profile page, not recruits.
+  # (Major) Preliminary work for custom potion list
+  # (minor) Fixed issue 2. Now control, alt and meta (Mac's Command) keys are not handled. Extra feature: now you can even copy stuff from the page
+  # (minor) Fixed issue 20. Guilds are only searched in profile page, not recruits.
 
 ==Revision 73 changes==
-===Minor===
-  # Centralize server discovery into a function.
+  # (minor) Centralize server discovery into a function.
 
 ==Revision 70 changes==
-===Minor===
-  # Presentation clean-up. Several colors changes to be more consistent with the web site itself (and be more eye-friendly)
+  # (minor) Presentation clean-up. Several colors changes to be more consistent with the web site itself (and be more eye-friendly)
 
 ==Revision 68 changes==
-===Minor===
-  # Version check and update are now done completely from code.google.com. Userscripts.org will only be kept as discovery point, new versions should only appear here
+  # (minor) Version check and update are now done completely from code.google.com. Userscripts.org will only be kept as discovery point, new versions should only appear here
 
 ==Revision 66 changes==
-===Minor===
-  # Re-added website information to credits
-  # Changed default location for auto update (I have also changed userscripts.org to reflect this)
+  # (minor) Re-added website information to credits
+  # (minor) Changed default location for auto update (I have also changed userscripts.org to reflect this)
 
 ==Revision 64 changes==
-===Minor===
-  # Added a button to fetch group stats rather than calculating them every time.
-  # Colored the group leader green if they were online.
+  # (minor) Added a button to fetch group stats rather than calculating them every time.
+  # (minor) Colored the group leader green if they were online.
 
 ==Revision 60 changes==
-===Minor===
-  # Fixed some minor typos
-  # Added text to world summary when auto kill is running to notify you if a shield imp got killed by that particular monster issue 7.
-  # Added a row to the log coloring to make it look a little nicer (well I think it does)
+  # (minor) Fixed some minor typos
+  # (minor) Added text to world summary when auto kill is running to notify you if a shield imp got killed by that particular monster issue 7.
+  # (minor) Added a row to the log coloring to make it look a little nicer (well I think it does)
 
 ==Revision 48 changes==
-===Major===
-  # Script updated to work for any server at fallensword.com. If you installed the script prior to this version you will need to add *{{{http://*.fallensword.com/*}}}* to your list of included sites.
-  # Quick Potion Search function added to auction screen that puts one click links for searching for popular higher level potions.
-  # Auction one click bid and buyout functionality added. You can now bid on or buyout an item with one click. Also, if there is already a bid, there is a link to outbid by 5% (also one click).
-===Minor===
-  # Minor change to the check for update script to try and fix the issue. Please consider the update functionality to not be working and check for updates manually until you hear differently.
-  # Removed the log widgets from the sent items screen (adding trade link to player names).
-  # Enabled auction functionality for search results (this wasn't working previously).
-  # Removed a space from the stamina mouseover to make it look prettier.
+  # (Major) Script updated to work for any server at fallensword.com. If you installed the script prior to this version you will need to add *{{{http://*.fallensword.com/*}}}* to your list of included sites.
+  # (Major) Quick Potion Search function added to auction screen that puts one click links for searching for popular higher level potions.
+  # (Major) Auction one click bid and buyout functionality added. You can now bid on or buyout an item with one click. Also, if there is already a bid, there is a link to outbid by 5% (also one click).
+  # (minor) Minor change to the check for update script to try and fix the issue. Please consider the update functionality to not be working and check for updates manually until you hear differently.
+  # (minor) Removed the log widgets from the sent items screen (adding trade link to player names).
+  # (minor) Enabled auction functionality for search results (this wasn't working previously).
+  # (minor) Removed a space from the stamina mouseover to make it look prettier.
 
 ==Revision 47 changes==
-===Minor===
-  # Fix to item coloring where sometimes the item was not colored correctly.
+  # (minor) Fix to item coloring where sometimes the item was not colored correctly.
 
 ==Revision 46 changes==
-===Major===
-  # Kill all monsters functionality updated to include kill single and kill type of monster.
-===Minor===
-  # Change to how often the auto update code checks for update.
-  # Change to how missing buffs list is displayed.
-  # Minor change for how pages are retrieved
-  # Fix to the hide completed quest function (was missing one uncompleted quest)
-  # Small fix to Chat from world function.
-  # Error fix for FF2 for the group stats calculation function
+  # (Major) Kill all monsters functionality updated to include kill single and kill type of monster.
+  # (minor) Change to how often the auto update code checks for update.
+  # (minor) Change to how missing buffs list is displayed.
+  # (minor) Minor change for how pages are retrieved
+  # (minor) Fix to the hide completed quest function (was missing one uncompleted quest)
+  # (minor) Small fix to Chat from world function.
+  # (minor) Error fix for FF2 for the group stats calculation function
 
 ==Revision 45 changes==
-===Major===
-  # Added widgets to guild log chat to diminish recall messages not associated with self.
-  # Change hide guild logic to use X similar to how they work on the profile screen.
-  # Added fast recall function to guild>report page to recall items without a page refresh.
-===Minor===
-  # Fix to errors on relic stats page.
-  # Update to buff warning to put it in a better location and make it more user friendly.
-  # Fix to kill all monsters toggle from world.
-  # Minor color fixes on guild list.
+  # (Major) Added widgets to guild log chat to diminish recall messages not associated with self.
+  # (Major) Change hide guild logic to use X similar to how they work on the profile screen.
+  # (Major) Added fast recall function to guild>report page to recall items without a page refresh.
+  # (minor) Fix to errors on relic stats page.
+  # (minor) Update to buff warning to put it in a better location and make it more user friendly.
+  # (minor) Fix to kill all monsters toggle from world.
+  # (minor) Minor color fixes on guild list.
 
 ==Revision 44==
-===Major===
-  # Chat box is now fully functional, you can send text to the guild chat.
-===Minor===
-  # Key handling routine is disabled on the page and replicated inside the script.
-  # "0" key works on any screen, effectively either going back to the "world" page or refreshing it.
+  # (Major) Chat box is now fully functional, you can send text to the guild chat.
+  # (minor) Key handling routine is disabled on the page and replicated inside the script.
+  # (minor) "0" key works on any screen, effectively either going back to the "world" page or refreshing it.
 
 ==Revision 43==
-===Minor===
-  # Bugfix for credits
+  # (minor) Bugfix for credits
 
 ==Revision 42==
-===Minor===
-  # Change chat box color each time new messages appear
+  # (minor) Change chat box color each time new messages appear
 
 ==Revision 41==
-===Major===
-  # Chat box displays last 10 (configurable) messages from guild chat (readonly).
-  # Stamina calculator displays estimated time for when stamina will be full.
-===Minor===
-  # Tightened up guild list (to make room for chat box)
-  # Added developer credits and website
+  # (Major) Chat box displays last 10 (configurable) messages from guild chat (readonly).
+  # (Major) Stamina calculator displays estimated time for when stamina will be full.
+  # (minor) Tightened up guild list (to make room for chat box)
+  # (minor) Added developer credits and website
 
 ==Revision 40==
-===Minor===
-  # Bugfix for using only own guild settings for all other cases (friendly, past, enemy)
+  # (minor) Bugfix for using only own guild settings for all other cases (friendly, past, enemy)
 
 ==Revision 39 and older changes==
 (To be tidied up if someone has time and energy).
