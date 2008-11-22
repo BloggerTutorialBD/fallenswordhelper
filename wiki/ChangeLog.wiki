@@ -1,7 +1,10 @@
 #labels Featured
-=Introduction=
+=Change Log=
 
 A version by version list of changes made to the script
+
+==Revision 102 changes===
+  # (minor) Bugfix for fast recall message not showing
 
 ==Revision 100 changes===
   # (Major) Hunting buffs list is now customizable (from Character > Preferences)
@@ -256,4 +259,3 @@ A version by version list of changes made to the script
 
 ==Revision 11 and older==
   # (Major) Creation of the code.google.com project site.
-
