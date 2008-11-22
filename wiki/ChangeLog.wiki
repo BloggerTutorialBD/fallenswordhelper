@@ -3,6 +3,9 @@
 
 A version by version list of changes made to the script
 
+==Revision 97 changes===
+  # (Major) Fix for issue 25, hover your mouse over the battle result to see a hit by hit combat report
+
 ==Revision 95 changes==
   # (minor) Fast recall was not writing return message correctly
   
@@ -248,3 +251,4 @@ A version by version list of changes made to the script
 
 ==Revision 11 and older==
   # (Major) Creation of the code.google.com project site.
+
