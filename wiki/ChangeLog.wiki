@@ -3,6 +3,9 @@
 
 A version by version list of changes made to the script
 
+==Revision 84 changes==
+  # (minor) Removed border for avatar in profile.
+
 ==Revision 82 changes==
   # (minor) Removed option to message yourself in the guild list.
 
