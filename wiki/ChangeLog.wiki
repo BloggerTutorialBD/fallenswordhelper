@@ -3,7 +3,7 @@
 
 ==Revision 109 changes==
   # (Major) More visible combat log (can disable it) that is displayed under the monster list.
-  # (minor) Removed links to search and sell in auction house from guild locked items (issue 5)
+  # (minor) Removed links to search and sell in auction house from guild locked items (issue 5) - bound quest items remain (I don't have any to test)
 
 ==Revision 107 changes==
   # (minor) More information on the combat report mouseover: Chance buffs activated, level up or down message.
