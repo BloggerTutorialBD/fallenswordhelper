@@ -260,7 +260,7 @@
 ===First published version===
   # (Major) When viewing the profile of a user, the name color changes to reflect their guild relationship with your own, green for your own guild, yellow for friendly guilds and gray for enemy guilds.
   # (Major) Displays a list of all members of the guild that are currently online, when at the world or chat pages. You can directly buff a player from that list.
-  # (Major) Extra link buttons to profile page (FallenSword Buffing greasemonkey script)
+  # (Major) Extra link buttons to profile page (Fallen Sword Buffing greasemonkey script)
   # (Major) Extra link buttons for administrative options (for ranking)
   # (Major) When you try to dispose of an item, it retrieves data from the server to find out about the item color, and paints the text of the item with that color. This makes it easy to get rid of e.g. all white (common) items.
   # (Major) Preferences page to setup guild names
