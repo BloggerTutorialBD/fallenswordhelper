@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 116 changes==
+  # (Major) Mouseover the "View Creature" button displays the data that would be retrieved from that page.
+  # (minor) Settings are now properly initialized, in a function instead of relying to variable naming.
+  # (minor) Cleanup of findNode function.
+
 ==Revision 109 changes==
   # (Major) More visible combat log (can disable it) that is displayed under the monster list. Use page up and page down to scroll combat log.
   # (minor) Removed links to search and sell in auction house from guild locked items (issue 5) - bound quest items remain (I don't have any to test)
