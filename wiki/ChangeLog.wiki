@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 118 changes==
+  # (minor) Removed debug code.
+
 ==Revision 116 changes==
   # (Major) Mouseover the "View Creature" button displays the data that would be retrieved from that page.
   # (minor) Settings are now properly initialized, in a function instead of relying to variable naming.
