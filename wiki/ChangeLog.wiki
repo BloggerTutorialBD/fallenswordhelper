@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 144==
+  # (Minor) More updates to the creature evaluator (CA) ... just KE to go.
+
 ==Revision 142==
   # (Minor) More updates to the creature evaluator (DD and HF) ... just CA and KE to go.
 
