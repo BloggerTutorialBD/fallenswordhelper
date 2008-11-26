@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 139==
+  # (Minor) Fixed error with relic calculator. Issue 36
+  # (Minor) More updates to the creature evaluator ... just DD, CA and HF to go.
+
 ==Revision 137==
   # (Major) Displays calculated one-hit damage required into "View Creature" mousover. Issue 35
 
