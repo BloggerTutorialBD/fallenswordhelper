@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 142==
+  # (Minor) More updates to the creature evaluator (DD and HF) ... just CA and KE to go.
+
 ==Revision 139==
   # (Minor) Fixed error with relic calculator. Issue 37
   # (Minor) More updates to the creature evaluator ... just DD, CA and HF to go.
