@@ -1,33 +1,36 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 135===
+==Revision 137==
+  # (Major) Displays calculated one-hit damage required into "View Creature" mousover. Issue 35
+
+==Revision 135==
   # (minor) A bit of browser detection for preferences help.
 
-==Revision 134===
+==Revision 134==
   # (minor) Converted getServer and getImageServer into properties.
 
-==Revision 132===
+==Revision 132==
   # (Major) Inserted character statistics into quick buffs window
   # (minor) Formatted buff list into a table.
 
-==Revision 130===
+==Revision 130==
   # (minor) Streamlined more settings.
 
-==Revision 127===
+==Revision 127==
   # (minor) Added code to fetch buffs to creature evaluation section.
 
-==Revision 125===
+==Revision 125==
   # (minor) Fix to quick buff for Shield Imp.
   # (minor) Initial pass at creature evaluation. Ran out of time so checked in what I have done so far.
   # (minor) Added note to mouseover for what doesn't work for FF2.
 
-==Revision 123===
+==Revision 123==
   # (Major) added list of buffs the player already has to the bottom of the screen. It is not formatted well, but it is there. Also colored any skills at level 10 or less gray. Any skills the target player already has are green. issue 31
   # (minor) fixed the calculation for the number of relics held by the defending guild. issue 32
   # (minor) added a fix for an error I saw (straight return on error), and also removed a duplicate line in the script (didn't cause error, was just duplicate).
 
-==Revision 121===
+==Revision 121==
   # (minor) Optimization for "View Creature" mouseover - don't use when in "kill all" mode.
 
 ==Revision 118 changes==
@@ -45,17 +48,17 @@
 ==Revision 107 changes==
   # (minor) More information on the combat report mouseover: Chance buffs activated, level up or down message.
 
-==Revision 105 changes===
+==Revision 105 changes==
   # (minor) Bugfix for hunting buffs list
 
-==Revision 102 changes===
+==Revision 102 changes==
   # (minor) Bugfix for fast recall message not showing
 
-==Revision 100 changes===
+==Revision 100 changes==
   # (Major) Hunting buffs list is now customizable (from Character > Preferences)
   # (minor) Cleaned up and streamlined help link ("[?]") code
 
-==Revision 97 changes===
+==Revision 97 changes==
   # (Major) Fix for issue 25, hover your mouse over the battle result to see a hit by hit combat report
   # (minor) Preemptive cleanup for FF3 possible issue (using non-unique html element ids)
 
