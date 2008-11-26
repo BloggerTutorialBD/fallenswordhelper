@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 132===
+  # (Major) Inserted character statistics into quick buffs window
+  # (minor) Formatted buff list into a table.
+
 ==Revision 130===
   # (minor) Streamlined more settings.
 
