@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 146==
+  # (Minor) Fixed bug in the creature evaluator when more than one buff was active.
+
 ==Revision 144==
   # (Minor) More updates to the creature evaluator (CA) ... just KE to go.
 
