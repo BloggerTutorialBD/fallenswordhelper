@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 130===
+  # (minor) Streamlined more settings.
+
 ==Revision 127===
   # (minor) Added code to fetch buffs to creature evaluation section.
 
