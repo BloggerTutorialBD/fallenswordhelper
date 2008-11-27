@@ -3,6 +3,7 @@
 
 ==Revision 159==
   # (Major) Guild Advisor is now sortable, by clicking on the columns. Click again to reverse direction (issue 40)
+  # (minor) Cosmetic changes on combat log report.
 
 ==Revision 157==
   # (minor) Fixes for missing quests
