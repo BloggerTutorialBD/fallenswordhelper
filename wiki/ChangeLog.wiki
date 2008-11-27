@@ -2,6 +2,9 @@
 =A version by version list of changes made to the script=
 
 ==Revision 148==
+  # (Minor) Fixed bug in auction code that raised error if there were no unended auctions on the auction page.
+
+==Revision 148==
   # (Minor) Apparently KE is included in the profile attack value so no need to calculate for it. Creature evaluator is complete, just needs testing now. issue 3
 
 ==Revision 146==
