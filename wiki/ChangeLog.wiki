@@ -2,7 +2,7 @@
 =A version by version list of changes made to the script=
 
 ==Revision 152==
-  # (Major) Quest book updated to show level and location of quest. Also, if the full quest book is viewed then you can also see quests you might have missed.
+  # (Major) Quest book updated to show level and location of quest. Also, if the full quest book is viewed then you can also see quests you might have missed. issue 29
 
 ==Revision 148==
   # (Minor) Fixed bug in auction code that raised error if there were no unended auctions on the auction page.
