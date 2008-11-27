@@ -1,7 +1,7 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 148==
+==Revision 152==
   # (Major) Quest book updated to show level and location of quest. Also, if the full quest book is viewed then you can also see quests you might have missed.
 
 ==Revision 148==
