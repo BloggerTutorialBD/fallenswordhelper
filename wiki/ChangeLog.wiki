@@ -1,8 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 157==
+  # (minor) Fixes for missing quests
+
 ==Revision 152==
-  # (Major) Quest book updated to show level and location of quest. Also, if the full quest book is viewed then you can also see quests you might have missed. issue 29
+  # (Major) Quest book updated to show level and location of quest. Also, if the full quest book is viewed then you can also see quests you might have missed (issue 29)
 
 ==Revision 148==
   # (Minor) Fixed bug in auction code that raised error if there were no unended auctions on the auction page.
@@ -11,20 +14,20 @@
   # (Minor) Apparently KE is included in the profile attack value so no need to calculate for it. Creature evaluator is complete, just needs testing now. issue 3
 
 ==Revision 146==
-  # (Minor) Fixed bug in the creature evaluator when more than one buff was active. issue 3
+  # (Minor) Fixed bug in the creature evaluator when more than one buff was active (issue 3)
 
 ==Revision 144==
-  # (Minor) More updates to the creature evaluator (CA) ... just KE to go. issue 3
+  # (Minor) More updates to the creature evaluator (CA) ... just KE to go (issue 3)
 
 ==Revision 142==
-  # (Minor) More updates to the creature evaluator (DD and HF) ... just CA and KE to go. issue 3
+  # (Minor) More updates to the creature evaluator (DD and HF) ... just CA and KE to go (issue 3)
 
 ==Revision 139==
   # (Minor) Fixed error with relic calculator. Issue 37
-  # (Minor) More updates to the creature evaluator ... just DD, CA and HF to go. issue 3
+  # (Minor) More updates to the creature evaluator ... just DD, CA and HF to go (issue 3)
 
 ==Revision 137==
-  # (Major) Displays calculated one-hit damage required into "View Creature" mousover. Issue 35
+  # (Major) Displays calculated one-hit damage required into "View Creature" mousover (issue 35)
 
 ==Revision 135==
   # (minor) A bit of browser detection for preferences help.
@@ -40,16 +43,16 @@
   # (minor) Streamlined more settings.
 
 ==Revision 127==
-  # (minor) Added code to fetch buffs to creature evaluation section. issue 3
+  # (minor) Added code to fetch buffs to creature evaluation section (issue 3)
 
 ==Revision 125==
   # (minor) Fix to quick buff for Shield Imp.
-  # (minor) Initial pass at creature evaluation. Ran out of time so checked in what I have done so far. issue 3
+  # (minor) Initial pass at creature evaluation. Ran out of time so checked in what I have done so far (issue 3)
   # (minor) Added note to mouseover for what doesn't work for FF2.
 
 ==Revision 123==
-  # (Major) added list of buffs the player already has to the bottom of the screen. It is not formatted well, but it is there. Also colored any skills at level 10 or less gray. Any skills the target player already has are green. issue 31
-  # (minor) fixed the calculation for the number of relics held by the defending guild. issue 32
+  # (Major) added list of buffs the player already has to the bottom of the screen. It is not formatted well, but it is there. Also colored any skills at level 10 or less gray. Any skills the target player already has are green (issue 31)
+  # (minor) fixed the calculation for the number of relics held by the defending guild (issue 32)
   # (minor) added a fix for an error I saw (straight return on error), and also removed a duplicate line in the script (didn't cause error, was just duplicate).
 
 ==Revision 121==
