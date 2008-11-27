@@ -1,18 +1,21 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 148==
+  # (Minor) Apparently KE is included in the profile attack value so no need to calculate for it. Creature evaluator is complete, just needs testing now. issue 3
+
 ==Revision 146==
-  # (Minor) Fixed bug in the creature evaluator when more than one buff was active.
+  # (Minor) Fixed bug in the creature evaluator when more than one buff was active. issue 3
 
 ==Revision 144==
-  # (Minor) More updates to the creature evaluator (CA) ... just KE to go.
+  # (Minor) More updates to the creature evaluator (CA) ... just KE to go. issue 3
 
 ==Revision 142==
-  # (Minor) More updates to the creature evaluator (DD and HF) ... just CA and KE to go.
+  # (Minor) More updates to the creature evaluator (DD and HF) ... just CA and KE to go. issue 3
 
 ==Revision 139==
   # (Minor) Fixed error with relic calculator. Issue 37
-  # (Minor) More updates to the creature evaluator ... just DD, CA and HF to go.
+  # (Minor) More updates to the creature evaluator ... just DD, CA and HF to go. issue 3
 
 ==Revision 137==
   # (Major) Displays calculated one-hit damage required into "View Creature" mousover. Issue 35
@@ -31,11 +34,11 @@
   # (minor) Streamlined more settings.
 
 ==Revision 127==
-  # (minor) Added code to fetch buffs to creature evaluation section.
+  # (minor) Added code to fetch buffs to creature evaluation section. issue 3
 
 ==Revision 125==
   # (minor) Fix to quick buff for Shield Imp.
-  # (minor) Initial pass at creature evaluation. Ran out of time so checked in what I have done so far.
+  # (minor) Initial pass at creature evaluation. Ran out of time so checked in what I have done so far. issue 3
   # (minor) Added note to mouseover for what doesn't work for FF2.
 
 ==Revision 123==
