@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 162==
+  # (minor) Removed fallensword forums from the default sites the script should run on.
+
 ==Revision 159==
   # (Major) Guild Advisor is now sortable, by clicking on the columns. Click again to reverse direction (issue 40)
   # (minor) Cosmetic changes on combat log report.
