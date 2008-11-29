@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 164==
+  # (Minor) Added sustain level to quick buff screen. Also changed height of the quick buff popup from the main screen menu and changed current buffs to show in 2 columns (to allow for more screen space). issue 39
+
 ==Revision 162==
   # (minor) Removed fallensword forums from the default sites the script should run on.
 
