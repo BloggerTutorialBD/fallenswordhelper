@@ -2,10 +2,10 @@
 =A version by version list of changes made to the script=
 
 ==Revision 174==
-  # (Minor) Updated bio counter to count carriage returns as double characters.
+  # (Minor) Updated bio counter to count carriage returns as double characters. issue 44
 
 ==Revision 171==
-  # (Minor) Added a character counter to the bio edit page. Also enbiggened the text area you type into.
+  # (Minor) Added a character counter to the bio edit page. Also enbiggened the text area you type into. issue 44
 
 ==Revision 169==
   # (Minor) Fix to layout on the world screen for missing buffs text.
