@@ -2,10 +2,13 @@
 =A version by version list of changes made to the script=
 
 ==Revision 169==
+  # (Minor) Added a character counter to the bio edit page. Also enbiggened the text area you type into.
+
+==Revision 169==
   # (Minor) Fix to layout on the world screen for missing buffs text.
   # (Minor) Potential fix to hide sell and AH link for bound items.
 
-==Revision 166==
+==Revision 167==
   # (Minor) Quest log now shows missing quests before the first one and after the last one. It also shows the next 10 quests for you level after the last one on the page so you can compare with the next page to see missing quests between pages. issue 42
 
 ==Revision 164==
