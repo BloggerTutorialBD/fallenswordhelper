@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 177==
+  # (Minor) Added total bio characters to the update bio screen. issue 44
+
 ==Revision 174==
   # (Minor) Updated bio counter to count carriage returns as double characters. issue 44
 
