@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 179==
+  # (Minor) Fix for bound items so they do not show up for AH or sell. issue 5
+
 ==Revision 177==
   # (Minor) Added total bio characters to the update bio screen. issue 44
 
