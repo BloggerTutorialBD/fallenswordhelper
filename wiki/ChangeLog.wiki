@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 189==
+  # (Minor) Added note to quest book to indicate that if errors are found in the missing quests functionality to report it on the google code page.
+  # (Minor) Added a buff link to the chat page.
+  # (Minor) Added a buff, trade and reply link to the log if someone buffed you. issue 43
+  # (Minor) Changed the coloring on quick recall message.
+
 ==Revision 187==
   # (Major) Changed the quest book functionality so that it shows all missing quests and uncompleted quests on the same page. If the option is turned off, then the quest book shows as normal (except uncompleted quests will show location and level). issue 45
 
