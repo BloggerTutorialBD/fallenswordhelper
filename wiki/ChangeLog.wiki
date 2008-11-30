@@ -2,8 +2,8 @@
 =A version by version list of changes made to the script=
 
 ==Revision 184==
-  # (Minor) Shrunk down some long lines to hopefully avoid the binary problem.
-  # (Minor) Added coloring to the bio character checker to indicate if you go over your max allowable (red color)
+  # (Minor) Shrunk down some long lines to hopefully avoid the binary problem. issue 46
+  # (Minor) Added coloring to the bio character checker to indicate if you go over your max allowable (red color) issue 44
 
 ==Revision 179==
   # (Minor) Fix for bound items so they do not show up for AH or sell. issue 5
