@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 187==
+  # (Major) Changed the quest book functionality so that it shows all missing quests and uncompleted quests on the same page. If the option is turned off, then the quest book shows as normal (except uncompleted quests will show location and level). issue 45
+
 ==Revision 184==
   # (Minor) Shrunk down some long lines to hopefully avoid the binary problem. issue 46
   # (Minor) Added coloring to the bio character checker to indicate if you go over your max allowable (red color) issue 44
