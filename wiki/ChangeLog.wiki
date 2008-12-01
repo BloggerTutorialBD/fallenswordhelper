@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 203==
+  # (minor) Renamed "Auto Kill" to "Quick Kill", as it more properly describes the functionality - nothing auto when you have to press keys.
+
 ==Revision 200==
   # (Major) New functionality on profile page: Inventory Manager. This is a very alpha stage, it just retrieves everythin in your inventory and displays is in a long list. This is supposed to be a more organized table, with several attributes showing for each item, so you can better decide what to wear.
 
