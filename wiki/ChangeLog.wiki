@@ -2,39 +2,39 @@
 =A version by version list of changes made to the script=
 
 ==Revision 189==
-  # (Minor) Added note to quest book to indicate that if errors are found in the missing quests functionality to report it on the google code page.
-  # (Minor) Added a buff link to the chat page.
-  # (Minor) Added a buff, trade and reply link to the log if someone buffed you. issue 43
-  # (Minor) Changed the coloring on quick recall message.
+  # (minor) Added note to quest book to indicate that if errors are found in the missing quests functionality to report it on the google code page.
+  # (minor) Added a buff link to the chat page.
+  # (minor) Added a buff, trade and reply link to the log if someone buffed you. issue 43
+  # (minor) Changed the coloring on quick recall message.
 
 ==Revision 187==
   # (Major) Changed the quest book functionality so that it shows all missing quests and uncompleted quests on the same page. If the option is turned off, then the quest book shows as normal (except uncompleted quests will show location and level). issue 45
 
 ==Revision 184==
-  # (Minor) Shrunk down some long lines to hopefully avoid the binary problem. issue 46
-  # (Minor) Added coloring to the bio character checker to indicate if you go over your max allowable (red color) issue 44
+  # (minor) Shrunk down some long lines to hopefully avoid the binary problem. issue 46
+  # (minor) Added coloring to the bio character checker to indicate if you go over your max allowable (red color) issue 44
 
 ==Revision 179==
-  # (Minor) Fix for bound items so they do not show up for AH or sell. issue 5
+  # (minor) Fix for bound items so they do not show up for AH or sell. issue 5
 
 ==Revision 177==
-  # (Minor) Added total bio characters to the update bio screen. issue 44
+  # (minor) Added total bio characters to the update bio screen. issue 44
 
 ==Revision 174==
-  # (Minor) Updated bio counter to count carriage returns as double characters. issue 44
+  # (minor) Updated bio counter to count carriage returns as double characters. issue 44
 
 ==Revision 171==
-  # (Minor) Added a character counter to the bio edit page. Also enbiggened the text area you type into. issue 44
+  # (minor) Added a character counter to the bio edit page. Also enbiggened the text area you type into. issue 44
 
 ==Revision 169==
-  # (Minor) Fix to layout on the world screen for missing buffs text.
-  # (Minor) Potential fix to hide sell and AH link for bound items.
+  # (minor) Fix to layout on the world screen for missing buffs text.
+  # (minor) Potential fix to hide sell and AH link for bound items.
 
 ==Revision 167==
-  # (Minor) Quest log now shows missing quests before the first one and after the last one. It also shows the next 10 quests for you level after the last one on the page so you can compare with the next page to see missing quests between pages. issue 42
+  # (minor) Quest log now shows missing quests before the first one and after the last one. It also shows the next 10 quests for you level after the last one on the page so you can compare with the next page to see missing quests between pages. issue 42
 
 ==Revision 164==
-  # (Minor) Added sustain level to quick buff screen. Also changed height of the quick buff popup from the main screen menu and changed current buffs to show in 2 columns (to allow for more screen space). issue 39
+  # (minor) Added sustain level to quick buff screen. Also changed height of the quick buff popup from the main screen menu and changed current buffs to show in 2 columns (to allow for more screen space). issue 39
 
 ==Revision 162==
   # (minor) Removed fallensword forums from the default sites the script should run on.
@@ -50,23 +50,23 @@
   # (Major) Quest book updated to show level and location of quest. Also, if the full quest book is viewed then you can also see quests you might have missed (issue 29)
 
 ==Revision 148==
-  # (Minor) Fixed bug in auction code that raised error if there were no unended auctions on the auction page.
+  # (minor) Fixed bug in auction code that raised error if there were no unended auctions on the auction page.
 
 ==Revision 148==
-  # (Minor) Apparently KE is included in the profile attack value so no need to calculate for it. Creature evaluator is complete, just needs testing now. issue 3
+  # (minor) Apparently KE is included in the profile attack value so no need to calculate for it. Creature evaluator is complete, just needs testing now. issue 3
 
 ==Revision 146==
-  # (Minor) Fixed bug in the creature evaluator when more than one buff was active (issue 3)
+  # (minor) Fixed bug in the creature evaluator when more than one buff was active (issue 3)
 
 ==Revision 144==
-  # (Minor) More updates to the creature evaluator (CA) ... just KE to go (issue 3)
+  # (minor) More updates to the creature evaluator (CA) ... just KE to go (issue 3)
 
 ==Revision 142==
-  # (Minor) More updates to the creature evaluator (DD and HF) ... just CA and KE to go (issue 3)
+  # (minor) More updates to the creature evaluator (DD and HF) ... just CA and KE to go (issue 3)
 
 ==Revision 139==
-  # (Minor) Fixed error with relic calculator. Issue 37
-  # (Minor) More updates to the creature evaluator ... just DD, CA and HF to go (issue 3)
+  # (minor) Fixed error with relic calculator. Issue 37
+  # (minor) More updates to the creature evaluator ... just DD, CA and HF to go (issue 3)
 
 ==Revision 137==
   # (Major) Displays calculated one-hit damage required into "View Creature" mousover (issue 35)
