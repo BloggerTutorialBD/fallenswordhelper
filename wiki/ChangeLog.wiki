@@ -1,14 +1,17 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 199==
+  # (Major) New functionality on profile page: Inventory Manager. This is a very alpha stage, it just retrieves everythin in your inventory and displays is in a long list. This is supposed to be a more organized table, with several attributes showing for each item, so you can better decide what to wear.
+
 ==Revision 197==
-  # (Minor) Added Wither potions to the quick search.
+  # (minor) Added Wither potions to the quick search.
 
 ==Revision 195==
-  # (Minor) Fix for Auction House to show the craft level and forge level of the item in the AH.
+  # (minor) Fix for Auction House to show the craft level and forge level of the item in the AH.
 
 ==Revision 193==
-  # (Minor) Fix for issue 30. Removing a space next to next gain broke the fallen sword addon. So removed this previous fix to ensure that the addon still works.
+  # (minor) Fix for issue 30. Removing a space next to next gain broke the fallen sword addon. So removed this previous fix to ensure that the addon still works.
 
 ==Revision 189==
   # (minor) Added note to quest book to indicate that if errors are found in the missing quests functionality to report it on the google code page.
