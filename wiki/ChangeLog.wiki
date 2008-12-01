@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 205==
+  # (Minor) Made the relic defender calculator an on event item so it only calculates if you click the button. issue 54
+
 ==Revision 203==
   # (minor) Renamed "Auto Kill" to "Quick Kill", as it more properly describes the functionality - nothing auto when you have to press keys.
 
