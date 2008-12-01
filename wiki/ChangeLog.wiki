@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 195==
+  # (Minor) Fix for Auction House to show the craft level and forge level of the item in the AH.
+
 ==Revision 193==
   # (Minor) Fix for issue 30. Removing a space next to next gain broke the fallen sword addon. So removed this previous fix to ensure that the add still works.
 
