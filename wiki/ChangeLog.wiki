@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 197==
+  # (Minor) Added Wither potions to the quick search.
+
 ==Revision 195==
   # (Minor) Fix for Auction House to show the craft level and forge level of the item in the AH.
 
