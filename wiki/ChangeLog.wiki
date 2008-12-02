@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 207==
+  # (Minor) Update for issue 55. Added counter to profile screen for the number of allies/enemies you have and the total available (so you can see if you have spare ally/enemy slots you can use.
+
 ==Revision 205==
   # (Minor) Made the relic defender calculator an on event item so it only calculates if you click the button. issue 54
 
