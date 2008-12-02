@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 215==
+  # (Minor) issue 71. Added extra space to our static list of quests to fix HCS error.
+  # (Minor) issue 73. Fixed error on AH preferences page.
+
 ==Revision 213==
   # (Minor) Added debug flag for hiding debug messages when they are not required (meant for developers only).
   # (Minor) issue 65. Fixed code so it does not run on the create auction screen.
