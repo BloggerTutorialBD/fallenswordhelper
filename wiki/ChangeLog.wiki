@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 219==
+  # (Minor) issue 81. Fix for realm page when moving around the world.
+
 ==Revision 217==
   # (Minor) issue 75. Fix for error shows up on login screen.
 
