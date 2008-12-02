@@ -1,6 +1,14 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 213==
+  # (Minor) Added debug flag for hiding debug messages when they are not required (meant for developers only).
+  # (Minor) issue 65. Fixed code so it does not run on the create auction screen.
+  # (Minor) issue 66. Fixed code so it does not run if playerID is not found (i.e. for blank player name). Sustain query will still run though.
+  # (Minor) issue 67. Added option to turn off the guild Online list as requested.
+  # (Minor) issue 62. Fixed the quest that was showing up incorrectly. The quest name shown by HCS has an extra space so I added one to our static list. It should no longer show up.
+  # (Minor) Fixed some instances of cursor setting that were specified incorrectly.
+
 ==Revision 210==
   # (Major) Removed quick kill all functionality.
   # (minor) Fixed medal guide menu.
