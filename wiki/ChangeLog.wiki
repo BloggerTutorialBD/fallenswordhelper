@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 225==
+  # (Major) issue 69. Instant Portal to Krul button added to world screen with warning when clicked.
+  # (Minor) issue 84. Tidied up Fury Caster so that it doesn't add an extra call to the server.
+
 ==Revision 223==
   # (Minor) Added new potions. issue 78. Will not add any more potions - hopefully customizable functionality will be done sometime.
   # (Minor) Added link for Secure Trade to player on profile screen. issue 82.
