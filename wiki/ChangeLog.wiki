@@ -1,23 +1,26 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 221==
+  # (Major) issue 26. Added option to save combat logs and retrieve them from a new page.
+
 ==Revision 219==
-  # (Minor) issue 81. Fix for realm page when moving around the world.
+  # (minor) issue 81. Fix for realm page when moving around the world.
 
 ==Revision 217==
-  # (Minor) issue 75. Fix for error shows up on login screen.
+  # (minor) issue 75. Fix for error shows up on login screen.
 
 ==Revision 215==
-  # (Minor) issue 71. Added extra space to our static list of quests to fix HCS error.
-  # (Minor) issue 73. Fixed error on AH preferences page.
+  # (minor) issue 71. Added extra space to our static list of quests to fix HCS error.
+  # (minor) issue 73. Fixed error on AH preferences page.
 
 ==Revision 213==
-  # (Minor) Added debug flag for hiding debug messages when they are not required (meant for developers only).
-  # (Minor) issue 65. Fixed code so it does not run on the create auction screen.
-  # (Minor) issue 66. Fixed code so it does not run if playerID is not found (i.e. for blank player name). Sustain query will still run though.
-  # (Minor) issue 67. Added option to turn off the guild Online list as requested.
-  # (Minor) issue 62. Fixed the quest that was showing up incorrectly. The quest name shown by HCS has an extra space so I added one to our static list. It should no longer show up.
-  # (Minor) Fixed some instances of cursor setting that were specified incorrectly.
+  # (minor) Added debug flag for hiding debug messages when they are not required (meant for developers only).
+  # (minor) issue 65. Fixed code so it does not run on the create auction screen.
+  # (minor) issue 66. Fixed code so it does not run if playerID is not found (i.e. for blank player name). Sustain query will still run though.
+  # (minor) issue 67. Added option to turn off the guild Online list as requested.
+  # (minor) issue 62. Fixed the quest that was showing up incorrectly. The quest name shown by HCS has an extra space so I added one to our static list. It should no longer show up.
+  # (minor) Fixed some instances of cursor setting that were specified incorrectly.
 
 ==Revision 210==
   # (Major) Removed quick kill all functionality.
