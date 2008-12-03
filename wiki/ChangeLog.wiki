@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 231==
+  # (minor) Fixed issue 70, chat is no longer moved to the end when guild list is disabled.
+
 ==Revision 229==
   # (minor) Moved inventory manager to its own menu (not working yet).
 
