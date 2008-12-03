@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 237==
+  # (Minor) issue 51. Fix for DD damage bonus %. Typo.
+
 ==Revision 235==
   # (Minor) issue 51. Added kill streak to the world screen if DD buff is active.
   # (Minor) issue 92. Minor error on log screen if player has no guild.
