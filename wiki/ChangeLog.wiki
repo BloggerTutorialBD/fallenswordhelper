@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 229==
+  # (minor) Moved inventory manager to its own menu (not working yet).
+
 ==Revision 227==
   # (Major) issue 26. Saved combat logs are now easy to copy and process with any external program.
 
