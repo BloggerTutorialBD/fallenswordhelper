@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 223==
+  # (Minor) Added new potions. issue 78. Will not add any more potions - hopefully customizable functionality will be done sometime.
+  # (Minor) Added link for Secure Trade to player on profile screen. issue 82.
+  # (Minor) Added Fury Caster Level to quick buff screen. issue 77.
+
 ==Revision 221==
   # (Major) issue 26. Added option to save combat logs and retrieve them from a new page.
 
