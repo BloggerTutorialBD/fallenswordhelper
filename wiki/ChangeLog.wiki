@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 239==
+  # (Minor) Crude but effective Quick Plant Search added. issue 80.
+
 ==Revision 237==
   # (Minor) issue 51. Fix for DD damage bonus %. Typo.
 
