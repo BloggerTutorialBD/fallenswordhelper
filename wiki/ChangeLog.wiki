@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 251==
+  # (minor) Fixed "Extinguish  the Lights" in the quest list (issue 72)
+
 ==Revision 249==
   # (minor) Added secure trade on the list of actions you can do to a player in the logs.
 
