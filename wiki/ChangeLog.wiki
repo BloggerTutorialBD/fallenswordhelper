@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 241==
+  # (Major) issue 91. Bio and History editors now have preview panes as you type.
+
 ==Revision 239==
   # (Minor) Crude but effective Quick Plant Search added. issue 80.
 
