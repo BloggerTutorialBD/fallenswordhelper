@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 247==
+  # (Major) New functionality to be able to move from the map (by using the normal keyboard shortcuts)
+
 ==Revision 245==
   # (minor) Fixed potential problem with auto update using cached values
   # (minor) Fixed potential problem with alternate log (issue 26)
