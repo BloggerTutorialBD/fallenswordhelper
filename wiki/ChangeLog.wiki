@@ -1,22 +1,25 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 243==
+  # (Major) Fixed problem with auto update.
+
 ==Revision 241==
   # (Major) issue 91. Bio and History editors now have preview panes as you type.
 
 ==Revision 239==
-  # (Minor) Crude but effective Quick Plant Search added. issue 80.
+  # (minor) Crude but effective Quick Plant Search added. issue 80.
 
 ==Revision 237==
-  # (Minor) issue 51. Fix for DD damage bonus %. Typo.
+  # (minor) issue 51. Fix for DD damage bonus %. Typo.
 
 ==Revision 235==
-  # (Minor) issue 51. Added kill streak to the world screen if DD buff is active.
-  # (Minor) issue 92. Minor error on log screen if player has no guild.
+  # (minor) issue 51. Added kill streak to the world screen if DD buff is active.
+  # (minor) issue 92. Minor error on log screen if player has no guild.
 
 ==Revision 233==
-  # (Minor) issue 68. Counter for guild history the same as on the update bio screen.
-  # (Minor) issue 72. Update so that quests with double spaces will not show up incorrectly. Also fixed two quests where the name is changed from that on the screen.
+  # (minor) issue 68. Counter for guild history the same as on the update bio screen.
+  # (minor) issue 72. Update so that quests with double spaces will not show up incorrectly. Also fixed two quests where the name is changed from that on the screen.
 
 ==Revision 231==
   # (minor) Fixed issue 70, chat is no longer moved to the end when guild list is disabled.
@@ -29,12 +32,12 @@
 
 ==Revision 225==
   # (Major) issue 69. Instant Portal to Krul button added to world screen with warning when clicked.
-  # (Minor) issue 84. Tidied up Fury Caster so that it doesn't add an extra call to the server.
+  # (minor) issue 84. Tidied up Fury Caster so that it doesn't add an extra call to the server.
 
 ==Revision 223==
-  # (Minor) Added new potions. issue 78. Will not add any more potions - hopefully customizable functionality will be done sometime.
-  # (Minor) Added link for Secure Trade to player on profile screen. issue 82.
-  # (Minor) Added Fury Caster Level to quick buff screen. issue 77.
+  # (minor) Added new potions. issue 78. Will not add any more potions - hopefully customizable functionality will be done sometime.
+  # (minor) Added link for Secure Trade to player on profile screen. issue 82.
+  # (minor) Added Fury Caster Level to quick buff screen. issue 77.
 
 ==Revision 221==
   # (Major) issue 26. Added option to save combat logs and retrieve them from a new page.
