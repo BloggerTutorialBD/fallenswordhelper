@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 249==
+  # (minor) Added secure trade on the list of actions you can do to a player in the logs.
+
 ==Revision 247==
   # (Major) New functionality to be able to move from the map (by using the normal keyboard shortcuts)
 
