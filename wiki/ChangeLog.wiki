@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 253==
+  # (Major) New feature: Quest Manager displays all quests in one big sortable table, with levels and locations.
+
 ==Revision 251==
   # (minor) Fixed "Extinguish  the Lights" in the quest list (issue 72)
 
