@@ -7,7 +7,7 @@
   # (Minor) issue 49. Added forward and back arrorws to top of auction screen. Also added element to allow you to hide auction text.
   # (Minor) issue 64. Added links to quest manager screen (for quests you have).
   # (Minor) issue 69. Added debug messages to help fix instant portal to krul.
-  # (Minor) Added extra &lt;br&gt; to the auction house screen to help avoid clicking bid link when trying to click on prev bidder name.
+  # (Minor) Added extra <br> to the auction house screen to help avoid clicking bid link when trying to click on prev bidder name.
 
 ==Revision 255==
   # (minor) Added an icon to quest manager for missings quests, and used the option to hide completed quests.
