@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 255==
+  # (minor) Added an icon to quest manager for missings quests, and used the option to hide completed quests.
+
 ==Revision 253==
   # (Major) New feature: Quest Manager displays all quests in one big sortable table, with levels and locations.
 
