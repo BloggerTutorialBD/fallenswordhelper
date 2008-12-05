@@ -1,6 +1,14 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 257==
+  # (Minor) issue 100. world screen updates happen on visit to blacksmith for repairs.
+  # (Minor) issue 51. Fix to only check for kill streak if your imp disappears or if you have no imp and your damage bonus is less than 20%.
+  # (Minor) issue 49. Added forward and back arrorws to top of auction screen. Also added element to allow you to hide auction text.
+  # (Minor) issue 64. Added links to quest manager screen (for quests you have).
+  # (Minor) issue 69. Added debug messages to help fix instant portal to krul.
+  # (Minor) Added extra &lt;br&gt; to the auction house screen to help avoid clicking bid link when trying to click on prev bidder name.
+
 ==Revision 255==
   # (minor) Added an icon to quest manager for missings quests, and used the option to hide completed quests.
 
