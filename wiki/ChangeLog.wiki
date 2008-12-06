@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 267==
+  # (Minor) Update for Inventory Manager. issue 116 where empty bags and bags with just potions or quest items were not being processed properly. Also fixed it so some error messages shouldn't happen erroneously.
+  # (Minor) Fix for the double spaces in the quest manager and links to fallenswordguide.
+
 ==Revision 265==
   # (minor) Added guild store to inventory manager.
 
