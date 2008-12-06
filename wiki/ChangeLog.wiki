@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 261==
+  # (Minor) issue 69. I think I might have fixed this now. It now saves your special link on the preferences page and uses it on the world page.
+  # (Minor) issue 102. Added link to Fallen Sword Guide.
+  # (Minor) issue 106. Updated code so it only checks for allies/enemies total updates when you visit the point screen. Saves a page fetch.
+
 ==Revision 257==
   # (Minor) issue 100. world screen updates happen on visit to blacksmith for repairs.
   # (Minor) issue 51. Fix to only check for kill streak if your imp disappears or if you have no imp and your damage bonus is less than 20%.
