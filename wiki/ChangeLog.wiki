@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 277==
+  # (Minor) issue 127. Added counter of guild items to guild inventory page.
+  # (Minor) issue 121. Added link to wiki site to quest manager.
+  # (Minor) issue 120. Prevent double relic or group stats by hiding button after use.
+  # (Minor) issue 128. added onmouseover, forge level and craft level to the personal and guild inventory managers.
+
 ==Revision 275==
   # (minor) Fixed problem with AH paging
 
