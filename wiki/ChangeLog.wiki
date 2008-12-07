@@ -1,12 +1,15 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 271==
+  # (minor) issue 114. Added go to first and last page in AH.
+
 ==Revision 269==
   # (Major) Separated inventory manager into two parts. A personal inventory manager and a guild inventory manager. I could see that players that belong to large guilds would have issues with the way the old implementation worked. It still needs tweaks (sorts, more data, etc), but it is getting there.
 
 ==Revision 267==
-  # (Minor) Update for Inventory Manager. issue 116 where empty bags and bags with just potions or quest items were not being processed properly. Also fixed it so some error messages shouldn't happen erroneously.
-  # (Minor) Fix for the double spaces in the quest manager and links to fallenswordguide.
+  # (minor) Update for Inventory Manager. issue 116 where empty bags and bags with just potions or quest items were not being processed properly. Also fixed it so some error messages shouldn't happen erroneously.
+  # (minor) Fix for the double spaces in the quest manager and links to fallenswordguide.
 
 ==Revision 265==
   # (minor) Added guild store to inventory manager.
