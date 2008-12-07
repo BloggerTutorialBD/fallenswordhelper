@@ -1,8 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 275==
+  # (minor) Fixed problem with AH paging
+
 ==Revision 273==
-  # (Minor) Added sorting for both inventory managers. issue 118.
+  # (minor) Added sorting for both inventory managers. issue 118.
 
 ==Revision 271==
   # (minor) issue 114. Added go to first and last page in AH.
