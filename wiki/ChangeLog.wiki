@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 281==
+  # (Minor) issue 129. Added Online status checker for top 250 players. Checks each of the guilds on the page to fetch which players are online and then adds the online icon from the guild page to the top 250 page. You have to press a button to trigger it. Takes a few seconds (5-10ish) but not too bad.
+
 ==Revision 279==
   # (Minor) Fix for guild inventory if you haven't already retrieved guild data. issue 127 .
 
