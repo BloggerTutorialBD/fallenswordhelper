@@ -1,17 +1,20 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 283==
+  # (minor) Fixed XSS bug on chat.
+
 ==Revision 281==
-  # (Minor) issue 129. Added Online status checker for top 250 players. Checks each of the guilds on the page to fetch which players are online and then adds the online icon from the guild page to the top 250 page. You have to press a button to trigger it. Takes a few seconds (5-10ish) but not too bad.
+  # (minor) issue 129. Added Online status checker for top 250 players. Checks each of the guilds on the page to fetch which players are online and then adds the online icon from the guild page to the top 250 page. You have to press a button to trigger it. Takes a few seconds (5-10ish) but not too bad.
 
 ==Revision 279==
-  # (Minor) Fix for guild inventory if you haven't already retrieved guild data. issue 127 .
+  # (minor) Fix for guild inventory if you haven't already retrieved guild data. issue 127 .
 
 ==Revision 277==
-  # (Minor) issue 127. Added counter of guild items to guild inventory page.
-  # (Minor) issue 121. Added link to wiki site to quest manager.
-  # (Minor) issue 120. Prevent double relic or group stats by hiding button after use.
-  # (Minor) issue 128. added onmouseover, forge level and craft level to the personal and guild inventory managers.
+  # (minor) issue 127. Added counter of guild items to guild inventory page.
+  # (minor) issue 121. Added link to wiki site to quest manager.
+  # (minor) issue 120. Prevent double relic or group stats by hiding button after use.
+  # (minor) issue 128. added onmouseover, forge level and craft level to the personal and guild inventory managers.
 
 ==Revision 275==
   # (minor) Fixed problem with AH paging
