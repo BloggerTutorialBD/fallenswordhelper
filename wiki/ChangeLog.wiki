@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 286==
+  # (Minor) issue 101. Fixed it so that player should color correctly every time on the world screen ... let me know if anyone sees different.
+  # (Minor) issue 72. Finally fixed the quests with the double spaces? Time will tell. Let me know if anyone sees any errors.
+  # (Minor) issue 134. Fixed kill streak counter on world screen and tested it while hunting.
+
 ==Revision 283==
   # (minor) Fixed XSS bug on chat.
 
