@@ -1,11 +1,15 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 292==
+  # (minor) Fixed wording for administrative options help (issue 130).
+
 ==Revision 290==
-  # (Major) Added option to remove "new?" box (to gain some space) (issue 123).
+  # (minor) Added option to remove "new?" box (to gain some space) (issue 123).
 
 ==Revision 288==
-  # (Major) Added option to move the FSbox on the left (for higher visibility).
+  # (minor) Added option to move the FSbox on the left (for higher visibility).
+  # (minor) Added option to remove hunting buffs (just enter an empty value to the hunting buffs preference).
 
 ==Revision 286==
   # (minor) issue 101. Fixed it so that player should color correctly every time on the world screen ... let me know if anyone sees different.
