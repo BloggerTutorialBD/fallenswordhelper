@@ -1,14 +1,17 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 298==
+  # (minor) Hunting buffs are now enabled/disabled with a checkbox, so you can keep your settings (issue 90).
+
 ==Revision 296==
-  # (Minor) issue 136. Fix to fury caster. Grabs the value from your profile rather than looking at the level of the Fury Shrine in your guild.
-  # (Minor) Set the default for the log coloring to true (because I think it is cool and I think many are missing out on this cool function).
-  # (Minor) Added a control to the Profile>Manage and Guild>Manage page to enable players to turn off the AH and Sell links on this page. Can't find the issue for this one though.
+  # (minor) issue 136. Fix to fury caster. Grabs the value from your profile rather than looking at the level of the Fury Shrine in your guild.
+  # (minor) Set the default for the log coloring to true (because I think it is cool and I think many are missing out on this cool function).
+  # (minor) Added a control to the Profile>Manage and Guild>Manage page to enable players to turn off the AH and Sell links on this page. Can't find the issue for this one though.
 
 ==Revision 294==
-  # (Minor) Fix for script if FS box is hidden. (issue 137)
-  # (Minor) Fix for quick buff if New box is hidden. (issue 138)
+  # (minor) Fix for script if FS box is hidden. (issue 137)
+  # (minor) Fix for quick buff if New box is hidden. (issue 138)
 
 ==Revision 292==
   # (minor) Fixed wording for administrative options help (issue 130).
