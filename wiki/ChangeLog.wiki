@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 294==
+  # (Minor) Fix for script if FS box is hidden. (issue 137)
+  # (Minor) Fix for quick buff if New box is hidden. (issue 138)
+
 ==Revision 292==
   # (minor) Fixed wording for administrative options help (issue 130).
 
