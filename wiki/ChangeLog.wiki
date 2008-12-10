@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 302==
+  # (Minor) Removed the injectDropItemsAuction function and merged its functions in to injectDropItems. There was no reasons to have this split.
+  # (Minor) Added functionality to check all items of the same type. issue 103.
+  # (Minor) Fixed inventory manager if you have more than one backpack. issue 132.
+  # (Minor) Added indicator of the min join level you have set for you groups on the group page. issue 131.
+
 ==Revision 300==
   # (minor) Addition to credits.
 
