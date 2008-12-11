@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 304==
+  # (Minor) Fixed bug if target had Summon Shield Imp on for the Quick buff menu.
+  # (Minor) Defaulted the links in the drop item section to on.
+
 ==Revision 302==
   # (Minor) Removed the injectDropItemsAuction function and merged its functions in to injectDropItems. There was no reasons to have this split.
   # (Minor) Added functionality to check all items of the same type. issue 103.
