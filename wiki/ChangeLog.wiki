@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 312==
+  # (Major) issue 152. Added recipe manager along with options to hide recipes.
+  # (Minor) issue 153. Fixed mouseover in AH saying "auctionTable".
+
 ==Revision 308==
   # (minor) Streamlined default initial settings.
   # (Major) Added option to hide individual quests, configurabe from preferences. Issue 105.
