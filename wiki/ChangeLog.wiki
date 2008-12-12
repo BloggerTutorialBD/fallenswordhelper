@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 314==
+  # (Minor) issue 150. Hiding buffs from quick buff window ...anything lower than 75 will be grayed, other than CA and QF.
+  # (Minor) issue 151. Included item name as secondary sort
+  # (Minor) issue 153. Fixed auctionTable mouseover  ... again.
+
 ==Revision 312==
   # (Major) issue 152. Added recipe manager along with options to hide recipes.
   # (Minor) issue 153. Fixed mouseover in AH saying "auctionTable".
