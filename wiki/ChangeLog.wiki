@@ -2,6 +2,10 @@
 =A version by version list of changes made to the script=
 
 ==Revision 308==
+  # (minor) Streamlined default initial settings.
+  # (Major) Added option to hide individual quests, configurabe from preferences. Issue 105.
+
+==Revision 308==
   # (minor) Added HTTP referred to all asynchronous XMLHTTP, so that HCS can have more correct statistics.
 
 ==Revision 306==
