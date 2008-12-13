@@ -1,17 +1,23 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 318==
+  # (Major) Added next level calculator, based only on level gain. (issue ??)
+  # (minor) Fixed error for upper "go to page" control not working in auction house (issue ???)
+  # (minor) Aesthetic fix for quick kill style in the world page, when it is set to off.
+  # (minor) Standardized the date formatting.
+
 ==Revision 316==
-  # (Minor) Bug fix for when player has a number as part of their name.
+  # (minor) Bug fix for when player has a number as part of their name.
 
 ==Revision 314==
-  # (Minor) issue 150. Hiding buffs from quick buff window ...anything lower than 75 will be grayed, other than CA and QF.
-  # (Minor) issue 151. Included item name as secondary sort
-  # (Minor) issue 153. Fixed auctionTable mouseover  ... again.
+  # (minor) issue 150. Hiding buffs from quick buff window ...anything lower than 75 will be grayed, other than CA and QF.
+  # (minor) issue 151. Included item name as secondary sort
+  # (minor) issue 153. Fixed auctionTable mouseover  ... again.
 
 ==Revision 312==
   # (Major) issue 152. Added recipe manager along with options to hide recipes.
-  # (Minor) issue 153. Fixed mouseover in AH saying "auctionTable".
+  # (minor) issue 153. Fixed mouseover in AH saying "auctionTable".
 
 ==Revision 308==
   # (minor) Streamlined default initial settings.
