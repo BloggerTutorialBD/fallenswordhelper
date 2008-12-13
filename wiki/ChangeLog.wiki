@@ -3,7 +3,7 @@
 
 ==Revision 318==
   # (Major) Added next level calculator, based only on level gain. (issue ??)
-  # (minor) Fixed error for upper "go to page" control not working in auction house (issue ???)
+  # (minor) Fixed error for upper "go to page" control not working in auction house (issue 144)
   # (minor) Aesthetic fix for quick kill style in the world page, when it is set to off.
   # (minor) Standardized the date formatting.
 
