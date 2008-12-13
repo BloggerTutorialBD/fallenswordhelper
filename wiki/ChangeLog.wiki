@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 316==
+  # (Minor) Bug fix for when player has a number as part of their name.
+
 ==Revision 314==
   # (Minor) issue 150. Hiding buffs from quick buff window ...anything lower than 75 will be grayed, other than CA and QF.
   # (Minor) issue 151. Included item name as secondary sort
