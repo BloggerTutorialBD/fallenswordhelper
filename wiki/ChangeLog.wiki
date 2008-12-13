@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 320==
+  # (Minor) Somehow spaces got turned into funky characters on checkin.
+
 ==Revision 318==
   # (Major) Added next level calculator, based only on level gain. (issue 15)
   # (minor) Fixed error for upper "go to page" control not working in auction house (issue 144)
