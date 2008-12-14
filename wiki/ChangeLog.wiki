@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 327==
+  # (minor) Fix to prevent sending a message to chat multiple times.
+
 ==Revision 325==
   # (Major) Added AH search for relevant plant from inventing screen.
 
