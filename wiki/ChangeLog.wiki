@@ -2,7 +2,7 @@
 =A version by version list of changes made to the script=
 
 ==Revision 331==
-  # (Major) Reorganization of the whole script to split it to several smaller ones (more manageable).
+  # (Major) Started reorganization of the whole script to split it to several smaller ones (more manageable).
 
 ==Revision 327==
   # (minor) Fix to prevent sending a message to chat multiple times.
