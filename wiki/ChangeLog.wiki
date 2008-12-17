@@ -1,7 +1,7 @@
 #labels Featured
 =A version by version list of changes made to the script=
 ==Revision 343==
-  # (Really Major) Very first edition of SigmaStorm 2 Helper! Also some serious
+  # (Really Major) Very first edition of Sigma Storm 2 Helper! Also some serious
 reorg. This is definitely very very buggy right now, but some stuff do work.
 
 ==Revision 341==
