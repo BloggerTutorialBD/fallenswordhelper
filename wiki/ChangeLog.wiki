@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 350==
+  # (minor) More script reorganization.
+  # (minor) Fixed quest sorting (issue 179)
+
 ==Revision 345==
   # (minor) Fixed autoupdate link for Sigma Storm 2 helper.
 
