@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 357==
+  # (minor) Fixed minimum raise on FSP auctions (issue 183)
+
+==Revision 356==
+  # (minor) Fixed problem with fast recall not working (issue 184)
+
 ==Revision 354==
   # (minor) Script reorganization
 
