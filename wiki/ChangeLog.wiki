@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 359==
+  # (minor) Kill streak damage percent rounded to 2 decimal digits (issue 163)
+
 ==Revision 357==
   # (minor) Fixed minimum raise on FSP auctions (issue 183)
 
