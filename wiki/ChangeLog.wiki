@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 362==
+  # (Minor) issue 190. Fix for all instances where number might have more than one comma in it.
+
 ==Revision 359==
   # (minor) Kill streak damage percent rounded to 2 decimal digits (issue 163)
 
