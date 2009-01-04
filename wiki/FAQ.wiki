@@ -1,6 +1,10 @@
 #labels Featured
 = Frequently Asked Questions =
 
+Q: How does quick kill work?
+
+A: It's quite easy. When "single" is selected, keys 1-8 on the keyboard kill creatures without displaying a different page. The battle result is displayed in place, and details are displayed when you mouse over the result. When you select "type", this works the same as "single", except that all creatures of the same name (out of the 8 creatures displayed, of course) are also killed.
+----
 Q: What are the numbers in parentheses at the right of the gold gained? (e.g. "XP:123 Gold:91 (23)")
 
 A: This is the guild tax, the money that goes to the guild.
