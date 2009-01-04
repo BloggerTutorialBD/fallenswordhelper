@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 368==
+  # (minor) More code reorganization.
+
+==Revision 367==
+  # (minor) Code reorganization, streamlined some number parsing code.
+
 ==Revision 365==
   # (minor) Fixed issue 194 - recipe manager not working.
 
