@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 372==
+  # (minor) Guild inventory now correctly shows guild menu on the left.
+
 ==Revision 370==
   # (minor) Added "Lead Astray" to quest list (issue 72 / issue 187).
 
