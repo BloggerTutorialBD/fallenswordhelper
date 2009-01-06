@@ -1,6 +1,17 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 376===
+  # (minor) Fixed casing of ToggleFootprints element id
+  # (minor) Code Cleanup
+
+==Revision 375===
+  # (minor) Sync sigmastorm helper
+
+==Revision 374===
+  # (Major) New feature: Footprints. When you select the checkbox under the map, you can see where you've been (useful to track down creatures)
+  # (minor) Code cleanup
+
 ==Revision 372==
   # (minor) Guild inventory now correctly shows guild menu on the left.
 
