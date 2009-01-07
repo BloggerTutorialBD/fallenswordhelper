@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 382===
+r380 changes also made to sigma storm helper.
+
 ==Revision 380===
 By request of HCS ... two "automation" items have been removed.
   # (Minor) Script no longer does an auto repair, player must manually repair gear.
