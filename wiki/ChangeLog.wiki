@@ -2,12 +2,12 @@
 =A version by version list of changes made to the script=
 
 ==Revision 382===
-r380 changes also made to sigma storm helper.
+  # r380 changes also made to sigma storm helper.
 
 ==Revision 380===
 By request of HCS ... two "automation" items have been removed.
-  # (Minor) Script no longer does an auto repair, player must manually repair gear. issue 205
-  # (Minor) Script no longer allows a one click overbid, however still displays the 5% overbid value that players must type in manually. issue 206
+  # (minor) Script no longer does an auto repair, player must manually repair gear. issue 205
+  # (minor) Script no longer allows a one click overbid, however still displays the 5% overbid value that players must type in manually. issue 206
 
 ==Revision 376===
   # (minor) Fixed casing of ToggleFootprints element id

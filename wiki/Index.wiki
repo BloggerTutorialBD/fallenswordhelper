@@ -5,34 +5,86 @@ Fallen Sword Helper is a Greasemonkey script meant to enhance the experience of 
 
 = Disclaimer =
 
-This is a personal project, which I created just for fun. Of course I was happily surprised that quite a lot of people seem to like it, even contribute to it. I'm in no way affiliated with Hunted Cow Studios (creators of Fallen Sword) nor do I have any claims on the trademark - after all Fallen Sword Helper only exists under the wings of Fallen Sword :). This project is funded out of my personal time and done solely as a hobby, so (a) don't make irrational demands (b) don't offer me money, FSP or Gold (it would make me feel very awkward). If you come across me at the game, I would of course appreciate if you didn't attack me, or an occasional buff, but don't feel I'm entitled to any special treatment because of the script. That being said, I really (I mean _really_ - it makes my day) appreciate any other form of admiration, such as PMs or comments on this site :). Also, as you can see changes are (at least for now) very frequent.
+This is a personal project, which I created just for fun. Of course I was happily surprised that quite a lot of people seem to like it, even contribute to it. I'm in no way affiliated with Hunted Cow Studios (creators of Fallen Sword) nor do I have any claims on the trademark - after all Fallen Sword Helper only exists under the wings of Fallen Sword :). This project is funded out of my personal time and done solely as a hobby, so (a) don't make irrational demands (b) don't offer me money (I already have a day job :)). If you come across me at the game, I would of course appreciate if you didn't attack me, or an occasional buff, but don't feel I'm entitled to any special treatment because of the script. That being said, I really (I mean _really_ - it makes my day) appreciate any other form of admiration, such as PMs or comments on this site :). Also, as you can see changes are (at least for now) very frequent.
 
 = Features =
 
-Actually, since features are added very frequently, there may be a lot more than those described below. Perhaps you're better off reading the ChangeLog.
+Actually, since features are added very frequently, there may be a lot more than those described below. Perhaps you're better off reading the ChangeLog. I have consolidated everything from the changelog up to now. This is based on revision 382.
 
-  # Holds a list with the current guild, friendly guilds, old guilds and enemy guilds, so that when you see a profile for member of either guild, a message appears under their name (color and message are customizable).
+== Layout and coloring ==
+  # When viewing the profile of a user, the name color changes to reflect their guild relationship with your own, green for your own guild, yellow for friendly guilds and gray for enemy guilds.
+  # When you try to dispose of an item, it retrieves data from the server to find out about the item color, and paints the text of the item with that color. This makes it easy to get rid of e.g. all white (common) items.
+  # The logs (chat, character log and guild log) are colored based on the age of the message. New messages since your last visit are yellow background, messages older than 20 minutes will have a brown background.
+  # Option in guild log chat to dim recall messages not associated with self.
+  # Option to move the FSbox on the left (for higher visibility).
+  # Option to remove "new?" box (to gain some space).
+  # Option to hide guild avatar (logo).
+  # Option to hide extra guild info.
+  # Option to hide banner.
+  # Guild Advisor is sortable, by clicking on the columns. Click again to reverse direction.
+  # On the player log screen, guildmates are colored green.
+
+== Quick links ==
+  # A list of all members of the guild that are currently online is displayed. You can directly buff a player from that list. Any player that has logged in in the last 15 seconds or so, is displayed in yellow (the guild list is not retrieved from server if it has been updated less than 15 seconds ago).
   # A chat box is displayed, with the latest 10 (configurable - set to 0 to disable) chat messages. This only updates when needed.
-  # When you try to dispose of an item (optionally), it retrieves data from the server to find out about the item color, and paints the text of the item with that color. This makes it easy to get rid of e.g. all white (common) items. There's even an option to disable this.
-  # Displays a list of all members of the guild that are currently online, when at the world or chat pages. You can directly buff a player from that list. Any player that has logged in in the last 15 seconds or so, is displayed in yellow (in order to reduce the calls to the server, I don't update the guild list if it has been updated less than 15 seconds ago).
-  # I also incorporated the code and functionality from Fallensword Buffing, with a bit of extra functionality for guild administrators.
-  # Optionally (go to Character > Preferences to enable this) kills all monsters on the spot.
-  # In guild management report page, the list of guild members is used to show which members are online.
-  # In auction house pages, text about the offered item is automatically retrieved.
-  # In guild groups page, statistics about each group are automatically retrieved. Also the level of the group creator.
-  # You can hide the top banner and some guild info (to get to the "good part").
-  # You can see shield imps and if you're missing hunting buffs at the world page.
-  # You can see relic notification when you're about to capture a relic.
-  # There is a relic defender calculator, that does everything except check for inactive players.
-  # The logs are colored based on the age of the message. New messages since your last visit are yellow background, messages older than 20 minutes will have a brown background. This works for guild chat, guild log and player chat.
-  # On the player log screen, it adds a link to trade with the player between Reply and Buff. It also colors guildmate names green.
-  # When on the drop item page, you can immediately search the item in the auction house, or even sell it.
+  # Link to guild bank from personal bank.
+  # Extra link buttons to profile page to buff player, see their actions or start a secure trade with them.
+  # Extra link buttons to rank a player (for guild founders) in player profile page.
+  # Added link to message logs to trade, or secure trade with the player that sent the message.
+  # Instant Portal to Krul button added to world screen with warning when clicked.
+  # Link for medal guide.
+  # Added fast recall function to guild>report page to recall items without a page refresh.
+  # Online status checker for top 250 players. Checks each of the guilds on the page to fetch which players are online and then adds the online icon from the guild page to the top 250 page. You have to press a button to trigger it. Takes a few seconds (5-10ish) but not too bad.
+  # Links to quick buff a player are added to most places.
+  # You can also move around from the map (of course you won't be able to kill anything, or go to another level - it's just meant as a shortcut).
+
+== Extra Information ==
+  # Stamina calculator displays estimated time for when stamina will be full.
+  # Quest book has been updated to show level and location of each quest, (optionally) hide completed quests, and even show quests you might have missed.
+  # The quickbuff window displays character statistics of the player being buffed, their current buffs, and last activity. Your low level skills will be displayed in gray.
+  # Combat group statistics are automatically (when pressing a button) displayed on Groups page. They include any mercenaries, the level of the group creator, and the minimum level you need to join.
+  # Creature evaluator displays several statistics when on the "View Creature" page, effectively calculating a probability of winning or losing. Several buffs are also used for the calculation.
+  # Added counter to profile screen for the number of allies/enemies you have and the total available (so you can see if you have spare ally/enemy slots you can use.
+  # In guild management report (recall) page, the list of guild members is used to show which members are online.
+  # A relic defender calculator is displayed, when you're about to capture a relic, that does everything except check for inactive players.
+  # There's an option to save (keep) combat logs and retrieve them from a new page.
+  # Bio and History editors now have preview panes as you type, complete with total allowable bio characters (that turn red when you exceed them)
   # On the questbook page all completed quests are hidden and all incomplete quests from other pages are also loaded and displayed (optional).
-  # Mouseover for stamina also shows when stamina will be full.
-  # Improved kill functionality - you can optionally kill monsters as usual but with no new page opening, kill all monsters of a single type, or kill every monster on the square you just moved to.
-  # Since I had to disable and replicate the default keypress functionality, now you can press "0" to refresh the world at any point. Also arrow keys (when nothing is selected) work as they should
-  # The preferences page have some mouseover help.
-  # Finally, it is able to auto update itself (it checks once a day or you can check manually).
+  # Displays calculated one-hit damage required into "View Creature" mousover.
+
+== Action House ==
+  # Auction house displays item craft and hellforge attributes.
+  # In auction house pages, text about the offered item is automatically retrieved.
+  # Auction one click bid and buyout functionality added. You can now bid on or buyout an item with one click. If there is already a bid, the required outbid value is displayed.
+  # Quick Potion Search function added to auction screen that puts one click links for searching for popular higher level potions.
+  # When on the drop item page, you can immediately search the item in the auction house, or even sell it.
+  # Show links in the drop items page to search item in Auction House.
+  # Added navigation to top of auction screen for Auction House. Also added buttons to go to first and last page, and ability to hide auction text.
+  # Crude but effective Quick Plant Search added.
+  # Added AH search for relevant plant from inventing screen.
+
+== New screens ==
+  # Quest Manager displays all quests in one big sortable table, with levels and locations, and also to wiki.fallensword.com and fallen sword guide.
+  # Personal and Guild Inventory Managers displays all items worn or in backpack (for personal IM) or in guild store or worn by members (for guild IM) with their respective bonuses (attack, defense, damage, armor). You can now better decide what to wear
+  # Recipe manager along with options to hide recipes.
+
+== World Additions ==
+  # Footprints functionality. When you select the checkbox under the map, you can see where you've been (useful to track down creatures)
+  # Quick Kill functionality - you can optionally kill monsters as usual but with no new page opening or even quick kill all monsters of a single type.
+  # In quick kill, you can hover you mouse over the battle result to see a hit by hit combat report.
+  # In quick kill, any looted item is also displayed.
+  # You can see shield imps and if you're missing hunting buffs at the world page. Hunting buff list is customizable and can also be disabled.
+  # Added next level calculator, based only on level gain.
+  # Mouseover the "View Creature" button displays the data that would be retrieved from that page.
+  # Kill streak is displayed at the world screen if DD buff is active.
+  # More visible combat log that is displayed under the monster list, together with chance buffs or level up/down message. Use page up and page down to scroll combat log.
+  # Added text to world summary when quick kill is running to notify you if a shield imp got killed by that particular monster.
+
+== System ==
+  # Combat logs are saved and can be exported to be used with any external program.
+  # Key handling routine replacd from inside the script (to handle stuff like chat). "0" key works on any screen, effectively either going back to the "world" page or refreshing it.
+  # Preferences page has customisations for most of the functionality (mainly enable/disable).
+  # Auto update functionality - every six hours a request is made to see if there's a new version.
 
 My ingame name is Coccinella - feel free to contact me for any questions or remarks
 
