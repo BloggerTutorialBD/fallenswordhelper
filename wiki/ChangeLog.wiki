@@ -1,6 +1,15 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 388===
+  # (minor) Fix for large map movement.
+
+==Revision 387===
+  # (minor) Added function to trim strings.
+
+==Revision 386===
+  # (minor) Fix for SS2 colors.
+
 ==Revision 382===
   # r380 changes also made to sigma storm helper.
 
