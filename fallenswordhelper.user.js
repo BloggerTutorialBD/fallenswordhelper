@@ -52,6 +52,7 @@ var Helper = {
 		System.setDefault("hideQuestNames", "");
 		System.setDefault("hideRecipes", false);
 		System.setDefault("hideRecipeNames", "");
+		System.setDefault("footprints", false);
 	},
 
 	readInfo: function() {
@@ -65,6 +66,14 @@ var Helper = {
 		Helper.characterHP = charInfoText.match(/HP:\s*<\/td><td width=\\\'90%\\\'>(\d+)/i)[1];
 		Helper.characterArmor = charInfoText.match(/Armor:\s*<\/td><td width=\\\'90%\\\'>(\d+)/i)[1];
 		Helper.characterDamage = charInfoText.match(/Damage:\s*<\/td><td width=\\\'90%\\\'>(\d+)/i)[1];
+
+		var keymap = [
+			{'charCode': 'q', 'where':/^world:map|^world:-/, 'Action':'Helper.moveMe(-1,-1)'},
+		];
+
+		// window.alert(JSON.stringify(keymap));
+		GM_log(keymap[0].where)
+
 	},
 
 	// Autoupdate
@@ -151,7 +160,7 @@ var Helper = {
 		if (subsequentPageIdRE)
 			subsequentPageId=subsequentPageIdRE[1];
 
-		Helper.page = pageId + "/" + subPageId + "/" + subPage2Id + "(" + subsequentPageId + ")"
+		Helper.page = pageId + ":" + subPageId + ":" + subPage2Id + "(" + subsequentPageId + ")"
 		if (Helper.debug) GM_log(Helper.page);
 
 		switch (pageId) {
@@ -707,7 +716,7 @@ var Helper = {
 
 	position: function() {
 		var result = {};
-		if (Helper.page=="world/map/-(-)") {
+		if (Helper.page=="world:map:-(-)") {
 			var playerTile=System.findNode("//img[contains(@src,'player_tile.gif')]/..");
 			result.X=playerTile.cellIndex;
 			result.Y=playerTile.parentNode.rowIndex;
@@ -755,7 +764,7 @@ var Helper = {
 		}
 		// GM_log(Helper.levelName);
 		var theMap = System.getValueJSON("map");
-		var displayedMap = System.findNode(isLarge?"//table[@width]":"//table[@width='200']");
+		var displayedMap = System.findNode(isLarge?"//table[@width='1000']":"//table[@width='200']");
 		var posit = Helper.position();
 		// GM_log(JSON.stringify(posit))
 		for (var y=0; y<displayedMap.rows.length; y++) {
@@ -1342,9 +1351,9 @@ var Helper = {
 			kills+=1;
 			System.xmlhttp(monster.href, Helper.killedMonster, {"node": monster, "index": monsterNumber});
 		}
-		//if (kills>0) {
-		//	System.xmlhttp("index.php?cmd=blacksmith&subcmd=repairall&fromworld=1");
-		//}
+		if (kills>0) {
+			System.xmlhttp("index.php?cmd=blacksmith&subcmd=repairall&fromworld=1");
+		}
 	},
 
 	killSingleMonsterType: function(monsterType) {
@@ -1360,9 +1369,9 @@ var Helper = {
 				}
 			}
 		}
-		//if (kills>0) {
-		//	System.xmlhttp("index.php?cmd=blacksmith&subcmd=repairall&fromworld=1");
-		//}
+		if (kills>0) {
+			System.xmlhttp("index.php?cmd=blacksmith&subcmd=repairall&fromworld=1");
+		}
 	},
 
 	prepareCheckMonster: function() {
@@ -1803,42 +1812,71 @@ var Helper = {
 		if (evt.target.tagName!="HTML") return;
 
 		// ignore control, alt and meta keys (I think meta is the command key in Macintoshes)
-		if (evt.ctrlKey) return;
-		if (evt.metaKey) return;
-		if (evt.altKey) return;
+		//if (evt.ctrlKey) return;
+		//if (evt.metaKey) return;
+		//if (evt.altKey) return;
 
-		r = evt.charCode;
-		s = evt.keyCode;
+		r = 256*evt.keyCode + evt.charCode;
+		// if (evt.shiftKey) r+=1*256*256;
+		if (evt.ctrlKey)  r+=2*256*256;
+		if (evt.altKey)   r+=4*256*256;
+		if (evt.metaKey)  r+=8*256*256;
+
+		if (System.debug) {
+			GM_log('keymask: ' + r.toString() +
+				'\nStandard: ' + (r & 255).toString() +
+				'\nSpecial: '  + (r & 255*256).toString() +
+				'\nShift: '    + (r & 1*256*256).toString() +
+				'\nCtrl: '     + (r & 2*256*256).toString() +
+				'\nAlt: '      + (r & 4*256*256).toString() +
+				'\nMeta: '     + (r & 8*256*256).toString() );
+		}
+
+		var stopEvent = true;
 
 		switch (r) {
-		case 113: // nw
+		case 81:     // northwest - Q
+		case 113:    // northwest - q
 			Helper.moveMe(-1,-1)
 			break;
-		case 119: // n
+		case 87:     // north - W
+		case 119:    // north - w
+		case 256*38: // north - Up Arrow
 			Helper.moveMe(0,-1);
 			break;
-		case 101: // ne
+		case 69:     // northeast - E
+		case 101:    // northeast - e
 			Helper.moveMe(1,-1);
 			break;
-		case 97: // w
+		case 65:     // west - A
+		case 97:     // west - a
+		case 256*37: // west - Right Arrow
 			Helper.moveMe(-1,0);
 			break;
-		case 100: // e
+		case 68:     // east - D
+		case 100:    // east - d
+		case 256*39: // east - Left Arrow
 			Helper.moveMe(1,0);
 			break;
-		case 122: // sw
+		case 90:     // southwest - Z
+		case 122:    // southwest - z
 			Helper.moveMe(-1,1);
 			break;
-		case 120: // s
+		case 88:     // south - X
+		case 120:    // south - x
+		case 256*40: // south - Down arrow
 			Helper.moveMe(0,1);
 			break;
-		case 99: // se
+		case 67:     // southeast - C
+		case 99:     // southeast - c
 			Helper.moveMe(1,1);
 			break;
-		case 114: // repair
+		case 82:     // repair - R
+		case 114:    // repair - r
 			window.location = 'index.php?cmd=blacksmith&subcmd=repairall&fromworld=1';
 			break;
-		case 103: // create group
+		case 71:    // create group - G
+		case 103:   // create group - g
 			window.location = 'index.php?cmd=guild&subcmd=groups&subcmd2=create&fromworld=1';
 			break;
 		case 49:
@@ -1849,87 +1887,66 @@ var Helper = {
 		case 54:
 		case 55:
 		case 56: // keyed combat
-			var index	= r-48;
-			var linkObj	= Helper.getMonster(index);
-			if (linkObj!=null) {
-				var killStyle = GM_getValue("killAllAdvanced");
-				//kill style off
-				if (killStyle == "off") {
-					window.location = linkObj.href
-				}
-				//kill style single
-				if (killStyle == "single") {
-					Helper.killSingleMonster(index);
-				}1
-				//kill style type
-				if (killStyle == "type") {
-					var monsterType = linkObj.parentNode.parentNode.parentNode.firstChild.nextSibling.nextSibling.innerHTML
-					Helper.killSingleMonsterType(monsterType);
-				}
-			}
+			Helper.quickKill(r-48);
 			break;
-		case 57: // debug
-			Helper.appendCombatLog('test<br/>')
-			break;
-		case 98: // backpack [b]
+		case 66: // backpack - B
+		case 98: // backpack - b
 			window.location = 'index.php?cmd=profile&subcmd=dropitems&fromworld=1';
 			break;
-		case 19: // quick buffs
-			// openWindow("", "fsQuickBuff", 618, 800, ",scrollbars");
+		case 2*256*256+83:  // quick buffs - Control-Shift-S
+		case 2*256*256+115: // quick buffs - Control-Shift-s
 			GM_openInTab(System.server + "index.php?cmd=quickbuff");
 			break;
-		case 48: // return to world
+		case 48: // return to world - 0
 			window.location = 'index.php?cmd=world';
 			break;
-		case 109: // map
-			// window.open('index.php?cmd=world&subcmd=map', 'fsMap');
-			// openWindow('index.php?cmd=world&subcmd=map', 'fsMap', 650, 650, ',scrollbars,resizable');
+		case 77:  // map - M
+		case 109: // map - m
 			GM_openInTab(System.server + "index.php?cmd=world&subcmd=map");
 			break;
-		case 0: // special key
-			switch (s) {
-			case 37: // w
-				Helper.moveMe(-1,0);
-				evt.preventDefault();
-				evt.stopPropagation();
-				break;
-			case 38: // n
-				Helper.moveMe(0,-1);
-				evt.preventDefault();
-				evt.stopPropagation();
-				break;
-			case 39: // e
-				Helper.moveMe(1,0);
-				evt.preventDefault();
-				evt.stopPropagation();
-				break;
-			case 40: // s
-				Helper.moveMe(0,1);
-				evt.preventDefault();
-				evt.stopPropagation();
-				break;
-			case 33:
-				if (System.findNode("//div[@id='reportsLog']")) {
-					Helper.scrollUpCombatLog();
-					evt.preventDefault();
-					evt.stopPropagation();
-				}
-				break;
-			case 34:
-				if (System.findNode("//div[@id='reportsLog']")) {
-					Helper.scrollDownCombatLog();
-					evt.preventDefault();
-					evt.stopPropagation();
-				}
-				break;
-			default:
-				if (System.debug) GM_log('special key: ' +s);
+		case 256*33: // Page Up
+			if (System.findNode("//div[@id='reportsLog']")) {
+				Helper.scrollUpCombatLog();
+			} else {
+				stopEvent=false;
+			}
+			break;
+		case 256*34:  // Page Down
+			if (System.findNode("//div[@id='reportsLog']")) {
+				Helper.scrollDownCombatLog();
+			} else {
+				stopEvent=false;
 			}
 			break;
 		default:
-			if (System.debug) GM_log('standard key: ' +r);
+			stopEvent=false;
+		}
+
+		if (stopEvent) {
+			evt.preventDefault();
+			evt.stopPropagation();
 		}
 		return true;
+	},
+
+	quickKill: function(index) {
+		var linkObj	= Helper.getMonster(index);
+		if (linkObj!=null) {
+			var killStyle = GM_getValue("killAllAdvanced");
+			//kill style off
+			if (killStyle == "off") {
+				window.location = linkObj.href
+			}
+			//kill style single
+			if (killStyle == "single") {
+				Helper.killSingleMonster(index);
+			}
+			//kill style type
+			if (killStyle == "type") {
+				var monsterType = linkObj.parentNode.parentNode.parentNode.firstChild.nextSibling.nextSibling.innerHTML
+				Helper.killSingleMonsterType(monsterType);
+			}
+		}
 	},
 
 	addLogColoring: function(logScreen, dateColumn) {
@@ -2421,7 +2438,8 @@ var Helper = {
 					var buyoutHTML = buyoutCell.innerHTML;
 					if (winningBidValue != "-" && !bidExistsOnItem && !playerListedItem) {
 						var overBid = isGold?Math.ceil(winningBidValue * 1.05):(winningBidValue+1);
-						winningBidBuyoutCell.innerHTML = '<br><span style="color:blue;" title="Overbid value">Overbid ' + System.addCommas(overBid) + '</span>&nbsp';
+						winningBidBuyoutCell.innerHTML = '<br><span style="color:blue; cursor:pointer; text-decoration:underline;" findme="bidOnItem" linkto="auction' +
+							i + 'text" title="Click to overbid last bid value" bidvalue="' + overBid + '">Bid ' + System.addCommas(overBid) + '</span>&nbsp';
 					}
 					if (winningBidValue == "-" && !bidExistsOnItem && !playerListedItem) {
 						bidMinBuyoutCell.innerHTML = '<span style="color:blue; cursor:pointer; text-decoration:underline;" findme="bidOnItem" linkto="auction' +
