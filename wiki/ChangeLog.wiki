@@ -11,7 +11,7 @@
   # (minor) Fix for SS2 colors.
 
 ==Revision 382===
-  # r380 changes also made to sigma storm helper.
+  # (minor) r380 changes also made to sigma storm helper.
 
 ==Revision 380===
 By request of HCS ... two "automation" items have been removed.
