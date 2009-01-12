@@ -106,10 +106,13 @@ var Helper = {
 		var latestVersion=responseDetails.responseText.match(versionRE)[1]
 		GM_log("Current version:" + currentVersion);
 		GM_log("Found version:" + latestVersion);
+		var theChanges = Helper.autoUpdateShowChanges(currentVersion, latestVersion);
+		return;
+
 		if (currentVersion!=latestVersion) {
-			var theChanges = autoUpdateShowChanges(currentVersion, latestVersion)
+			// var theChanges = autoUpdateShowChanges(currentVersion, latestVersion)
 			if (window.confirm("New version (" + latestVersion + ") found.\n" + theChanges + "\nUpdate from version " + currentVersion + "?")) {
-				autoUpdatePreloadFiles()
+				Helper.autoUpdatePreloadFiles()
 				GM_setValue("currentVersion", latestVersion)
 				document.location="http://fallenswordhelper.googlecode.com/svn/trunk/fallenswordhelper.user.js";
 			}
@@ -117,17 +120,49 @@ var Helper = {
 	},
 
 	autoUpdateShowChanges: function(oldVersion, newVersion) {
+		Helper.autoUpdateShowChangesValue = null;
+		GM_xmlhttpRequest({
+			method: 'GET',
+			url: "http://fallenswordhelper.googlecode.com/svn/wiki/ChangeLog.wiki",
+			headers: {
+				"User-Agent" : navigator.userAgent,
+				"Referer": document.location,
+				"Cookie" : document.cookie
+			},
+			onload: function(responseDetails) {
+				Helper.autoUpdateShowChangesRetrieve(responseDetails, oldVersion, newVersion);
+			},
+		})
+		while (!Helper.autoUpdateShowChangesValue) {
+			sleep;
+		}
+	},
 
+	autoUpdateShowChangesRetrieve: function(responseDetails, oldVersion, newVersion) {
+		window.alert(responseDetails.status + "\n\n" + responseDetails.responseHeaders);
+		autoUpdateShowChangesValue=responseDetails.responseText;
 	},
 
 	autoUpdatePreloadFiles: function() {
-		autoUpdatePreloadFile("http://fallenswordhelper.googlecode.com/svn/trunk/json2.js");
-		autoUpdatePreloadFile("http://fallenswordhelper.googlecode.com/svn/trunk/calfSystem.js");
-		autoUpdatePreloadFile("http://fallenswordhelper.googlecode.com/svn/trunk/fsLayout.js");
-		autoUpdatePreloadFile("http://fallenswordhelper.googlecode.com/svn/trunk/fsData.js");
+		Helper.autoUpdatePreloadFile("http://fallenswordhelper.googlecode.com/svn/trunk/json2.js");
+		Helper.autoUpdatePreloadFile("http://fallenswordhelper.googlecode.com/svn/trunk/calfSystem.js");
+		Helper.autoUpdatePreloadFile("http://fallenswordhelper.googlecode.com/svn/trunk/fsLayout.js");
+		Helper.autoUpdatePreloadFile("http://fallenswordhelper.googlecode.com/svn/trunk/fsData.js");
 	},
 
-	autoUpdatePreloadFile: function(url) {
+	autoUpdatePreloadFile: function(theUrl) {
+		GM_xmlhttpRequest({
+			method: 'GET',
+			url: theUrl + "?nonce="+now,
+			headers: {
+				"User-Agent" : navigator.userAgent,
+				"Referer": document.location,
+				"Cookie" : document.cookie
+			},
+			onload: function(responseDetails) {
+				Helper.autoUpdate(responseDetails);
+			},
+		})
 
 	},
 
