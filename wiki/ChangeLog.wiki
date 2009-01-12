@@ -1,31 +1,31 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 388===
+==Revision 388==
   # (minor) Fix for large map movement.
 
-==Revision 387===
+==Revision 387==
   # (minor) Added function to trim strings.
 
-==Revision 386===
+==Revision 386==
   # (minor) Fix for SS2 colors.
 
-==Revision 382===
+==Revision 382==
   # (minor) r380 changes also made to sigma storm helper.
 
-==Revision 380===
+==Revision 380==
 By request of HCS ... two "automation" items have been removed.
   # (minor) Script no longer does an auto repair, player must manually repair gear. issue 205
   # (minor) Script no longer allows a one click overbid, however still displays the 5% overbid value that players must type in manually. issue 206
 
-==Revision 376===
+==Revision 376==
   # (minor) Fixed casing of ToggleFootprints element id
   # (minor) Code Cleanup
 
-==Revision 375===
+==Revision 375==
   # (minor) Sync sigmastorm helper
 
-==Revision 374===
+==Revision 374==
   # (Major) New feature: Footprints. When you select the checkbox under the map, you can see where you've been (useful to track down creatures)
   # (minor) Code cleanup
 
