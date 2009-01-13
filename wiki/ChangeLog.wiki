@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 406==
+  # (minor) Synchronized Sigma Storm Helper
+
 ==Revision 404==
   # (minor) Footprints color is now customizable from preferences (enter a named color, such as black, red, green etc or a numeric color, such as #FA321B)
 
