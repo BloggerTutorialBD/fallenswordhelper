@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 412==
+  # (minor) fixed more coloring issues in SS2
+  # (minor) guild store now also has colors for guild store or guild report items
+  # (minor) more quest fixes for SS2
+
 ==Revision 410==
   # (minor) Fixed quest manager (mission manager) for SS2 and updated quest list.
   # (minor) Fixed coloring issues for many SS2 pages.
