@@ -1,6 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 410==
+  # (minor) Fixed quest manager (mission manager) for SS2 and updated quest list.
+  # (minor) Fixed coloring issues for many SS2 pages.
+
+==Revision 408==
+  # (minor) Updated quest list (issue 226)
+
 ==Revision 406==
   # (minor) Synchronized Sigma Storm Helper
 
