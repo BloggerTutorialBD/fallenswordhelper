@@ -2,6 +2,10 @@
 =A version by version list of changes made to the script=
 
 ==Revision 412==
+  # (minor) Fixed a formatting issue in SS2 Mission Manager.
+  # (minor) Fixed a logging issue (writing the minute instead of the month).
+
+==Revision 412==
   # (minor) fixed more coloring issues in SS2
   # (minor) guild store now also has colors for guild store or guild report items
   # (minor) more quest fixes for SS2
