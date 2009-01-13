@@ -1,7 +1,7 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 412==
+==Revision 414==
   # (minor) Fixed a formatting issue in SS2 Mission Manager.
   # (minor) Fixed a logging issue (writing the minute instead of the month).
 
