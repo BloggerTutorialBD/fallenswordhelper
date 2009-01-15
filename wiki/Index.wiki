@@ -62,6 +62,8 @@ Actually, since features are added very frequently, there may be a lot more than
   # Added navigation to top of auction screen for Auction House. Also added buttons to go to first and last page, and ability to hide auction text.
   # Crude but effective Quick Plant Search added.
   # Added AH search for relevant plant from inventing screen.
+  # AH Quick search is customisable
+  # Auction house preferences are inline, meaning you don't need to open a new page to set preferences.
 
 == New screens ==
   # Quest Manager displays all quests in one big sortable table, with levels and locations, and also to wiki.fallensword.com and fallen sword guide.
