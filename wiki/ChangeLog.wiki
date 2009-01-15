@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 431==
+  # (minor) Sync SigmaStorm 2
+
 ==Revision 429==
   # (Major) Auction House preferences are now inline in the main AH page - no need to set search preferences in a different page (issue 93, issue 211)
   # (minor) Moved potion list in FS to data.
