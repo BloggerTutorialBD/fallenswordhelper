@@ -2,10 +2,10 @@
 =A version by version list of changes made to the script=
 
 ==Revision 426==
-(minor) Error handling for dropping items ( issue 237 )
+  # (minor) Error handling for dropping items ( issue 237 )
 
 ==Revision 424==
-  # (Minor) FS. Fix to Arena sort and also added sorts for special and hellforge columns. issue 236.
+  # (minor) FS. Fix to Arena sort and also added sorts for special and hellforge columns. issue 236.
 
 ==Revision 422==
   # (minor) Error handling for dropping items (issue 237)
