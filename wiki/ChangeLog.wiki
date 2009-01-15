@@ -1,14 +1,18 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 422==
+  # (minor) Error handling for dropping items (issue 237)
+  # (minor) Error handling for adding tags (issue 238)
+
 ==Revision 419==
-  # (Minor) FS. Added sort to PvP Arena page (Join Cost and Max Equip Level) and also did a little formatting to hopefully make it easier to read.
+  # (minor) FS. Added sort to PvP Arena page (Join Cost and Max Equip Level) and also did a little formatting to hopefully make it easier to read.
 
 ==Revision 417==
-  # (Minor) FS. Added configurable AH Quick Search. Added link on auction page and remove plant quick search (visable via AH quick search).
-  # (Minor) FS. Added order by to AH links on item page to automatically order by min bid as default.
-  # (Minor) FS. issue 171. Added Buffmaster status to quick buff screen.
-  # (Minor) FS. issue 55. Fixed ally/enemy counter for when you have players with the default avatar as your ally/enemy.
+  # (minor) FS. Added configurable AH Quick Search. Added link on auction page and remove plant quick search (visable via AH quick search).
+  # (minor) FS. Added order by to AH links on item page to automatically order by min bid as default.
+  # (minor) FS. issue 171. Added Buffmaster status to quick buff screen.
+  # (minor) FS. issue 55. Fixed ally/enemy counter for when you have players with the default avatar as your ally/enemy.
 
 ==Revision 414==
   # (minor) Fixed a formatting issue in SS2 Mission Manager.
