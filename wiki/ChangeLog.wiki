@@ -2,7 +2,7 @@
 =A version by version list of changes made to the script=
 
 ==Revision 433==
-  # (minor) Fixed SS2 Trade Hub (Auction House) - no quick search though.
+  # (minor) Fixed SS2 Trade Hub (Auction House) - no quick search though (issue 240).
 
 ==Revision 431==
   # (minor) Sync SigmaStorm 2
@@ -12,14 +12,14 @@
   # (minor) Moved potion list in FS to data.
 
 ==Revision 426==
-  # (minor) Error handling for dropping items ( issue 237 )
+  # (minor) Error handling for dropping items (issue 237).
 
 ==Revision 424==
   # (minor) FS. Fix to Arena sort and also added sorts for special and hellforge columns. issue 236.
 
 ==Revision 422==
-  # (minor) Error handling for dropping items (issue 237)
-  # (minor) Error handling for adding tags (issue 238)
+  # (minor) Error handling for dropping items (issue 237).
+  # (minor) Error handling for adding tags (issue 238).
 
 ==Revision 419==
   # (minor) FS. Added sort to PvP Arena page (Join Cost and Max Equip Level) and also did a little formatting to hopefully make it easier to read.
