@@ -4,7 +4,7 @@
 ==Revision 442==
   # (minor) Reorganisation of settings page.
   # (minor) Corrected credits links for SS2.
-  # (minor) Allow chat to be order bottom-to-top, as in guild chat page, as well as top-to-bottom, as in every other chat interface (issue ??).
+  # (minor) Allow chat to be order bottom-to-top, as in guild chat page, as well as top-to-bottom, as in every other chat interface (issue 203).
 
 ==Revision 440==
   # (minor) Code cleanup
