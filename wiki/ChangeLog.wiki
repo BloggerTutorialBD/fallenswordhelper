@@ -1,6 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 440==
+  # (minor) Code cleanup
+  # (minor) Fixed showing quick kill in SS2
+  # (minor) Sync changes from FS to SS2
+  # (minor) Activated view creature in SS2 (issue 242)
+  # (minor) Fixed keyboard killing in SS2 (issue 243)
+
 ==Revision 438==
   # (minor) Fixed using chat box in chat page (issue 63).
 
