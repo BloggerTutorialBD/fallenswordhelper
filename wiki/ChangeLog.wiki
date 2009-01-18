@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 448==
+  # (minor) Fixed level up calculator on SS2.
+
 ==Revision 445==
   # (minor) Fixed stamina (Energy) calculator for SS2.
   # (minor) Fixed mini combat log for SS2, click also shows looted item information.
