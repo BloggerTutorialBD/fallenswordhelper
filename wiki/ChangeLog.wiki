@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 445==
+  # (minor) Fixed stamina (Energy) calculator for SS2.
+  # (minor) Fixed mini combat log for SS2, click also shows looted item information.
+  # (minor) Fixed movement in PvP maps for SS2 (blindly, I haven't reached as high a level yet :))
+
 ==Revision 442==
   # (minor) Reorganisation of settings page.
   # (minor) Corrected credits links for SS2.
@@ -97,6 +102,8 @@ By request of HCS ... two "automation" items have been removed.
 ==Revision 374==
   # (Major) New feature: Footprints. When you select the checkbox under the map, you can see where you've been (useful to track down creatures)
   # (minor) Code cleanup
+  # (minor) Map is opened in a new tab when key "m" is pressed (issue 95).
+  # (minor) Quickbuff is opened in a new tab.
 
 ==Revision 372==
   # (minor) Guild inventory now correctly shows guild menu on the left.
