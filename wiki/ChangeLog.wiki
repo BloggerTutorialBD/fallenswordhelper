@@ -1,12 +1,17 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 450==
+  # (minor) Added item info for mini combat log. Clicking on the item on the mouseover displays the item info
+  # (minor) Fixed advisor for SS2
+  # (minor) Added highlights to advisor (to show the current row)
+
 ==Revision 448==
   # (minor) Fixed level up calculator on SS2.
 
 ==Revision 445==
   # (minor) Fixed stamina (Energy) calculator for SS2.
-  # (minor) Fixed mini combat log for SS2, click also shows looted item information.
+  # (minor) Fixed mini combat log for SS2.
   # (minor) Fixed movement in PvP maps for SS2 (blindly, I haven't reached as high a level yet :))
 
 ==Revision 442==
