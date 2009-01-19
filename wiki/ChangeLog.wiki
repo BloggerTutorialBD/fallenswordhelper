@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 452==
+  # (minor) Fixed faction member list for SS2 (issue 247)
+  # (minor) Fixed quick recall for SS2 (issue 248)
+  # (minor) Fixed faction chat for SS2 (issue 249)
+  # (minor) Code cleanup.
+
 ==Revision 450==
   # (minor) Added item info for mini combat log. Clicking on the item on the mouseover displays the item info
   # (minor) Fixed advisor for SS2
