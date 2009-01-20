@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 460==
+  # (minor) Code cleanup for fast take
+  # (minor) Fixed SS2 guild page, two out the three "hide" toggles work now (statistics remaining).
+
 ==Revision 458==
   # (minor) Another update for SigmaStorm quest data (issue 254).
 
