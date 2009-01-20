@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 462==
+  # (minor) corrected bug in profile.
+
 ==Revision 460==
   # (minor) Code cleanup for fast take
   # (minor) Fixed SS2 guild page, two out the three "hide" toggles work now (statistics remaining).
