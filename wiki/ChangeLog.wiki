@@ -1,10 +1,16 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 456==
+  # (minor) Added mass message to chat box (with confirmation) (issue 245).
+  # (minor) Update quest data for SigmaStorm (issue 254).
+  # (minor) Added some debug code to troubleshoot issue 252.
+  # (minor) Synchornised SS2 with changes in FS.
+
 ==Revision 454==
-  # (Minor) FS. issue 228. Added Fast take to Guild Management screen.
-  # (Minor) FS. issue 232. Added ability to change timer of Online Guild List Refresh (default 15s).
-  # (Minor) FS. Added refresh after you change preferences.
+  # (minor) FS. issue 228. Added Fast take to Guild Management screen.
+  # (minor) FS. issue 232. Added ability to change timer of Online Guild List Refresh (default 15s).
+  # (minor) FS. Added refresh after you change preferences.
 
 ==Revision 452==
   # (minor) Fixed faction member list for SS2 (issue 247)
