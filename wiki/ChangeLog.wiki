@@ -1,8 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 463==
+  # (minor) SS2: Fixed preferences not saving
+  # (minor) SS2: Fixed guild list not refreshing
+  # (minor) SS2: Fixed chat not showing
+
 ==Revision 462==
-  # (minor) corrected bug in profile.
+  # (minor) Corrected bug in profile.
 
 ==Revision 460==
   # (minor) Code cleanup for fast take
