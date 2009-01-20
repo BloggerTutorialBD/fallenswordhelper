@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 454==
+  # (Minor) FS. issue 228. Added Fast take to Guild Management screen.
+  # (Minor) FS. issue 232. Added ability to change timer of Online Guild List Refresh (default 15s).
+  # (Minor) FS. Added refresh after you change preferences.
+
 ==Revision 452==
   # (minor) Fixed faction member list for SS2 (issue 247)
   # (minor) Fixed quick recall for SS2 (issue 248)
