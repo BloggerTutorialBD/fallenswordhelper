@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 468==
+  # (minor) Some SS2 coloring
+
+==Revision 467==
+  # (minor) Small optimization for trim
+
 ==Revision 465==
   # (minor) SS2: Fixed preferences not saving
   # (minor) SS2: Fixed guild list not refreshing
