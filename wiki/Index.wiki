@@ -52,7 +52,7 @@ Actually, since features are added very frequently, there may be a lot more than
   # On the questbook page all completed quests are hidden and all incomplete quests from other pages are also loaded and displayed (optional).
   # Displays calculated one-hit damage required into "View Creature" mousover.
 
-== Action House ==
+== Auction House ==
   # Auction house displays item craft and hellforge attributes.
   # In auction house pages, text about the offered item is automatically retrieved.
   # Auction one click bid and buyout functionality added. You can now bid on or buyout an item with one click. If there is already a bid, the required outbid value is displayed.
