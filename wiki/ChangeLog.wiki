@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 472==
+  # (minor) Added preview for FSBox (SSBox) and Shoutbox (issue 172).
+
 ==Revision 469==
   # (minor) Added action buttons to player profile for SS2 (issue 269)
 
