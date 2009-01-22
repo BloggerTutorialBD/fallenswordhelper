@@ -50,7 +50,7 @@ Actually, since features are added very frequently, there may be a lot more than
   # There's an option to save (keep) combat logs and retrieve them from a new page.
   # Bio and History editors now have preview panes as you type, complete with total allowable bio characters (that turn red when you exceed them)
   # On the questbook page all completed quests are hidden and all incomplete quests from other pages are also loaded and displayed (optional).
-  # Displays calculated one-hit damage required into "View Creature" mousover.
+  # Displays calculated one-hit damage required into "View Creature" mouseover.
 
 == Auction House ==
   # Auction house displays item craft and hellforge attributes.
@@ -84,11 +84,11 @@ Actually, since features are added very frequently, there may be a lot more than
 
 == System ==
   # Combat logs are saved and can be exported to be used with any external program.
-  # Key handling routine replacd from inside the script (to handle stuff like chat). "0" key works on any screen, effectively either going back to the "world" page or refreshing it.
-  # Preferences page has customisations for most of the functionality (mainly enable/disable).
+  # Key handling routine replaced from inside the script (to handle stuff like chat). "0" key works on any screen, effectively either going back to the "world" page or refreshing it.
+  # Preferences page has customizations for most of the functionality (mainly enable/disable).
   # Auto update functionality - every six hours a request is made to see if there's a new version.
 
-My ingame name is Coccinella - feel free to contact me for any questions or remarks
+My in-game name is Coccinella - feel free to contact me for any questions or remarks
 
 [Installation]
 [FAQ]
