@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 474==
+  # (minor) Quickbuff shows percentage of stamina of the player about to be buffed. (issue 271)
+
 ==Revision 472==
   # (minor) Added preview for FSBox (SSBox) and Shoutbox (issue 172).
 
