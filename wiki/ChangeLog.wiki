@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 482==
+  # (Minor) FS. Added current combat moves to main screen of pvp arena.
+
 ==Revision 477==
   # (Major) Quickbuff allows for quick self buffing (issue 147). Just click on the "[self]" link on the right.
 
