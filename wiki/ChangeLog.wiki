@@ -1,13 +1,20 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 488==
+  # (Major) SS2: Quick Heal. If you have the relevant skill, click on the heart icon on the top left, or press "h" to quick heal (issue 231)
+  # (minor) SS2: Stopped the Helper from running for the small iframe inside the area chat.
+
+==Revision 487==
+  # (Major) New link to see all online players (issue 125). Note that it takes a lot of time (not more than the Guild Inventory though), and because of that, it may contain wrong data (because player list changed by the time it finished parsing).
+
 ==Revision 484==
   # (minor) SS2: Fix action icons (under avatar) (issue 273).
   # (minor) Quick Auction House/Trade Hub preferences do not work in empty-result search page (issue 274).
   # (minor) SS2: Fix for Trade Hub features not being enabled in search result page (issue 275).
 
 ==Revision 482==
-  # (Minor) FS: Added current combat moves to main screen of pvp arena.
+  # (minor) FS: Added current combat moves to main screen of pvp arena.
 
 ==Revision 477==
   # (Major) Quickbuff allows for quick self buffing (issue 147). Just click on the "[self]" link on the right.
