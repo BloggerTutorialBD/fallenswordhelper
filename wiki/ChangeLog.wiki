@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 490==
+  # (Major) SS2: Quick kills now change the HP meter after the monster has been killed (issue 279).
+  # (minor) SS2: Quick Heal doesn't change screen, and displays the healed amount on screen (changes the HP meter) (issue 282).
+  # (minor) Code cleanup
+
 ==Revision 488==
   # (Major) SS2: Quick Heal. If you have the relevant skill, click on the heart icon on the top left, or press "h" to quick heal (issue 231)
   # (minor) SS2: Stopped the Helper from running for the small iframe inside the area chat.
