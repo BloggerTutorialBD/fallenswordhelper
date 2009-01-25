@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 493===
+  # (minor) FS: Fixed an issue with data from information boxes not displaying (e.g. in the quick kill mini report).
+  # (minor) Code cleanup
+
 ==Revision 490==
   # (Major) SS2: Quick kills now change the HP meter after the monster has been killed (issue 279).
   # (minor) SS2: Quick Heal doesn't change screen, and displays the healed amount on screen (changes the HP meter) (issue 282).
