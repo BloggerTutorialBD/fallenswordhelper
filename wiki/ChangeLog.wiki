@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 496===
+  # (Major) Added Blueprint Manager in SS2. It has more functionality than the Recipe Manager in FS, as it also displays components for each blueprint.
+  # (Major) The class icon (to the right) links to class skills.
+  # (minor) Fixed issue where quick kill etc didn't display if a different world subpage was being displayd (e.g. when trying to move to a blocked map square)
+
 ==Revision 493===
   # (minor) FS: Fixed an issue with data from information boxes not displaying (e.g. in the quick kill mini report).
   # (minor) Code cleanup
