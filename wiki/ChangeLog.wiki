@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 502==
+  # (minor) SS2: Fixed display of combat log (issue 218).
+  # (minor) SS2: Fixed Trade Hub Credit detection (issue 298).
+  # (minor) SS2: Enable hit-calculation in view creature page (issue 299).
+  # (minor) Enable coloring of craft level in TH/AH (issue 280).
+
 ==Revision 500==
   # (minor) Removed debug code
   # (minor) Code cleanup
