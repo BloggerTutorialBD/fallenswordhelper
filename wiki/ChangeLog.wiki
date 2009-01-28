@@ -1,6 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 500==
+  # (minor) Removed debug code
+  # (minor) Code cleanup
+  # (minor) SS2: Cleaned SS from several FS literates (issue 294)
+  # (minor) SS2: Cleaned up Character > Config (issue 294)
+  # (minor) SS2: Config now displays which options will retrieve data from network. Disable the options with the network icon to gain speed.
+
 ==Revision 498==
   # (minor) Code clenaup
   # (minor) Fixed some coloring in SS2
