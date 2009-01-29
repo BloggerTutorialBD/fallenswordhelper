@@ -1,9 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 506==
+  # (minor) FS: Added quick change combat set to Fallen Sword as well.
+  # (minor) Code cleanup.
+
 ==Revision 504==
   # (Major) SS2: Quick change combat set. Press Shift 1-5 to change to the relevant combat set (issue 307).
-  # (minor) SS2: Fixed quick kill not working when view creature is off (issue 304)
+  # (minor) SS2: Fixed quick kill not working when view creature is off (issue 304).
 
 ==Revision 502==
   # (minor) SS2: Fixed display of combat log (issue 218).
