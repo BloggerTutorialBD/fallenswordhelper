@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 512==
+  # (minor) FS. On the pvp arena page, I added the ability to hide matches for moves you already have 3 of via a checkbox. Note that this function will not start working until you have visited the page that shows you how many of each move you have. I also removed the current combat moves setup off this screen as it had potential to show the wrong set of combat moves if you log in to more than one computer. I will do something about fixing this later.
+
 ==Revision 510==
   # (minor) Fixed sort by HP in guild inventory
 
