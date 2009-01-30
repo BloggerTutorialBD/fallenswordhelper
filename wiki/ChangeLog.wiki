@@ -1,6 +1,17 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 510==
+  # (minor) Fixed sort by HP in guild inventory
+
+==Revision 509==
+  # (minor) SS2: Fixed footprint
+  # (minor) SS2: Added monster number
+
+==Revision 508==
+  # (minor) SS2: Add view online player page
+  # (minor) SS2: Cleanup code
+
 ==Revision 506==
   # (minor) FS: Added quick change combat set to Fallen Sword as well.
   # (minor) Code cleanup.
