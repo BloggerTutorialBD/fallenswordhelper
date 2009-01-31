@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 516==
+  # (minor) FS. PvP Arena change. Minor change to the columns that show up on the join or view results pages to only show the relevant ones (i.e. don't show players or state as they are old). Currently saved matches will not show up with this new method, but new ones will. Also on the join page it will show your current combat move setup (actual current setup, not the saved one).
+
 ==Revision 514==
   # (minor) FS - PvP Arena. The helper now saves details on the arenas as you view them and then displays that info on the Join/View pages. This allows you to see on the join and results page details of the actual match (level, prize, specials, etc). It will only work for those arenas which you actually view in the first page and only saves the last 1000 (purges old ones as it goes)
   # (minor) FS - quick buff. Quest Finder would not color green correctly if you only had one point in the skill.
