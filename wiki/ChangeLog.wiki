@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 514==
+  # (minor) FS - PvP Arena. The helper now saves details on the arenas as you view them and then displays that info on the Join/View pages. This allows you to see on the join and results page details of the actual match (level, prize, specials, etc). It will only work for those arenas which you actually view in the first page and only saves the last 1000 (purges old ones as it goes)
+  # (minor) FS - quick buff. Quest Finder would not color green correctly if you only had one point in the skill.
+  # (minor) FS - calculate relic stats. issue 259. Added code to show any players in your guild not at the relic. This really is only useful for guilds who are guarding a relic and want to know who is not pulling their weight. Exceptions are made for levels where players use obscene amounts of stamina to return (e.g. Xind 400-420).
+
 ==Revision 512==
   # (minor) FS. On the pvp arena page, I added the ability to hide matches for moves you already have 3 of via a checkbox. Note that this function will not start working until you have visited the page that shows you how many of each move you have. I also removed the current combat moves setup off this screen as it had potential to show the wrong set of combat moves if you log in to more than one computer. I will do something about fixing this later.
 
