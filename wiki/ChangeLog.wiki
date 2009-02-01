@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 520==
+  # (Major) FS: Add buff pack in Quick Buff page, add buttons to select all buffs, clear all.
+
 ==Revision 519==
   # (minor) Online Player only get the most recently online players (last 20% in FS, 33% in SS2), and disable refresh for 5 minutes (issue 315)
 
