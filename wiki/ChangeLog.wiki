@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 519==
+  # (minor) Online Player only get the most recently online players (last 20% in FS, 33% in SS2), and disable refresh for 5 minutes (issue 315)
+
 ==Revision 516==
   # (minor) FS. PvP Arena change. Minor change to the columns that show up on the join or view results pages to only show the relevant ones (i.e. don't show players or state as they are old). Currently saved matches will not show up with this new method, but new ones will. Also on the join page it will show your current combat move setup (actual current setup, not the saved one).
 
