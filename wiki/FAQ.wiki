@@ -28,3 +28,7 @@ A: Some times there are issues with caching. I would suggest removing FSH (or SS
 Q: It's not working at all, and I've uninstalled and reinstalled it.
 
 A: Perhaps you've clicked on the Greasemonkey icon on the statusbar by mistake. When Greasemonkey is working, the icon is a brown smiling monkey, and if you mouseover it, it says "Greasemonkey is enabled". When it's not wokring, the icon is a gray frowning monkey, and if you mouseover it, it says "Greasemonkey is disabled". To switch between enabled and disabled, just click (left-click) on it once.
+----
+Q: I'm a seasoned developer, and I'd like to help, is that possible?
+
+A: Look at DeveloperInfo.
