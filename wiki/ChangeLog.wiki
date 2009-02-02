@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 522==
+  # (minor) FS, SS2: add shortcut key N to toggle mini-map within the current page
+
 ==Revision 521==
   # (minor) FS. Fix for hiding arena matches you already have the moves for (rows did not hide correctly before).
   # (minor) FS. issue 317. Fixed recall message from GS if bags are full. Also fixed recall from report page if GS is full or someone else already recalled the item.
