@@ -1,0 +1,41 @@
+#summary Developer Information
+#labels Phase-Implementation
+
+= Introduction =
+
+This page is meant for developers that want to contribute. This has details on:
+  * How to get the code.
+  * How to navigate through the code and description of some major functions.
+  * Description of some major functions.
+  * Discussion of style
+  * Procedure to upload (even if not a member)
+
+This is preliminary documentation, it *will* be expanded.
+
+= Get the Code =
+
+Code is stored at Google Code and can be retrieved by using Subversion.
+
+= Navigation =
+
+Each Helper script is based on 4 different files (one is common between the two scripts).
+== System (calfSystem.js) ==
+== Data (fsData.js/ssData.js) ==
+== Layout (fsLayout.js/ssLayout.js) ==
+== Helper (fallenswordhelper.js/sigmastormhelper.js ==
+This is the main script file, which contains most of the code. Since it was *grown* and not designed, it can be a little difficult to navigate, as the functions don't keep much of an order.
+
+= Style =
+== HTML ==
+= Procedure =
+== Members ==
+=== !ChangeLog ===
+
+Each code change should also be reflected on the !ChangeLog.wiki, as the users see what has changed from the version they have to the current version. This is more important than commenting on each commit.
+
+Changes reflected on the !ChangeLog are separated on minor and major changes. Minor changes are small changes that don't have new functionality, but either refine an existing functionality or fix a bug. Major changes are changes that add new functionality, and as such, an entry should be added to the Index (list of Features).
+
+Also, if the change only applies to one of the games, add a "FS:" or "SS2:" before the actual text (after the "(minor)"/"(Major)" label).
+
+== Non-members ==
+We always appreciate a change request that comes with its own code. Since most of non-members may not be familiar with source control and such, we will probably accept any format of submitted code. The preferred format would be of course an SVN patch (created by SVN diff), so we can easily review and apply it.
