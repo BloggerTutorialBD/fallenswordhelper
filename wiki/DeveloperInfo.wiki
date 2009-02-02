@@ -18,8 +18,11 @@ Code is stored at Google Code and can be retrieved by using Subversion.
 
 = Navigation =
 
-Each Helper script is based on 4 different files (one is common between the two scripts).
+Each Helper script is based on 5 different files (two are common between the two scripts).
 == System (calfSystem.js) ==
+== JSON (json2.js) ==
+This file is taken from http://www.json.org/ and it contains all necessary functions to serialize and deserialize objects into JSON (JavaScript Object Notation), making it easy to store raw objects in the GreaseMonkey store as strings.
+
 == Data (fsData.js/ssData.js) ==
 == Layout (fsLayout.js/ssLayout.js) ==
 == Helper (fallenswordhelper.js/sigmastormhelper.js ==
