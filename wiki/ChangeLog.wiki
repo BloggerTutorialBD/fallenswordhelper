@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 530==
+  # (Major) Add shortcut key J to join all groups
+  # (minor) SS2: fix chat log color for faction members
+
 ==Revision 529==
   # (Major) FS: Quick Link Manager: Go there to define quick links to easily go to prefered pages, without using the menu (issue 316)
   # (minor) FS: Cosmetic fixes for Buff Packs.
