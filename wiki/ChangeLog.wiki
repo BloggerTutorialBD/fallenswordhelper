@@ -1,13 +1,20 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 522==
-  # (Major) FS, SS2: add shortcut key N to toggle mini-map within the current page
+==Revision 529==
+  # (Major) FS: Quick Link Manager: Go there to define quick links to easily go to prefered pages, without using the menu (issue 316)
+  # (minor) FS: Cosmetic fixes for Buff Packs.
+  # (minor) FS: Consistent quick buff window sizes (issue 320).
+  # (minor) Some debug code to catch any errors with AH Quick Search
+  # (minor) SS2: Updated mission manager data (issue 323).
+
+==Revision 523==
+  # (Major) Added shortcut key N to toggle mini-map within the current page
 
 ==Revision 521==
-  # (minor) FS. Fix for hiding arena matches you already have the moves for (rows did not hide correctly before).
-  # (minor) FS. issue 317. Fixed recall message from GS if bags are full. Also fixed recall from report page if GS is full or someone else already recalled the item.
-  # (minor) FS. issue 306. Changed the color in the AH for Excellent items as it was hard to see the color against the background. Perfect now show up as green and Excellent show up as yellow.
+  # (minor) FS: Fix for hiding arena matches you already have the moves for (rows did not hide correctly before).
+  # (minor) FS: issue 317. Fixed recall message from GS if bags are full. Also fixed recall from report page if GS is full or someone else already recalled the item.
+  # (minor) FS: issue 306. Changed the color in the AH for Excellent items as it was hard to see the color against the background. Perfect now show up as green and Excellent show up as yellow.
 
 ==Revision 520==
   # (Major) FS: Add buff pack in Quick Buff page, add buttons to select all buffs, clear all.
