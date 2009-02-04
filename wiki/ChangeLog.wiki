@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 532==
+  # (minor) SS2: fix the check of current hunting buffs, you will need to modify your setup in Config ("Data Processor, Researcher" etc.)
+
 ==Revision 531==
   # (Major) SS2: color champion, elite, HK monsters to green, yellow and red
 
