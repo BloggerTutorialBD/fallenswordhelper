@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 531==
+  # (Major) SS2: color champion, elite, HK monsters to green, yellow and red
+
 ==Revision 530==
   # (Major) Add shortcut key J to join all groups
   # (minor) SS2: fix chat log color for faction members
