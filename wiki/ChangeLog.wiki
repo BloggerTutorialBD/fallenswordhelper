@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 536==
+  # (minor) make minimap (shortcut key N) become smaller (mini) and load faster (using cache)
+  # (minor) fix an error prevent clearing combat log when this log is large
+
 ==Revision 534==
   # (minor) FS. PvP arena - removed font size change. Added background coloring for new matches available since last visit. Tidied up title row [?] links.
 
