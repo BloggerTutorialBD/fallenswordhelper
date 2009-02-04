@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 534==
+  # (minor) FS. PvP arena - removed font size change. Added background coloring for new matches available since last visit. Tidied up title row [?] links.
+
 ==Revision 532==
   # (minor) SS2: fix the check of current hunting buffs, you will need to modify your setup in Config ("Data Processor, Researcher" etc.)
 
