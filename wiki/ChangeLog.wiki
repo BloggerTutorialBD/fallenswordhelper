@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 538==
+  # (minor) FS. PvP arena - Added >> and << buttons to completed tournaments page to go to first and last page. Also updated the script to save arenas viewed here into the local variable for display on the view and join pages.
+
 ==Revision 536==
   # (minor) make minimap (shortcut key N) become smaller (mini) and load faster (using cache)
   # (minor) fix an error prevent clearing combat log when this log is large
