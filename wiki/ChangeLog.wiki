@@ -2,6 +2,9 @@
 =A version by version list of changes made to the script=
 
 ==Revision 545==
+  # (Minor) FS. Minor fix for "Fast Wear" functionality added in previous patch that caused a problem with moving items between bags. issue 253.
+
+==Revision 545==
   # (Minor) FS. Profile screen. Added "Fast Wear" functionality on the profile screen similar to "Fast Take" function on the Guild Store page. issue 253.
 
 ==Revision 543==
