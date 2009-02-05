@@ -1,7 +1,7 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 545==
+==Revision 547==
   # (Minor) FS. Minor fix for "Fast Wear" functionality added in previous patch that caused a problem with moving items between bags. issue 253.
 
 ==Revision 545==
