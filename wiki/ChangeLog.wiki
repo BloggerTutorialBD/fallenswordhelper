@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 543==
+  # (minor) Changes now are shown inline, not in an alert box. The window is scrollable, and Ok is always visible. (issue 330)
+  # (minor) Some work to perhaps remove problems with the Helper not updating. I'm trying to manually download the scripts first. It works for me, but I never had that problem anyway. Someone else should test it.
+  # (minor) Some synchronisation from FS to SS2 and vice versa (see the Character -> Preferences for example)
+
 ==Revision 542==
   # (minor) SS2: Synchornised SS2 with Quick Link function in SS
   # (minor) SS2: fix the incorrect name in links ([ Reply | Trade | ST | Ignore | Buff ]) for buffers
