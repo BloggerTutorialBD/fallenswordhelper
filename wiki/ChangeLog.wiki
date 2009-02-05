@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 545==
+  # (Minor) FS. Profile screen. Added "Fast Wear" functionality on the profile screen similar to "Fast Take" function on the Guild Store page. issue 253.
+
 ==Revision 543==
   # (minor) Changes now are shown inline, not in an alert box. The window is scrollable, and Ok is always visible. (issue 330)
   # (minor) Some work to perhaps remove problems with the Helper not updating. I'm trying to manually download the scripts first. It works for me, but I never had that problem anyway. Someone else should test it.
