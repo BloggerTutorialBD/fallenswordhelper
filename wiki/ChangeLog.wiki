@@ -1,8 +1,8 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 551==
-  # (Major) SS2: add shortcut key "=" to access the action in world map (view shop, use Medical Center, view Assembly, Engineering shop, use stairway to other map)
+==Revision 552==
+  # (Major) SS2: add shortcut key "=" to access the action in world map (view shop, use Medical Center, view Assembly, Engineering, Augmentation shop, view Bank, use stairway to other map)
 
 ==Revision 547==
   # (Minor) FS. Minor fix for "Fast Wear" functionality added in previous patch that caused a problem with moving items between bags. issue 253.
