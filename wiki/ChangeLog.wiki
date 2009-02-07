@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+
+==Revision 554==
+  # (minor) FS. Added mouseover for relic picture on Guild>Relic List page with stats on the relic. If anyone sees any errors, please let me know (Tangtop) and I will fix them.
+
 ==Revision 553==
   # (minor) Fixed problem with mass message button (the value should be "Send As Mass" instead of "Send as Mass") (issue 326)
   # (minor) Fixed readability and action problems of the update dialog box (issue 342).
