@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 553==
+  # (minor) Fixed problem with mass message button (the value should be "Send As Mass" instead of "Send as Mass") (issue 326)
+  # (minor) Fixed readability and action problems of the update dialog box (issue 342).
+
 ==Revision 552==
   # (Major) SS2: add shortcut key "=" to access the action in world map (view shop, use Medical Center, view Assembly, Engineering, Augmentation shop, view Bank, use stairway to other map)
 
