@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 558==
+
+  # (Major) SS2: add level filter in online player list, the list also remember last sorting order
+
 ==Revision 556==
   # (minor) FS. Fix for quick wear functionality if you have quest item or potion in your bags. Should work for all folders if enabled. issue 348.
 
