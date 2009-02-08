@@ -2,6 +2,9 @@
 =A version by version list of changes made to the script=
 
 ==Revision 561==
+  # (minor) SS2: fix sorting in Faction Advisor (issue 305)
+
+==Revision 561==
   # (minor) FS: add links to search current map in FSG and wiki on world page (issue 135)
 
 ==Revision 560==
