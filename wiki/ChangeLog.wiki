@@ -1,6 +1,8 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 556==
+  # (minor) FS. Fix for quick wear functionality if you have quest item or potion in your bags. Should work for all folders if enabled. issue 348.
 
 ==Revision 554==
   # (minor) FS. Added mouseover for relic picture on Guild>Relic List page with stats on the relic. If anyone sees any errors, please let me know (Tangtop) and I will fix them.
