@@ -1,8 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 558==
+==Revision 560==
+  # (Major) FS: sync level filter function in online player list from SS2
 
+==Revision 558==
   # (Major) SS2: add level filter in online player list, the list also remember last sorting order
 
 ==Revision 556==
