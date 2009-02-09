@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 566==
+  # (Major) At the request of HCS, I removed the quick kill by type functionality.
+
 ==Revision 565==
   # (minor) Fixed issue with guilds having double spaces in their name. (issue 357)
 
