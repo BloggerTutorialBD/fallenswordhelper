@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 568==
+  # (Major) At the request of HCS, I removed the "click to bid/buyout" functionality.
+
 ==Revision 567==
   # (minor) SS2: fixed issue after the quick kill by type removal.
 
