@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 569==
+  # (minor) At the suggestion of HCS, I added the creature/entity image in the view mouseover.
+
 ==Revision 568==
   # (Major) At the request of HCS, I removed the "click to bid/buyout" functionality.
 
