@@ -2,12 +2,8 @@
 =A version by version list of changes made to the script=
 
 ==Revision 577==
-  # (minor) FS. issue 363. Fixed quick wear if you had quest item or potion in your
-bag for items that showed up after that potion or quest item.
-  # (minor) FS. issue 170. Added a do not kill list on the preferences screen. Comma
-separated list, the creature will show up as red on the world screen and also
-the keyboard functions for killing this type of creature have been blocked (you
-just get a message saying it is on your do not kill list).
+  # (minor) FS. issue 363. Fixed quick wear if you had quest item or potion in your bag for items that showed up after that potion or quest item.
+  # (minor) FS. issue 170. Added a do not kill list on the preferences screen. Comma separated list, the creature will show up as red on the world screen and also the keyboard functions for killing this type of creature have been blocked (you just get a message saying it is on your do not kill list).
 
 ==Revision 576==
   # (Major) Add shortcut "P" to go to profile page (issue 370).
