@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 575==
+  # (Major) Add shortcut ">" and "<" to navigate to next, previous pages where ">" and "<" are available (AH/TH, Logs, etc.)
+
 ==Revision 574==
   # (minor) SS2: Fixed Show Combat Log page
 
