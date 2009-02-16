@@ -1,14 +1,17 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 581==
+  # (minor) Corrected issue with advisor (added a more generic way to detect the page - should work at most similar pages)
+
 ==Revision 580==
-  # (minor) FS. issue 163. Fixed rounding error with kill streak DD bonus.
-  # (minor) FS. issue 363. Found error with Fast Wear when you only had 4 items in your bag after my last change so I fixed it.
-  # (minor) FS. issue 170. Found error with do not kill list where it would not actually stop you from killing the critter (even though it said it did). Now you should not be able to kill any creature in your do not kill list.
+  # (minor) FS: Fixed rounding error with kill streak DD bonus (issue 163).
+  # (minor) FS: Found error with Fast Wear when you only had 4 items in your bag after my last change so I fixed it (issue 363).
+  # (minor) FS: Found error with do not kill list where it would not actually stop you from killing the critter (even though it said it did). Now you should not be able to kill any creature in your do not kill list (issue 170).
 
 ==Revision 577==
-  # (minor) FS. issue 363. Fixed quick wear if you had quest item or potion in your bag for items that showed up after that potion or quest item.
-  # (minor) FS. issue 170. Added a do not kill list on the preferences screen. Comma separated list, the creature will show up as red on the world screen and also the keyboard functions for killing this type of creature have been blocked (you just get a message saying it is on your do not kill list).
+  # (minor) FS. Fixed quick wear if you had quest item or potion in your bag for items that showed up after that potion or quest item (issue 363).
+  # (minor) FS. Added a do not kill list on the preferences screen. Comma separated list, the creature will show up as red on the world screen and also the keyboard functions for killing this type of creature have been blocked (you just get a message saying it is on your do not kill list) (issue 170).
 
 ==Revision 576==
   # (Major) Add shortcut "P" to go to profile page (issue 370).
