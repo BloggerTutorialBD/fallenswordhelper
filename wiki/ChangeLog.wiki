@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 580==
+  # (minor) FS. issue 163. Fixed rounding error with kill streak DD bonus.
+  # (minor) FS. issue 363. Found error with Fast Wear when you only had 4 items in your bag after my last change so I fixed it.
+  # (minor) FS. issue 170. Found error with do not kill list where it would not actually stop you from killing the critter (even though it said it did). Now you should not be able to kill any creature in your do not kill list.
+
 ==Revision 577==
   # (minor) FS. issue 363. Fixed quick wear if you had quest item or potion in your bag for items that showed up after that potion or quest item.
   # (minor) FS. issue 170. Added a do not kill list on the preferences screen. Comma separated list, the creature will show up as red on the world screen and also the keyboard functions for killing this type of creature have been blocked (you just get a message saying it is on your do not kill list).
