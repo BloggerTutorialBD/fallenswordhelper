@@ -1,7 +1,7 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 584==
+==Revision 585==
   # (minor) Re-added the second way to detect advisor page. Should only work in index.php (without ?xxx=yyy) now (issue 374).
 
 ==Revision 583==
