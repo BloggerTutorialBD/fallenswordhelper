@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 588==
+  # (minor) SS2: fixed the quick-change combat set (shortcut Shift+1, etc.) after the update
+
 ==Revision 587==
   # (Major) FS: Modified Inventory Manager (personal and guild) to add data from rubicksman's item list. You can now view and sort by where the item is and also by item type (gloves, helmet etc).
   # (minor) FS: Cut down fsData.js for size.
