@@ -1,11 +1,16 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 587==
+  # (Major) FS: Modified Inventory Manager (personal and guild) to add data from rubicksman's item list. You can now view and sort by where the item is and also by item type (gloves, helmet etc).
+  # (minor) FS: Cut down fsData.js for size.
+  # (minor) FS: Removed inventory html, which was not used anywhere but was making the collected data way too big (4 MB for my guild, cut down to 0.4MB after that).
+
 ==Revision 585==
   # (minor) Re-added the second way to detect advisor page. Should only work in index.php (without ?xxx=yyy) now (issue 374).
 
 ==Revision 583==
-  # (minor) FS. temp rollback of r582 FS change as it broke Profile and Arena pages. This will be updated again in a future update. issue 374.
+  # (minor) FS: temp rollback of r582 FS change as it broke Profile and Arena pages. This will be updated again in a future update. issue 374.
 
 ==Revision 582==
   # (minor) Corrected issue with advisor (added a more generic way to detect the page - should work at most similar pages)
