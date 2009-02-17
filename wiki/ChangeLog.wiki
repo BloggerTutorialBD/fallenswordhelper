@@ -1,10 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 584==
+  # (minor) Re-added the second way to detect advisor page. Should only work in index.php (without ?xxx=yyy) now (issue 374).
+
 ==Revision 583==
   # (minor) FS. temp rollback of r582 FS change as it broke Profile and Arena pages. This will be updated again in a future update. issue 374.
 
-==Revision 581==
+==Revision 582==
   # (minor) Corrected issue with advisor (added a more generic way to detect the page - should work at most similar pages)
 
 ==Revision 580==
