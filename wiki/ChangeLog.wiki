@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 589==
+  # (minor) FS. issue 376. Updated script to prevent do not kill from showing creature in red if you are not using the quick kill function. The do not kill functionality only works if you are using the keyboard to kill and only if quick kill is enabled
+
 ==Revision 588==
   # (minor) SS2: fixed the quick-change combat set (shortcut Shift+1, etc.) after the update
 
