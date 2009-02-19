@@ -1,8 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 597==
+  # (Major) Logged in status remains for 30 seconds (issue 41)
+  # (minor) Cleaned up some code (date serialization, storing JSON values)
+
 ==Revision 596==
-  # (minor) SS2: Fixed quick kill - it should now point to monsters (entities) instead of players!
+  # (minor) SS2: Fixed quick kill - it should now point to monsters (entities) instead of players! (issue 388 and issue 389) 
 
 ==Revision 595==
   # (minor) FS: Fixed missing function in Preferences (showMonsterLog)
