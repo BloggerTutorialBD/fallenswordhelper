@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 596==
+  # (minor) SS2: Fixed quick kill - it should now point to monsters (entities) instead of players!
+
 ==Revision 595==
   # (minor) FS: Fixed missing function in Preferences (showMonsterLog)
 
