@@ -1,6 +1,15 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 594==
+  # (minor) Added option to disable monster coloring
+  # (minor) FS: Fixed coloring of Super Elites (hopefully - I haven't seen any SE yet :))
+  # (minor) Made links to the site more prominent.
+  # (minor) Changed the default for quick kill to true (this will affect new players mostly - I hope all current players know you can enable quick kill [not quick kill by type - that's gone!] from preferences).
+  # (minor) FS: Fixed issue with image not appearing on mouseover of the "view creature" button.
+  # (minor) Fixed cosmetic issues with monster log.
+  # (minor) Fixed issue with not parsing monster stats larger than 1000 (issue 382). Of course existing data will still be corrupt.
+
 ==Revision 592==
   # (minor) SS2: Correct link to monster log in menu
 
