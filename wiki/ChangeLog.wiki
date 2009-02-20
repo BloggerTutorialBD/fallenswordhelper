@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 601==
+  # (Major) I think I finally fixed the auto update issue! (latest victim was in issue 390)
+
 ==Revision 600==
   # (minor) FS: Fixed guild group creation
   # (minor) SS2: Added guild group creation / go to guild keyboard shortcuts
