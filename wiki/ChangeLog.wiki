@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 599==
+  # (minor) Added commas to the online members XP mouseover.
+
 ==Revision 598==
   # (Major) FS: Changed keyboard shortcuts: "g" (lower case) goes to guild, "G" (upper case) creates a group.
   # (minor) SS2: Updated Mission Manager (issue 396)
