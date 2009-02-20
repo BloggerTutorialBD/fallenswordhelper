@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 600==
+  # (minor) FS: Fixed guild group creation
+  # (minor) SS2: Added guild group creation / go to guild keyboard shortcuts
+
 ==Revision 599==
   # (minor) Added commas to the online members XP mouseover.
 
