@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 598==
+  # (Major) FS: Changed keyboard shortcuts: "g" (lower case) goes to guild, "G" (upper case) creates a group.
+  # (minor) SS2: Updated Mission Manager (issue 396)
+
 ==Revision 597==
   # (Major) Logged in status remains for 30 seconds (issue 41)
   # (minor) Cleaned up some code (date serialization, storing JSON values)
