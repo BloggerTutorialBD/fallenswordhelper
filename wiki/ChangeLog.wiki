@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 602==
+  # (minor) FS. issue 384. Bio Compressor. Shortens other players bio's and puts a More ... link so you can expand the rest of the bio (so you don't have to scroll to the bottom of the page for long bios). Defaults to off, default settings for bio to show are 1500 characters or 25 lines (whichever is shorter) and you can change these settings.
+  # (minor) FS. Tweaked size and layout of quick buff screen to make it fit better (I hope). issue 373.
+  # (minor) FS. Added missing items to the internal list for the inventory manager. issue 375. Also added debug message for the exact item name that does not link for inventory manager.
+
 ==Revision 601==
   # (Major) I think I finally fixed the auto update issue! (latest victim was in issue 390)
 
