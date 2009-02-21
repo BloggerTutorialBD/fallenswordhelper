@@ -23,6 +23,7 @@ Actually, since features are added very frequently, there may be a lot more than
   # Option to hide banner.
   # Guild Advisor is sortable, by clicking on the columns. Click again to reverse direction.
   # On the player log screen, guildmates are colored green.
+  # Option to compress other players bios to a shorter length with a link to show all when clicked.
 
 == Quick links ==
   # A list of all members of the guild that are currently online is displayed. You can directly buff a player from that list. Any player that has logged in in the last 15 seconds or so, is displayed in yellow (the guild list is not retrieved from server if it has been updated less than 15 seconds ago).
