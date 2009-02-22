@@ -1,10 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 606==
+  # (minor) Fixes for autoupdate.
+
 ==Revision 605==
   # (minor) Code cleanup
   # (minor) Remove deleted players from the online guild members list (issue 397)
-  # (minor) SS2: Fixed autoupdate going to the wrong script to update. Everyone who has a problem with updating Sigma Storm Helper this should go to [<a href="http://fallenswordhelper.googlecode.com/svn-history/r605/trunk/sigmastormhelper.user.js">direct installation</a>] instead of pressing ok.
+  # (minor) SS2: Fixed autoupdate going to the wrong script to update. Everyone who has a problem with updating Sigma Storm Helper this should go click here [<a href="http://fallenswordhelper.googlecode.com/svn-history/r606/trunk/sigmastormhelper.user.js">direct installation</a>] instead of pressing ok.
 
 ==Revision 602==
   # (minor) FS. issue 384. Bio Compressor. Shortens other players bio's and puts a More ... link so you can expand the rest of the bio (so you don't have to scroll to the bottom of the page for long bios). Defaults to off, default settings for bio to show are 1500 characters or 25 lines (whichever is shorter) and you can change these settings.
