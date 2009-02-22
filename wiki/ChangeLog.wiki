@@ -1,8 +1,8 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 609==
-  # (Major) SS2: Ported preview player's infor in quick buff screen
+==Revision 610==
+  # (Major) SS2: Ported preview player's infor in quick buff screen (may need a reinstall to get calfSystem updated)
   # (minor) SS2: Fixed the quick-change combat set
 
 ==Revision 607==
