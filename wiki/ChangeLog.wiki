@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 609==
+  # (Major) SS2: Ported preview player's infor in quick buff screen
+  # (minor) SS2: Fixed the quick-change combat set
+
 ==Revision 607==
   # (minor) Added more firefox related browsers in browser detection.
   # (minor) Fix for guild online list error when a new member is added to the guild.
