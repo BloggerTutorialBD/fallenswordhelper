@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 612==
+  # (Major) SS2: Added template in private message screen (issue 379)
+
 ==Revision 611==
   # (minor) SS2: Fixed error in popup pages (e.g. quick buff).
 
