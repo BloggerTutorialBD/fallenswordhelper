@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 618==
+  # (Major) SS2: Ported fast wear from FS
+
 ==Revision 617==
   # (minor) SS2: Fixed Backpack Manager (not show wearable items in backpack before)
 
