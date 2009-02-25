@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 615==
+  # (Major) Added option to quick send money to another player from the world screen (issue 167)
+  # (minor) SS2: Ported bio compression from FS
+  # (minor) SS2: Changed warning message for "Do Not Kill List" to cyan from blue.
+
 ==Revision 614==
   # (minor) Inventory Manager (personal/guild/faction) cosmetic changes
   # (minor) Inventory Manager fix for when an item is removed from GS when parsing (issue 411)
