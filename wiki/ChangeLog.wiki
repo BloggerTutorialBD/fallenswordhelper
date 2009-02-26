@@ -2,9 +2,9 @@
 =A version by version list of changes made to the script=
 
 ==Revision 619==
-  # (minor) FS. issue 421. Fixed the issue that guild chat/log widgets can fail if the user has guild online list disabled or if the user doesn't have a guild.
-  # (minor) FS. issue 295. Added coloring to the logs if an ally or enemy sends you a message (Blue for Ally, Red for Enemy). Only works if you first visit the Profile page.
-  # (minor) FS. issue 394. Fixed the issue with Arena moves no longer showing on the join screen.
+  # (minor) FS: Fixed the issue that guild chat/log widgets can fail if the user has guild online list disabled or if the user doesn't have a guild (issue 421).
+  # (minor) FS: Added coloring to the logs if an ally or enemy sends you a message (Blue for Ally, Red for Enemy). Only works if you first visit the Profile page (issue 295).
+  # (minor) FS: Fixed the issue with Arena moves no longer showing on the join screen (issue 394).
 
 ==Revision 618==
   # (Major) SS2: Ported fast wear from FS
@@ -13,7 +13,7 @@
   # (minor) SS2: Fixed Backpack Manager (not show wearable items in backpack before)
 
 ==Revision 616==
-  # (Major) Make entity log sortable with default sort by level and with larger image tooltip(issue 416)
+  # (Major) Make entity log sortable with default sort by level and with larger image tooltip (issue 416)
   # (minor) SS2: fixed a time display format in combat log
 
 ==Revision 615==
