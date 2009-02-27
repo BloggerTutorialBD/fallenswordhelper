@@ -1,8 +1,8 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 624==
-  # (Major) SS2: Added class skill quick cast popup when click on class icon next to kill power bar (issue 433)
+==Revision 625==
+  # (Major) SS2: Added class-skill quick cast popup when click on class icon next to Skill Power bar (top right) (issue 433)
 
 ==Revision 623==
   # (minor) Fixed issue with "Show Only Useable Items" is one level out (issue 432)
