@@ -1,8 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 629==
+  # (minor) FS: Ported lvl and rank column in advisor (issue 98)
+
 ==Revision 628==
-  # (Major) SS2: Added lvl and rank column in advisor (issue 98)
+  # (minor) SS2: Added lvl and rank column in advisor (issue 98)
 
 ==Revision 626==
   # (Major) FS: Added functionality to the list auction page so that you can create auction templates (Length/Currency/MinBid/BuyNow) that can be applied. You can have up to 10 templates, the default one is 48 hours, 1FSP MinBid, 1FSP BuyOut. Closest we will get I think to fixing issue 311.
