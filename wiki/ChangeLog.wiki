@@ -1,7 +1,7 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 620==
+==Revision 623==
   # (minor) Fixed issue with "Show Only Useable Items" is one level out (issue 432)
 
 ==Revision 619== 
