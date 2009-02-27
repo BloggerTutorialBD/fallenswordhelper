@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 626==
+  # (major) FS: Added functionality to the list auction page so that you can create auction templates (Length/Currency/MinBid/BuyNow) that can be applied. You can have up to 10 templates, the default one is 48 hours, 1FSP MinBid, 1FSP BuyOut. Closest we will get I think to fixing issue 311.
+  # (minor) FS: Added functionality to the AH quick search to make adding and removing searches from there easier. You can now add and delete individual searches. issue 11.
+  # (minor) FS: Added functionality to the log so that if you get outbid in the AH, it adds a link straight to "My Bids". issue 173
+
 ==Revision 625==
   # (Major) SS2: Added class-skill quick cast popup when click on class icon next to Skill Power bar (top right) (issue 433)
 
