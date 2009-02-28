@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 630==
+  # (minor) FS: Fixed advisor sorting (issue 434)
+
 ==Revision 629==
   # (minor) FS: Ported lvl and rank column in advisor (issue 98)
 
