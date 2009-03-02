@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 631==
+  # (minor) SS2: Fixed Inventory Manager not work with empty folder (issue 437)
+
 ==Revision 630==
   # (minor) FS: Fixed advisor sorting (issue 434)
 
