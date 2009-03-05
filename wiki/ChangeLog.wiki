@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 638==
+  # (minor) FS: Bug fix for AH quick search saving of the text area introducted in
+r636. Text area will not save without this fix.
+
 ==Revision 636==
   # (minor) FS: Fixed AH template enhancements so that you can delete the default template and also enter templates with null buy now values. issue 439.
   # (major) FS: Fixed the AH quick search so that the grid on the AH screen is editable. Maximum of 18 items can show up and you can configure the list that shows up on the AH quick search screen. I added a new parameter called "displayOnAH" and this has to be set for a quick search to show up on the AH page. Hopefully this should not be too hard for people to figure out how to use. You can always reset your AH quick search page to get a list to show up (make sure you save your old one first to notepad or something). issue 300
