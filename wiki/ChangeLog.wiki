@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 645==
+  # (Major) SS2: Ported from FS functionality to the list auction page so that you can create auction templates (Length/Currency/MinBid/BuyNow) that can be applied. You can have up to 10 templates, the default one is 48 hours, 1FC MinBid, 1FC BuyOut.
+
 ==Revision 643==
   # (minor) FS: Another quick bug fix for the AH modifications made in r636. If you did not have any quick searches set up to display on AH, then the AH screen would not show craft or FF values.
 
