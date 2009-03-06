@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 641==
+  # (minor) FS: Added functionality to hide arena prizes. Simply add the itemId to a comma separated list on the preferences screen and the item will be hidden. You can see the itemID by mousing over the item on the arena page. issue 321
+  # (minor) FS: Fixed bug that broke fast wear when you had no allies or enemies. issue 431
+  # (minor) FS: Added separator line to recipie manager and cleaned the layout up a little. issue 441
+
 ==Revision 638==
   # (minor) FS: Bug fix for AH quick search saving of the text area introducted in r636. Text area will not save without this fix.
 
