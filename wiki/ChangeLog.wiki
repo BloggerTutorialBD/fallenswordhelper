@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 648==
+  # (minor) SS2: Fixed footprints in large map (issue 457)
+
 ==Revision 646==
   # (minor) SS2: Fixed error refreshing Faction Inventory with resource (issue 450)
 
