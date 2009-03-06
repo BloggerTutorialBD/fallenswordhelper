@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 643==
+  # (minor) FS: Another quick bug fix for the AH modifications made in r636. If you did not have any quick searches set up to display on AH, then the AH screen would not show craft or FF values.
+
 ==Revision 641==
   # (minor) FS: Added functionality to hide arena prizes. Simply add the itemId to a comma separated list on the preferences screen and the item will be hidden. You can see the itemID by mousing over the item on the arena page. issue 321
   # (minor) FS: Fixed bug that broke fast wear when you had no allies or enemies. issue 431
