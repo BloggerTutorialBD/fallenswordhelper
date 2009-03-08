@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 650==
+  # (minor) SS2: Fixed quick heal (h) and map quick action (=) disabled after r649.
+
 ==Revision 649==
   # (minor) Some code cleanup.
 
