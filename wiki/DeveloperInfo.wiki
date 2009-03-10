@@ -20,16 +20,30 @@ Code is stored at Google Code and can be retrieved by using Subversion.
 
 Each Helper script is based on 5 different files (two are common between the two scripts).
 == System (calfSystem.js) ==
+
+This file contains system function, which have nothing to do with direct page manipulation. In general, most of this file could be used as is in any site.
+
 == JSON (json2.js) ==
+
 This file is taken from http://www.json.org/ and it contains all necessary functions to serialize and deserialize objects into JSON (JavaScript Object Notation), making it easy to store raw objects in the GreaseMonkey store as strings.
 
 == Data (fsData.js/ssData.js) ==
+
+
+
 == Layout (fsLayout.js/ssLayout.js) ==
 == Helper (fallenswordhelper.js/sigmastormhelper.js ==
-This is the main script file, which contains most of the code. Since it was *grown* and not designed, it can be a little difficult to navigate, as the functions don't keep much of an order.
+This is the main script file, which contains most of the code. Since it was *grown* and not designed, it can be a little difficult to navigate, as the functions are not in much of an order.
 
 = Style =
 == HTML ==
+
+Modern HTML is prefered, regardless of underlying (HCS) HTML coding standards. This means that SPAN and DIV tags are preferred from FONT or TABLE tags (of course in many cases TABLE tags are going to be required.
+
+== Javascript ==
+=== Coding style ===
+=== Variable naming ===
+
 = Procedure =
 == Members ==
 === !ChangeLog ===
