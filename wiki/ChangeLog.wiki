@@ -11,7 +11,7 @@
   # (minor) Code cleanup.
 
 ==Revision 651==
-  # (minor) SS2: Fixed faction history editor (enable character count, preview update on keypress, remove <br />)
+  # (minor) SS2: Fixed faction history editor (enable character count, preview update on keypress, remove breaks)
 
 ==Revision 650==
   # (minor) SS2: Fixed quick heal (h) and map quick action (=) disabled after r649.
