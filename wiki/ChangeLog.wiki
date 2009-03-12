@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 658==
+  # (Major) SS2: Added quick select button at the end of trade/send page (easier for repairers to send items back)
+
 ==Revision 657==
   # (minor) SS2: Updated mission manager data for lvl 81-90 missions (issue 472)
 
