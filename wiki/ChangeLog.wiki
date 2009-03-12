@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 657==
+  # (minor) SS2: Updated mission manager data for lvl 81-90 missions (issue 472)
+
 ==Revision 653==
   # (minor) FS: Tweaked log coloring so more log messages show colored names if they are guildmates, allies or enemies. Also added [ Reply | etc | Buff ] links to more messages. Also made it so that [ Reply | etc | Buff ] is not split between lines (looked funny to me). Also removed ignore link for guildmates (that would just be rude).
   # (minor) FS: Added button to online guild list that allows you to reset the saved memberlist if you are having issues with it (we had quite a few bug reports and until we track it down we are providing a means to reset it). Reseting the list will force it to refresh on a new page load (so most of the time you won't notice a difference). issue 460.
