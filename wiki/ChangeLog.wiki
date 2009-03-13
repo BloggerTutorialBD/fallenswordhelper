@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 659==
+  # (major) FS: New feature for create auction screen to show the item you are auctioning on the 2nd page of the auction screen (where you decide how much to list it for).
+  # (minor) FS: Fix for Fast Wear when you have no enemies. issue 431
+  # (minor) FS: Fix for Creature page kill evaluator for HF buff. issue 473
+  # (minor) FS: Fix for do not kill list to deal with creatures that have extra spaces at the start and end of their names.
+
 ==Revision 658==
   # (Major) SS2: Added quick select button at the end of trade/send page (easier for repairers to send items back)
 
