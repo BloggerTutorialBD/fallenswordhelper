@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 663==
+  # (major) FS: After removing a buff from the world screen it will stay on the world screen (and refresh the page). issue 50
+  # (minor) Added scroll bars to quick buff screen. issue 429
+  # (minor) FS: Added stam cost as mouseover on quickbuff screen. issue 142
+
 ==Revision 661==
   # (minor) FS: Added Active arena count to arena screen. issue 257
   # (minor) FS: Fixed mouseover on X's on the guild manage page so it looks like it does on the profile page.
