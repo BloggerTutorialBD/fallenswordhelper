@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 664==
+  # (minor) FS: Fixed error in world screen when you don't have any buffs on
+
 ==Revision 663==
   # (major) FS: After removing a buff from the world screen it will stay on the world screen (and refresh the page). issue 50
   # (minor) Added scroll bars to quick buff screen. issue 429
