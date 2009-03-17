@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 668==
+  # (Major) SS2: Added evolution stat calculator in player's profile
+  # (minor) SS2: Fixed large map not display current position (issue 457)
+
 ==Revision 666==
   # (minor) FS: Fix for imp counter caused by bug in feature added in r663 where you stay on the world screen if you remove a buff. issue 50
 
