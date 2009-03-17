@@ -14,9 +14,9 @@ For more information, see [http://userscripts.org/about/installing UserScripts.o
   # After installing Firefox, go to the [https://addons.mozilla.org/en-US/firefox/addon/748 Greasemonkey installation page]
   # Click on the "Add to Firefox" button
   # Restart your browser
-  # Come back [http://code.google.com/p/fallenswordhelper/ here] and click on [http://fallenswordhelper.googlecode.com/svn/trunk/fallenswordhelper.user.js Install Script]
+  # Come back [http://code.google.com/p/fallenswordhelper/ here] and click on [http://fallenswordhelper.googlecode.com/svn/trunk/fallenswordhelper.user.js FS Install Script] for FallenSword, or [http://fallenswordhelper.googlecode.com/svn/trunk/sigmastormhelper.user.js SS2 Install Script] for SigmaStorm2.
   # Press "Install" (you might have to wait 3 seconds before you can)
-  # You're done. Return to [http://www.fallensword.com Fallen Sword]
-  # To check if the script was installed, go to [http://fallensword.com/index.php?cmd=settings Character > Preferences] on the Fallen Sword menu. At the end of the preferences page, you should see a new section, called "Fallen Sword Helper configuration"
+  # You're done. Return to [http://www.fallensword.com Fallen Sword] or [http://www.sigmastorm2.com SigmaStorm2]
+  # To check if the script was installed, go to [http://fallensword.com/index.php?cmd=settings Character > Preferences] on the Fallen Sword menu, or [http://sigmastorm2.com/index.php?cmd=settings Character > Config] on the Sigma Storm 2 menu. At the end of the preferences page, you should see a new section, called "Fallen Sword Helper configuration" / "Sigma Storm Helper configuration"
 
 Enjoy!
