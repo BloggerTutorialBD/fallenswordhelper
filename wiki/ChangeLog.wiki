@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 672==
+  # (minor) SS2: Fixed Reply|Trade|... links in log (issue 483)
+  # (minor) SS2: Fixed ally color in chat (issue 482)
+
 ==Revision 669==
   # (minor) SS2: (Ported from FS) Tweaked log coloring so more log messages show colored names if they are guildmates, allies or enemies. Also added [ Reply | etc | Buff ] links to more messages. Also made it so that [ Reply | etc | Buff ] is not split between lines (looked funny to me). Also removed ignore link for guildmates (that would just be rude).
 
