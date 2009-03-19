@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 673==
+  # (minor) SS2: Fixed error if you have no enemies or allies
+
 ==Revision 672==
   # (minor) SS2: Fixed Reply|Trade|... links in log (issue 483)
   # (minor) SS2: Fixed ally color in chat (issue 482)
