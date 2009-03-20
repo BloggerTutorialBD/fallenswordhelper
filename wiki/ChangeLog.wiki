@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 674==
+  # (minor) SS2: Fixed rank player button (issue 484)
+  # (minor) SS2: Ported reset faction list from FS: allows you to reset the saved memberlist if you are having issues with it.
+
 ==Revision 673==
   # (minor) SS2: Fixed error if you have no enemies or allies
 
