@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 675==
+  # (Major) FS: Add arena lvl filter, remember arena sort criteria from last view
+
 ==Revision 674==
   # (minor) SS2: Fixed rank player button (issue 484)
   # (minor) SS2: Ported reset faction list from FS: allows you to reset the saved memberlist if you are having issues with it.
