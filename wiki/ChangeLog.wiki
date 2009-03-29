@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 676==
+  # (minor) FS: Fixed quest data (issue 501)
+  # (minor) FS: Added more shortcut (shift + 6 to 9) for changing combat set (issue 474)
+  # (minor) FS: Added arena sort by State (Open / In Progress)  (issue 499)
+
 ==Revision 675==
   # (Major) FS: Add arena lvl filter, remember arena sort criteria from last view
 
