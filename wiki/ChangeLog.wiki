@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 677==
+  # (minor) SS2: Fixed fast take / fast wear function not working after the stackable update
+  # (minor) SS2: Remove "1/1" under items in profile inventory, faction store
+
 ==Revision 676==
   # (minor) FS: Fixed quest data (issue 501)
   # (minor) FS: Added more shortcut (shift + 6 to 9) for changing combat set (issue 474)
