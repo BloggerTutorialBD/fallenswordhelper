@@ -1,6 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 678==
+  # (minor) FS: Added preference for auto sorting arena listings. Defaults to off. issue 502
+  # (minor) FS: Hid the HCS added "Trade" link. The two options are now "Trade" (Regular Trade) and "ST" (Secure Trade). issue 504 and issue 506
+  # (minor) FS: Hid the "Wear" link for non-wearable gear (e.g. plants). issue 493 and issue 511
+  # (minor) FS: Removed Death Dealer and Vision from the skills that go gray if less than 75 points is invested. issue 480
+
+
 ==Revision 677==
   # (minor) SS2: Fixed fast take / fast wear function not working after the stackable update
   # (minor) SS2: Remove "1/1" under items in profile inventory, faction store
