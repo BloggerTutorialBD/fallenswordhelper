@@ -104,8 +104,8 @@ Actually, since features are added very frequently, there may be a lot more than
   # Open mini map: n
   # Move to next/previous page: > < (only works in pages that have ">", "<" button to move, such as AH/TH, log page)
   # Change combat set: Shift + # where # is a number from 1 to 9
-  # Scroll combat log: PageUp, PageDown (only in world page with visible combat log)
-  # Toggle footprint: [[x]] or [[v]] icons under world map in world screen
+  # Scroll combat log: `PgUp`, `PgDn` (only in world page with visible combat log)
+  # Toggle footprint: `[x]` or `[v]` icons under world map in world screen
   # Quick gold/credit send: gold/credit icon under world map in world screen (must enable this feature in Preference/Config page first)
 === Sigmastorm2 Specific Keys and Links ===
   # Open shop, augmentation center, engineering center, using health center: = (you must be at the shop, center)
