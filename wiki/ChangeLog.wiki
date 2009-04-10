@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 679==
+  # (minor) SS2: Fixed bug not able to move items to folder (issue 518)
+
 ==Revision 678==
   # (minor) FS: Added preference for auto sorting arena listings. Defaults to off. issue 502
   # (minor) FS: Hid the HCS added "Trade" link. The two options are now "Trade" (Regular Trade) and "ST" (Secure Trade). issue 504 and issue 506
