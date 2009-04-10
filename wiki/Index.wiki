@@ -89,7 +89,31 @@ Actually, since features are added very frequently, there may be a lot more than
   # Preferences page has customizations for most of the functionality (mainly enable/disable).
   # Auto update functionality - every six hours a request is made to see if there's a new version.
 
-My in-game name is Coccinella - feel free to contact me for any questions or remarks
+== Ingame Shortcut Keys and Links ==
+  # Moving: a, w, d, x, q, e, c, z as without this script
+  # Moving: left, right, up, down arrow
+  # Repair: r as without this script
+  # Quick kill monster without going away from world screen: number 1 - 8
+  # Create group/squad: G (Shift + g)
+  # Go to guild/faction page: g
+  # Join all groups/squad: j
+  # Back pack: b
+  # Return to world page: 0
+  # Open map: m (map opened in new tab)
+  # Go to profile/datasheet: p
+  # Open mini map: n
+  # Move to next/previous page: > < (only works in pages that have ">", "<" button to move, such as AH/TH, log page)
+  # Change combat set: Shift + # where # is a number from 1 to 9
+  # Scroll combat log: PageUp, PageDown (only in world page with visible combat log)
+  # Toggle footprint: [[x]] or [[v]] icons under world map in world screen
+  # Quick gold/credit send: gold/credit icon under world map in world screen (must enable this feature in Preference/Config page first)
+=== Sigmastorm2 Specific Keys and Links ===
+  # Open shop, augmentation center, engineering center, using health center: = (you must be at the shop, center)
+  # Quick heal: h (you need to have your class healing skill, and have enough in skill power bar)
+  # Quick heal link: the heart icon on the left of the health bar
+  # Quick class skill cast: the class icon on the right of the skill power bar
+
+My Fallensword in-game name is Coccinella - feel free to contact me for any questions or remarks. For Sigmastorm2, please contact [http://www.sigmastorm2.com/index.php?cmd=profile&player_id=1191381 dkwizard].
 
 [Installation]
 [FAQ]
