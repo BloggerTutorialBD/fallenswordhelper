@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 684==
+  # (minor) FS: Added Fast Take to Mailbox screen. issue 409
+  # (minor) FS: Added Fast Cancel to My Auctions screen. issue 266
+  # (minor) FS: Fixed extremely minor bug that showed up if you tried to list an auction but had no slots left.
+
 ==Revision 683==
   # (minor) Add ingame shortcut keys and links description in the wiki page (wiki/index)
 
