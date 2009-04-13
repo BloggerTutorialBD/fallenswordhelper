@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 686==
+  # (minor) FS: Fixed minor bug with Fast Cancel for the AH. Only the first page was showing up the Fast Cancel functionality. issue 528
+
 ==Revision 684==
   # (minor) FS: Added Fast Take to Mailbox screen. issue 409
   # (minor) FS: Added Fast Cancel to My Auctions screen. issue 266
