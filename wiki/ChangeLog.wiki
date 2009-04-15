@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 688==
+  # (minor) SS2: Ported Fast Cancel in My Auctions screen
+  # (minor) SS2: Ported Fast Take in Mailbox screen
+  # (minor) SS2: Fixed Backpack Manager (issue 529)
+  # (minor) SS2: Added more shortcut (shift + 6 to 9) for changing combat set (issue 474)
+
 ==Revision 686==
   # (minor) FS: Fixed minor bug with Fast Cancel for the AH. Only the first page was showing up the Fast Cancel functionality. issue 528
 
