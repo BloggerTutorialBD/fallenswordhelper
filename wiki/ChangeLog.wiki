@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 689==
+  # (minor) SS2: Fixed player stats calculator bug when set does not have 3 pieces
+
 ==Revision 688==
   # (minor) SS2: Ported Fast Cancel in My Auctions screen
   # (minor) SS2: Ported Fast Take in Mailbox screen
