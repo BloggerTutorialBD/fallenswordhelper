@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 690==
+  # (major) FS: Updated code for View Creature page to provide a section for "Can my group kill this" (Group Combat Evaluator). This will only show up if the player has a group and will include the same logic as used for the single player combat evaluator. issue 296
+  # (major) FS: Updated creature evaluator to include Flinch, Nightmare Visage and Super Elite Slayer (only for super elites). issue 537.
+
 ==Revision 689==
   # (minor) SS2: Fixed player stats calculator bug when set does not have 3 pieces
 
