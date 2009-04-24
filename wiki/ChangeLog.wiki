@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 693==
+  # (major) FS: Added filters to the Guild Inventory Manager and the Personal Inventory Manager so you can filter out certain types of items (e.g. don't show me any Runes, etc). These filters all default to "show" so there should be no change to how things are displayed as default.
+  # (minor) FS: Updated a few items that were missing from the data file and updated code to deal with extra spaces at the start and end of item names (which HCS does sometimes).
+
 ==Revision 692==
   # (minor) SS2: Updated mission manager data for lvl 91-100 missions (issue 540)
   # (minor) SS2: Addition to credits
