@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 696==
+  # (minor) SS2: Add hit/miss/reload log, before-combat ammo (if you use weapon with ammo) to the quick combat result
+  # (minor) SS2: Correct the after-combat HP calculation (use the HP from animation script)
+  # (minor) SS2: Add current player stats to the combat log (hopefully someone will use it to derive the correct formula for SS2)
+
 ==Revision 695==
   # (major) SS2: Ported from FS filters in Faction Inventory Manager and Personal Inventory Manager so you can filter out certain types of items.
 
