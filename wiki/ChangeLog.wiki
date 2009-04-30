@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 697==
+  # (minor) SS2: Updated mission manager data for lvl 101-110 missions ( issue 545)
+
 ==Revision 696==
   # (minor) SS2: Add hit/miss/reload log, before-combat ammo (if you use weapon with ammo) to the quick combat result
   # (minor) SS2: Correct the after-combat HP calculation (use the HP from animation script)
