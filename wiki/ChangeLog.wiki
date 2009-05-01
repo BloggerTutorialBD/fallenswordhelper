@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 698==
+  # (minor) FS: Fixed bug with Inventory Manager (personal and guild), that caused the wrong stats to be retrieved if a set was being worn. issue 345.
+  # (minor) FS: Fixed bug with creature kill evaluator that used a static doubler level of 500 rather than the current doubler level to calculate the extra stamina being used.
+  # (minor) FS: Added a timer for both the inventory managers as both these functions have a lot of page hits (especially with large inventories). Guild inventory is set at 15 mins between refreshes, personal inventory 5 mins between refreshes. It also gives a count in seconds of how much longer you have to wait before you can refresh again. I applied this countdown to the Online Player page also.
+
 ==Revision 697==
   # (minor) SS2: Updated mission manager data for lvl 101-110 missions ( issue 545)
 
