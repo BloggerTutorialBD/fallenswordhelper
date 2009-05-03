@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 700==
+  # (minor) FS: Added "Bid no Refresh" button to the AH. If you use this button it will place your bid, but not refresh the screen (similar to fast wear, fast take, etc). issue 530.
+  # (minor) FS: On the page where you spend your FSP, I removed the ability to sell 1FSP for 50k gold and put a link to the marketplace. I also added counters to both the + stam boxes that will show you how many stam you will get for the FSP you type in (capped at the amount you have on hand).
+  # (minor) FS: Fixed minor bug. issue 539
+
 ==Revision 698==
   # (minor) FS: Fixed bug with Inventory Manager (personal and guild), that caused the wrong stats to be retrieved if a set was being worn. issue 345.
   # (minor) FS: Fixed bug with creature kill evaluator that used a static doubler level of 500 rather than the current doubler level to calculate the extra stamina being used.
