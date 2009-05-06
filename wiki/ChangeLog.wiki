@@ -1,12 +1,15 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 705==
+  # (minor) FS: Update to Online Players list to show guildless players. issue 477.
+
 ==Revision 704==
   # (minor) SS2: Fixed issue with Blueprint Manager that doesn't display Items and Target
 
 ==Revision 702==
   # (minor) FS: Fixed issue with new stamina calculator on the upgrade page if you had more than 999 FSP on hand (damn commas - wish I had more than 999 FSP and actually had this issue).
-  # (minor) FS: Fixed issue with relic calculator when one of the defenders was terminated or their profile no longer exists (although I am not sure what happens if the lead defender is terminated). This was happening at the Blue Chasm.
+  # (minor) FS: Fixed issue with relic calculator when one of the defenders was terminated or their profile no longer exists (although I am not sure what happens if the lead defender is terminated). This was happening at the Blue Chasm. issue 516.
   # (minor) FS: Hid the list of offline defenders if you did not own the relic (i.e. it is only for figuring out who is not currently defending an already held relic - it is pointless if you do not hold it).
   # (minor) FS: Fixed level for Harvest quest (typo). issue 550.
   # (minor) FS: Fixed minor error when looking at an expired or terminated player.
