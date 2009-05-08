@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 707==
+  # (minor) FS: Update to Quick Buff screen. Buff Packs can now have nicknames and show the total stamina required to cast the pack. Old packs will still work, but will not show a nickname or stamina total. Only new packs will show this data. issue 428
+
 ==Revision 705==
   # (minor) FS: Update to Online Players list to show guildless players. issue 477.
 
