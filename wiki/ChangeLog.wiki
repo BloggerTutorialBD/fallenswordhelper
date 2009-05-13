@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 714==
+  # (minor) FS: Added auto sort to AH when you search for an item to sort by min bid when you first run the search instead of sorting by time remaining. issue 83
+  # (minor) FS: Added trim to hunting buffs in case a player puts a space at either end of each buff. issue 561
+
 ==Revision 712==
   # (minor) FS: If buff master buff is active, added the time remaining on buff as of when the window was opened. issue 557
   # (minor) FS: Fixed typo for the Assist buff. Any existing buff packs including this buff will need to be recreated to calculate the total stam cost of the buff pack correctly. issue 556
