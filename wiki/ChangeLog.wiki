@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 716==
+  # (minor) FS: Added option to option quick links in a new window. issue 442
+  # (minor) FS: Fixed typo for the Bloodthirst buff. Any existing buff packs including this buff will need to be recreated to calculate the total stam cost of the buff pack correctly. issue 563
+  # (minor) FS: The guild member list updates every 5 mins if have the guild online list disabled (so correct lvls/ranks show in Advisor). issue 475
+  # (minor) FS: Indicate on the creature evaluator if a lower level CA can be used. Note this only applies to the creature being viewed, not all creatures of that type, so viewer discretion is advised. issue 186
+
 ==Revision 714==
   # (minor) FS: Added auto sort to AH when you search for an item to sort by min bid when you first run the search instead of sorting by time remaining. issue 83
   # (minor) FS: Added trim to hunting buffs in case a player puts a space at either end of each buff. issue 561
