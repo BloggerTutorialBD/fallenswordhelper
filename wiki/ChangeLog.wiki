@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 720==
+  # (Major) SS2: Ported TH Quick Search from FS. Maximum of 20 items can show up and you can configure the list that shows up on the TH quick search screen.
+
 ==Revision 718==
   # (minor) FS: Updated text on AH for Crystalline items to show durabiilty without having to mouseover. issue 481
 
