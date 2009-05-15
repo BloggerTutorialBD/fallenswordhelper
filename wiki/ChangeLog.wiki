@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 721==
+  # (minor) SS2: Cleaned up some code (removed relics, IMP & CA, arena related code)
+  # (minor) SS2: Changed Combat Evaluation to some more reasonable formula
+
 ==Revision 720==
   # (Major) SS2: Ported TH Quick Search from FS. Maximum of 20 items can show up and you can configure the list that shows up on the TH quick search screen.
 
