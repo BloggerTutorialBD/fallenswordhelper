@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 725==
+  # (minor) SS2: Fixed footprint broken after FS Titan update.
+
 ==Revision 724==
   # (minor) FS & SS2: Fixed minimap (shortcut key 'n') broken after FS Titan update.
 
