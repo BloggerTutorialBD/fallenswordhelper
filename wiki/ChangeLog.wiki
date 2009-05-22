@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 727==
+  # (minor) SS2: Fixed minimap broken again.
+
 ==Revision 726==
   # (minor) FS: Fixed minimap broken, fixed big world map not showing current posision.
 
