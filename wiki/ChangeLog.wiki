@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 731==
+  # (minor) FS: Added scout tower info to the Titan screen so you can get to all the information quickly from the main screen. issue 580.
+
 ==Revision 729==
   # (minor) FS: Added check and calculation for the constitution buff to the calculate relic stats page. It also lists the effective defense for DC225 and DC175 (saves you having to calculate it yourself). issue 578
   # (minor) FS: Added coloring to the AH screen if one of your guild mages (green), allies (blue) or enemies (red) has a current bid on an item. issue 565
