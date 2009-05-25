@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 735==
+  # (minor) FS: Another fix to issue 582.
+
 ==Revision 733==
   # (minor) FS: Fixed minor bug in log messages if someone completed a bounty you listed. issue 582
 
