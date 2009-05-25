@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 733==
+  # (minor) FS: Fixed minor bug in log messages if someone completed a bounty you listed. issue 582
+
 ==Revision 731==
   # (minor) FS: Added scout tower info to the Titan screen so you can get to all the information quickly from the main screen. issue 580.
 
