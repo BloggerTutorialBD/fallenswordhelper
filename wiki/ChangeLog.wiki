@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 736==
+  # (minor) SS2: Updated mission manager data for lvl 111-120 missions ( issue 586)
+  # (minor) SS2: Fixed quick class-skill buff to response within the page
+  # (minor) SS2: Faction Inventory Manager is clickable, click on an item will go to the report page with that item filtered (should port to FS)
+
 ==Revision 735==
   # (minor) FS: Another fix to issue 582.
 
