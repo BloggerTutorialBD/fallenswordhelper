@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 739==
+  # (minor) SS2: Fixed Config page layout
+
 ==Revision 738==
   # (minor) SS2: Added visible personal data (atk, def, arm, dmg, hp, skill power) to world screen
 
