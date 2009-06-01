@@ -1,6 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 741==
+  # (minor) FS: Added quest tracker. It will track a specific quest where you have to kill x numbers of creatures and will display a summary of your progress on the world screen if you have it enabled. Enabled from the individual quest screen, disabled from the world screen or the quest screen (of the one being tracked). issue 359
+  # (minor) FS: Fixed the member list refresh. It will now refresh correctly every 300 seconds if the guild online list is not enabled. Should fix the issues seen with the advisor and relic calculator. I also added some fixes for people that are not in guilds. issue 460, issue 592
+  # (minor) FS: Added CA level to the check buffs section on the world screen (i.e. an easy indicator to show if you have CA enabled). I also tweaked the colors of the Imp count monitor ... it should progress to red as you get closer to 0.
+  # (minor) FS: Tried to fix layout of Calculate Defender Stats button on relic page.
+  # (minor) FS: Added some items missing from the database of items (for wear location lookup).
+
 ==Revision 739==
   # (minor) SS2: Fixed Config page layout
 
