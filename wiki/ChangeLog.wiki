@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 737==
+  # (minor) SS2: Added quick select all resources / stims of the same type in backpack in DataSheet page (similar to BackPack page)
+  # (minor) SS2: Added quick use item / extract resource in backpack
+
 ==Revision 736==
   # (minor) SS2: Updated mission manager data for lvl 111-120 missions ( issue 586)
   # (minor) SS2: Fixed quick class-skill buff to response within the page
