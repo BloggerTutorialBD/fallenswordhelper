@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 738==
+  # (minor) SS2: Added visible personal data (atk, def, arm, dmg, hp, skill power) to world screen
+
 ==Revision 737==
   # (minor) SS2: Added quick select all resources / stims of the same type in backpack in DataSheet page (similar to BackPack page)
   # (minor) SS2: Added quick use item / extract resource in backpack
