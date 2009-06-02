@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 742==
+  # (minor) SS2: Fixed quick extract when your components are full
+  # (minor) SS2: Fixed skill power in world screen, added bp information
+
 ==Revision 741==
   # (minor) FS: Added quest tracker. It will track a specific quest where you have to kill x numbers of creatures and will display a summary of your progress on the world screen if you have it enabled. Enabled from the individual quest screen, disabled from the world screen or the quest screen (of the one being tracked). issue 359
   # (minor) FS: Fixed the member list refresh. It will now refresh correctly every 300 seconds if the guild online list is not enabled. Should fix the issues seen with the advisor and relic calculator. I also added some fixes for people that are not in guilds. issue 460, issue 592
