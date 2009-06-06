@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 743==
+  # (Major) FS & SS2: Added 7-day summary in Guild/Faction Advisor (issue 52)
+
 ==Revision 742==
   # (minor) SS2: Fixed quick extract when your components are full
   # (minor) SS2: Fixed skill power in world screen, added bp information
