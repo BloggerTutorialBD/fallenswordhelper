@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 745==
+  # (minor) FS: Fixed Guild Advisor of previous days
+  # (minor) FS: Added [Select All],[Select None] on Inventory Manager, some code optimization.
+
 ==Revision 744==
   # (Major) SS2: Added minimal personal status in the Config page. When your attack, defense, armor, damage, HP, skill power do not meet these minimal requirement, they will turn red on the world screen. Also, the back pack status will be red if it is full.
 
