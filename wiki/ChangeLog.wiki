@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 746==
+  # (Major) FS & SS2: Added quick wear/use/extract Manager (shortcut v, or Quick Wear from profile/datasheet page)
+  # (minor) SS2: Fixed name of credit and FC in auction template (issue 602)
+
 ==Revision 745==
   # (minor) FS: Fixed Guild Advisor of previous days
   # (minor) FS: Added [Select All],[Select None] on Inventory Manager, some code optimization.
