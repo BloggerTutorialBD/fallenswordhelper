@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 747==
+  # (minor) FS: Fixed quick wear/use/extract Manager (shortcut "v") not display items not from main folder.
+
 ==Revision 746==
   # (Major) FS & SS2: Added quick wear/use/extract Manager (shortcut v, or Quick Wear from profile/datasheet page)
   # (minor) SS2: Fixed name of credit and FC in auction template (issue 602)
