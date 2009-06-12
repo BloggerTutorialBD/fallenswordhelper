@@ -1,5 +1,7 @@
 #labels Featured
 =A version by version list of changes made to the script=
+==Revision 751==
+  # (minor) SS: Edited mission manager data as the level 45-50 missions weren't correct.
 
 ==Revision 750==
   # (minor) FS: Added CA level needed info to combat evaluation. It will now give information about the CA level needed to 1-hit the creature you are looking at. issue 584
