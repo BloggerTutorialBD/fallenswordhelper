@@ -1,6 +1,17 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 750==
+  # (minor) FS: Added CA level needed info to combat evaluation. It will now give information about the CA level needed to 1-hit the creature you are looking at. issue 584
+  # (minor) FS: Tweaked layout of links on log screen to move ignore link to a less frequented area. issue 598
+  # (minor) FS: Another fix for the issue with log message coloring regarding to bounty completion messages. I am pretty sure I have fixed this one now. issue 582
+  # (minor) FS: Fixed typo with Mesmerize buff data file. issue 597
+  # (minor) FS: Tweaked code so that the combat log will always show for the fight where an imp dies (i.e. so you can quick look at the log and see why your imp died). This shows regardless of the show combat log setting.
+  # (minor) FS: Added a couple of items missing from the data list.
+  # (minor) FS: Fixed type errors when page didn't load (displayedMap and logTable).
+  # (minor) FS: Added debug message for quick drop (to help debug the error message some others are seeing).
+  # (minor) FS: Fixed mouseover typo on the preferences screen for the chat top to bottom option.
+
 ==Revision 748==
   # (minor) SS2: Updated mission manager data for lvl 121-130 missions (issue 605) 
 
