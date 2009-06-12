@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 748==
+  # (minor) SS2: Updated mission manager data for lvl 121-130 missions (issue 605) 
+
 ==Revision 747==
   # (minor) FS: Fixed quick wear/use/extract Manager (shortcut "v") not display items not from main folder.
 
