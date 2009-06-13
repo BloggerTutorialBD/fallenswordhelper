@@ -1,8 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 754==
+  # (minor) SS2: Fixed footprint and minimap broken after the Behemoth appearance
+  # (minor) SS2: Added item stats to the Quick Wear Manager (you need to refresh Inventory Manager before you see the stats there)
+
 ==Revision 751==
-  # (minor) SS: Edited mission manager data as the level 45-50 missions weren't correct.
+  # (minor) SS2: Edited mission manager data as the level 45-50 missions weren't correct.
 
 ==Revision 750==
   # (minor) FS: Added CA level needed info to combat evaluation. It will now give information about the CA level needed to 1-hit the creature you are looking at. issue 584
