@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 756==
+  # (minor) FS: Fixed minor bug with the world screen combat logs inadvertantly introduced in the last update.
+
 ==Revision 754==
   # (minor) SS2: Fixed footprint and minimap broken after the Behemoth appearance
   # (minor) SS2: Added item stats to the Quick Wear Manager (you need to refresh Inventory Manager before you see the stats there)
