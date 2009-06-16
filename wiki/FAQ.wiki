@@ -4,7 +4,7 @@
 
 Q: How does quick kill work?
 
-A: It's quite easy. When "single" is selected, keys 1-8 on the keyboard kill creatures without displaying a different page. The battle result is displayed in place, and details are displayed when you mouse over the result. When you select "type", this works the same as "single", except that all creatures of the same name (out of the 8 creatures displayed, of course) are also killed.
+A: It's quite easy. When "Quick Kill" is enabled, keys 1-8 on the keyboard kill creatures without displaying a different page. The battle result is displayed in place, and details are displayed when you mouse over the result.
 ----
 Q: What are the numbers in parentheses at the right of the gold gained? (e.g. "XP:123 Gold:91 (23)")
 
@@ -12,8 +12,7 @@ A: This is the guild tax, the money that goes to the guild.
 ----
 Q: Can you auto repair after all kills?
 
-A: After killing a screenful of monsters, repair is already automatically (and silently) called. Note that because AJAX is asynchronous (that is, I make the call to the page that kills the monster, but I don't wait until the monster is killed), there's no guarantee that the repair will really occur after all the kills.
-This is the same for single and type settings. It should repair after each single or each type has completed.
+A: No, you need to press 'r' yourself to repair. The auto repair feature was removed due to HCS request.
 ----
 Q: What do the colors on the guild members list mean?
 
@@ -33,3 +32,7 @@ A: Perhaps you've clicked on the Greasemonkey icon on the statusbar by mistake. 
 Q: I'm a seasoned developer, and I'd like to help, is that possible?
 
 A: Look at DeveloperInfo.
+----
+Q: Is there a list of currently used hotkeys? 
+
+A: Look at the [Index#Ingame_Shortcut_Keys_and_Links] of the Wiki
