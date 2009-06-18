@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 763==
+  # (minor) SS2: Added lvl filter for Faction Inventory Manager
+
 ==Revision 761==
   # (Major) SS2: Added shortcut key 't' to quick-buy item in shop. You will need to select an item in the item selector before using the shortcut key 't'.
 
