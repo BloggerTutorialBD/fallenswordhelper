@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 766==
+  # (minor) SS2: Ported Take All from mailbox button from FS
+  # (Major) SS2: Added Import/Export Config, access from Config page (issue 454)
+
 ==Revision 765==
   # (minor) FS: Added take all from mailbox button. issue 611
 
