@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 767==
+  # (Major) SS2: Added Quick Use shortcut keys "{", "}", "|" on World screen. These shortcuts will use items configed by Quick Use Manager, accessed from DataSheet page. These shortcuts can be used to quickly load ammo, use health pack, etc.
+  # (minor) SS2: Fixed quick wear when there are mission items in backpack
+  # (minor) SS2: Cleaned up some code
+
 ==Revision 766==
   # (minor) SS2: Ported Take All from mailbox button from FS
   # (Major) SS2: Added Import/Export Config, access from Config page (issue 454)
