@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 769==
+  # (minor) SS2: Fixed bug prevent moving items among folders (issue 625)
+
 ==Revision 767==
   # (Major) SS2: Added Quick Use shortcut keys "{", "}", "|" on World screen. These shortcuts will use items configed by Quick Use Manager, accessed from DataSheet page. These shortcuts can be used to quickly load ammo, use health pack, etc.
   # (minor) SS2: Fixed quick wear when there are mission items in backpack
