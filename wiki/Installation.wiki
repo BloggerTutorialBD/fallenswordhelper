@@ -1,16 +1,16 @@
 #labels Featured
 =Requirements=
 
-In order to use Fallen Sword Helper, you will need Firefox 3 and Greasemonkey. It doesn't work with IE, because I'm using scripting methods that IE doesn't have (such as document.evaluate), it doesn't work with Chrome because with Greasemetal doesn't have some basic Greasemonkey functionality (such as saving and reading variables, and using XMLHTTP). It may work with Firefox 2, but I would strongly recommend upgrading to Firefox 3, as I haven't used FF2 for a long time, and since this is a project I'm doing in my free time, I don't really want to support two browsers :)
+In order to use Fallen Sword Helper, you will need Firefox 3.5 and Greasemonkey. It doesn't work with IE, because I'm using scripting methods that IE doesn't have (such as document.evaluate), it doesn't work with Chrome because with Greasemetal doesn't have some basic Greasemonkey functionality (such as saving and reading variables, and using XMLHTTP). It may work with Firefox 2, but I would strongly recommend upgrading to Firefox 3.5. It may still work for 3.0, but you should still upgrade to 3.5 unless you have a good reason for not doing so.
 
 =Quick installation guide=
 
-For help in installing, look at [http://userscripts.org/about/installing Userscripts.org guide]. In short: [http://getfirefox.com/ Firefox] (preferably version 3+) and [https://addons.mozilla.org/firefox/addon/748 Greasemonkey] are required.
+For help in installing, look at [http://userscripts.org/about/installing Userscripts.org guide]. In short: [http://getfirefox.com/ Firefox] (preferably version 3.5+) and [https://addons.mozilla.org/firefox/addon/748 Greasemonkey] are required.
 
 For more information, see [http://userscripts.org/about/installing UserScripts.org Guide]
 
 =Longer installation guide=
-  # Install [http://www.getfirefox.com/ Firefox 3]
+  # Install [http://www.getfirefox.com/ Firefox 3.5]
   # After installing Firefox, go to the [https://addons.mozilla.org/en-US/firefox/addon/748 Greasemonkey installation page]
   # Click on the "Add to Firefox" button
   # Restart your browser
