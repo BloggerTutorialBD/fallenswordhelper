@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 771==
+  # (minor) SS2: Updated Mission Manager for 131-140 Missions.
+
 ==Revision 769==
   # (minor) SS2: Fixed bug prevent moving items among folders (issue 625)
 
