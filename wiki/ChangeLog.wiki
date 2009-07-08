@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 773==
+  # (minor) SS2: Fixed Error that Revision 772 caused.
+
 ==Revision 772==
   # (minor) SS2: Updated Mission Manager for levels 5-100 to include starting locations for most missions.
 
