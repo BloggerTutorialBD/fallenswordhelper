@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 772==
+  # (minor) SS2: Updated Mission Manager for levels 5-100 to include starting locations for most missions.
+
 ==Revision 771==
   # (minor) SS2: Updated Mission Manager for 131-140 Missions.
 
