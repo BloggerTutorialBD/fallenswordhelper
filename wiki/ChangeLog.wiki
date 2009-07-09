@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 775==
+  # (minor) FS: Added minor change to send gold function to keep track of how much gold has been sent. Player can manually reset the total on the preferences screen. issue 628.
+
 ==Revision 773==
   # (minor) SS2: Fixed Error that Revision 772 caused.
 
