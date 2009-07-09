@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 777==
+  # (major) FS: Added bounty tracking system. Defaults off - go to preferences to turn it on. Two parts to this upgrade - both panels on the sidebar of the main screen. 1) A way to track active bounties (any bounty you are currently attempting), and 2) A way to track specific players when they appear on the bounty screen. issue 640.
+
 ==Revision 775==
   # (minor) FS: Added minor change to send gold function to keep track of how much gold has been sent. Player can manually reset the total on the preferences screen. issue 628.
 
