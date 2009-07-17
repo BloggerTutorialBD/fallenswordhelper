@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 780==
+  # (minor) SS2: Added PSI Shield warning message on commbat display
+
 ==Revision 779==
   # (minor) FS: Added code to update the online guild list if you are on the Guild>Manage page (i.e. while we are looking at the page, update the list and the timer). I doubt anyone will notice this change.
   # (minor) FS: Added a few items to the data list that were missing.
