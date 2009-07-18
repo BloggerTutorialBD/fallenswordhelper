@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 784==
+  # (minor) FS: Minor bug fix for arena so that current combat moves show up for arenas with specials. Looks like HCS has a minor typo in their latest arena update that broke this functionality. All fixed now.
+
 ==Revision 782==
   # (major) FS: Added Ally/Enemy online list (similar to the guild online list). It defaults to off (so you have to turn it on to use it) and a 60s refresh. You can seperately turn on either your ally list or your enemy list. Allies are blue, enemies are red. issue 414.
 
