@@ -1,5 +1,7 @@
 #labels Featured
 =A version by version list of changes made to the script=
+==Revision 785==
+  # (minor) SS2: Added Shortcut key "i" to cast Mental Strength for Purists.
 
 ==Revision 784==
   # (minor) FS: Minor bug fix for arena so that current combat moves show up for arenas with specials. Looks like HCS has a minor typo in their latest arena update that broke this functionality. All fixed now.
