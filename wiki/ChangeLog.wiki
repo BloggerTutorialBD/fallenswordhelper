@@ -1,5 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
+
+==Revision 786==
+  # (Major) SS2: Ported Ally/Enemy online list (similar to the guild online list). It defaults to off (so you have to turn it on to use it) and a 60s refresh. You can seperately turn on either your ally list or your enemy list. Allies are blue, enemies are red. (issue 414)
+  # (minor) SS2: Ported code to update the online faction list if you are on the Faction>Manage page
+  # (minor) SS2: Added player class to the hover over text for the faction members online (issue 653)
+
 ==Revision 785==
   # (minor) SS2: Added Shortcut key "i" to cast Mental Strength for Purists.
 
