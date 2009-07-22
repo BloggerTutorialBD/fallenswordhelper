@@ -1,5 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
+
+==Revision 790==
+  # (minor) SS2: Revert to r788 (r789 contains bugs that can't be installed)
+
 ==Revision 789==
   # (minor) SS2: Adjusted color coding for Faction Locked Information in Inventory Managers
 
