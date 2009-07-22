@@ -1,5 +1,8 @@
 #labels Featured
 =A version by version list of changes made to the script=
+==Revision 789==
+  # (minor) SS2: Adjusted color coding for Faction Locked Information in Inventory Managers
+
 ==Revision 788==
   # (minor) SS2: Added Faction Locked information to the Inventory Manager(issue 424)
 
