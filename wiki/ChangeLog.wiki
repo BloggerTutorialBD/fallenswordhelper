@@ -1,5 +1,7 @@
 #labels Featured
 =A version by version list of changes made to the script=
+==Revision 788==
+  # (minor) SS2: Added Faction Locked information to the Inventory Manager(issue 424)
 
 ==Revision 787==
   # (minor) FS,SS2: Fixed bug appeared in FF3.5 when refreshing online players (issue 634)
