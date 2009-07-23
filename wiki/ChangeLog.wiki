@@ -1,5 +1,7 @@
 #labels Featured
 =A version by version list of changes made to the script=
+==Revision 791==
+  # (minor) SS2: Fixed Bugs from r789
 
 ==Revision 790==
   # (minor) SS2: Revert to r788 (r789 contains bugs that can't be installed)
