@@ -1,5 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
+
+==Revision 793==
+  # (Major) SS2: Added Self-Recall page to easily recall faction items on yourself, access from [SR] link next to Faction Store (issue 189)
+  # (Major) SS2: Added Search for item of the same set, access from Faction Inventory
+  # (minor) SS2: Ported Quick Drop (INSTANTLY DROP THE ITEM. NO REFUNDS OR DO-OVERS! Use at own risk.)
+  # (minor) SS2: Fixed bug when player name is part of the faction item name (issue 603)
+
 ==Revision 792==
   # (minor) SS2: Small typo correction.
 
