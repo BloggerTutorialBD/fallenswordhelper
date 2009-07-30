@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 798==
+  # (minor) FS: Slight tweak to display on groups page. All player names are now links, and the online/offline icons show up, rather than coloring the name of the player green.
+  # (minor) FS: Fixed typo in data file for Oneupmanship quest. issue 636
+
 ==Revision 796==
   # (minor) FS: Added some more FS data, 2 quests (level 6 and 8), some relic data and 1 item. issue 636 and issue 664.
 
