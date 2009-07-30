@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 796==
+  # (minor) FS: Added some more FS data, 2 quests (level 6 and 8), some relic data and 1 item. issue 636 and issue 664.
+
 ==Revision 794==
   # (minor) SS2: Fixed faction chat position
   # (minor) SS2: Improved display in faction report search
