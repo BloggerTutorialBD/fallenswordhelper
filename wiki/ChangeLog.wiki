@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 801==
+  # (Major) SS2: Ported functionality to bulk list items on the AH from FS. Works for one type of item at a time. Does not differentiate between different augmentation levels or FE (engineering) levels (so use at own risk). Defaults to disabled, you have to toggle a Config to turn it on.
+  # (minor) SS2: Added Shortcut key "I" (shift+i) to remove Mental Strength for Purists. 
+
 ==Revision 800==
   # (major) FS: Added functionality to bulk list items on the AH. Works for one type of item at a time (so more suited to potion sellers). Does not differentiate between different forge levels or FF levels (so use at own risk - to the bulk list functionality a uncrafted 0FF Sword of Ursa is the same as a Perfect 5FF one - this is because of the way HCS labels their items). Defaults to disabled, you have to toggle a preference to turn it on. Need some testers please. I have tested this listing some potions, but would appreciate if others tested it too. issue 311.
   # (minor) FS: Updated player online list to remove duplicates (I think).
