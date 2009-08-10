@@ -1,5 +1,8 @@
 #labels Featured
 =A version by version list of changes made to the script=
+==Revision 804==
+  # (minor) SS2: Updated Mission Manager for new Content
+  
 
 ==Revision 803==
   # (minor) FS: Updated the script so that it works when you click on the upgrades page when you go to it via the purple dots button at the top of the screen. issue 311
