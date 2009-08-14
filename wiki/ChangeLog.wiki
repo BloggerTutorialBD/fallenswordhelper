@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 806==
+  # (minor) SS2: Added artifact data (viewable when mouseover the Artifact image in Artifact list).
+
 ==Revision 805==
   # (Major) FS: Ported from SS2: Guild Inventory Manager is clickable, click on an item will go to the report page with that item filtered; click on (set) will search for items of the same set (issue 669)
 
