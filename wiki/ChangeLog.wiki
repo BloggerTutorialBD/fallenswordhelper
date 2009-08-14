@@ -2,6 +2,15 @@
 =A version by version list of changes made to the script=
 
 ==Revision 806==
+  # (minor) FS: Fixed issues created on the arena screen with the addition of the Epic column. Added ability to sort by Epic column. issue 678.
+  # (minor) FS: Code rearrangement, made all the level filters use common code to make it easier to add level filters in the future. Arena and Online player filters should still work as they used to.
+  # (minor) FS: Added level filters to both the inventory screens (and removed the show only useable checkbox) so that players can now filter gear by levels. issue 119.
+  # (minor) FS: Added more error messaging code for many of the "fast" functions (fast recall, bulk auction, quick drop) to try and figure out what the problem is. It is up to players now to help me debug this issue based on the error messages they see.
+  # (minor) FS: Added select all link to the profile screen to enable users to quickly select all 12 items for shifting between folders. issue 671.
+  # (minor) FS: Fixed a quest level.
+  # (minor) FS: Added 3 items to memory.
+
+==Revision 806==
   # (minor) SS2: Added artifact data (viewable when mouseover the Artifact image in Artifact list).
 
 ==Revision 805==
