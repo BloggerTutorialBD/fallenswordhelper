@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 811==
+  # (minor) FS: Minor fix for the select all option. issue 671
+
 ==Revision 808==
   # (minor) FS: Fixed issues created on the arena screen with the addition of the Epic column. Added ability to sort by Epic column. issue 678.
   # (minor) FS: Code rearrangement, made all the level filters use common code to make it easier to add level filters in the future. Arena and Online player filters should still work as they used to.
