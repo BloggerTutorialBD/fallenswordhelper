@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 812==
+  # (Major) SS2: Ported Calculate Defenders Stat for artifact from FS
+  # (minor) SS2: Fixed shortcut '=' to be able to view artifact if you are sitting on it.
+
 ==Revision 811==
   # (minor) FS: Minor fix for the select all option. issue 671
 
