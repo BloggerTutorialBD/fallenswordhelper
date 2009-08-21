@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 817==
+  # (minor) FS: minor performance tweak to the world screen. Should improve performance slightly whether you use the donotkill list or not. issue 687
+  # (minor) FS: another tweak to the issue with the fast recall error messages. I need people who were having weird errors to keep testing for me. issue 679
+
 ==Revision 815==
   # (minor) SS2: Added lvl gain in advisor. These numbers are valid for 7-day summary only, with the assumption that all members have 25% tax rate.
 
