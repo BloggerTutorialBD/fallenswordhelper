@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 821==
+  # (minor) SS2: Updated Mission Manager for 151-160 Missions.
+
 ==Revision 820==
   # (minor) FS: Added function to show countdown timer for stamina gain in the title bar. Defaults to on (disable on the preferences screen). issue 690
   # (minor) FS: Minor fix to code to remove hard coding of www.fallensword.com so that no matter what server the user is on the quick drop and bulk sell functions do not return 404 errors if www.fallensword.com is down. issue 689
