@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 825==
+  # (minor) SS2: In Blueprint Manager, changed [Refresh] to parse only unknown blueprints. Use [Reset] to reparse all blueprints.
+  # (minor) SS2: Added maximum number of blueprint displayed in Blueprint Manager to 20 to render the page faster. Please use filters to customize the displayed blueprints.
+
 ==Revision 824==
   # (minor) FS: issue 699. Added functionality to be able to quick send items to a specified player. Needs to be configured in preferences before use. Thanks for yuuzhan for submitting the code.
   # (minor) FS: minor tweaks to FS data, typos in the relic data and added two more items to the item list.
