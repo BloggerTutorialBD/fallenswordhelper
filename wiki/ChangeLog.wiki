@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 826==
+  # (minor) SS2: Updated Calculate Relic Defense to allow for calculating of Relic Defense for Relics you currently own.  Not 100% pretty but it works.
+
 ==Revision 825==
   # (minor) SS2: In Blueprint Manager, changed [Refresh] to parse only unknown blueprints. Use [Reset] to reparse all blueprints.
   # (minor) SS2: Added maximum number of blueprint displayed in Blueprint Manager to 20 to render the page faster. Please use filters to customize the displayed blueprints.
