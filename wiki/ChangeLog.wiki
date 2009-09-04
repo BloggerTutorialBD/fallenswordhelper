@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 824==
+  # (minor) FS: issue 699. Added functionality to be able to quick send items to a specified player. Needs to be configured in preferences before use. Thanks for yuuzhan for submitting the code.
+  # (minor) FS: minor tweaks to FS data, typos in the relic data and added two more items to the item list.
+
 ==Revision 821==
   # (minor) SS2: Updated Mission Manager for 151-160 Missions.
 
