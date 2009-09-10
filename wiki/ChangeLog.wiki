@@ -1,9 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 828==
+  # (Major) SS2: Added quick TH Preference template, access from the Search Preference in TH
+
 ==Revision 827==
   # (minor) SS2: Updated Relic hover overs with information about the 5 newest relics, locations, and paths to get there, may have typo's, please post to forum if so.
-
 
 ==Revision 826==
   # (minor) SS2: Updated Calculate Relic Defense to allow for calculating of Relic Defense for Relics you currently own.  Not 100% pretty but it works.
