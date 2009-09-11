@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 829==
+  # (Major) SS2: Added Quick Message template manager to replace the direct value editor
+  # (Major) SS2: Added meta function generateManageTable that managed any types of stored array of objects. Replaced code that managing TH Preference template, Quick TH Search, Quick Links, Quick Message template by this meta function.
+
 ==Revision 828==
   # (Major) SS2: Added quick TH Preference template, access from the Search Preference in TH
 
