@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 836==
+  # (minor) FS: Fix for offline relic defender activity check. Previously checked in version did not return the list of offline relic defenders correctly. issue 705.
+
 ==Revision 834==
   # (minor) SS2: Added default value for quickLinks
 
