@@ -1,6 +1,14 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 833==
+  # (minor) FS: Tweaked quick kill display so that if you gain/lose a level, it should show up in the subtext for the fight in which it happened. issue 703
+  # (minor) FS: Tweaked the relic defense calculator to add in Nightmare Visage and Flinch calculations. Comments welcome. issue 704
+  # (minor) FS: Tweaked the offline relic defenders list so that it only checks for players that have been active less than 7 days. issue 705
+
+==Revision 831==
+  # (minor) FS: add default value for quickLinks
+
 ==Revision 830==
   # (Major) FS: Ported quick AH Preference template, access from the Search Preference in AH
   # (Major) FS: Ported Quick Message template manager to replace the direct value editor 
