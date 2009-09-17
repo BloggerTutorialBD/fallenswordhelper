@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 838==
+  # (Major) FS: Added quick Scavenging (issue 210, 291, 496, 517)
+  # (minor) FS: Added backpack counter in Scavenging combat screen (if you ever go there again)
+
 ==Revision 837==
   # (minor) FS, SS2: Tweaked function used for AH/TH Quick Search to shorten and clean the code.
 
