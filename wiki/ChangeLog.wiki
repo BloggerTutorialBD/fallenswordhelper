@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 837==
+  # (minor) FS, SS2: Tweaked function used for AH/TH Quick Search to shorten and clean the code.
+
 ==Revision 836==
   # (minor) FS: Fix for offline relic defender activity check. Previously checked in version did not return the list of offline relic defenders correctly. issue 705.
 
