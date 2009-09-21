@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 841==
+  # (Minor) FS: Added Second option to disable the HCS Guild Online Players List. (so you can have the ability to keep both disabled)
+
 ==Revision 840==
   # (Minor) FS: Set option that turns on the FSH Version of the Guild Online Players List to disable the HCS version so only one of the two shows.
 
