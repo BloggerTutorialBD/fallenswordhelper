@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 840==
+  # (Minor) FS: Set option that turns on the FSH Version of the Guild Online Players List to disable the HCS version so only one of the two shows.
+
 ==Revision 839==
   # (Major) FS: Repaired Allies/Enemies List, Guild Chat, and Guild Online Players after recent HCS addition of Guild Online Players, However haven't figured out how to hide HCS's Version yet.
 
