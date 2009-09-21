@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 842==
+  # (Major) SS2: Added Component Summary under the Components in Datasheet
+  # (minor) SS2: Clean up some code for DataSheet screen
+
 ==Revision 841==
   # (Minor) FS: Added Second option to disable the HCS Guild Online Players List. (so you can have the ability to keep both disabled)
 
