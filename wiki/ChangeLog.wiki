@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 847==
+  # (minor) FS: Fixed Ally/Enemy List, and HCS Guild Online Player list to stay in a constant place.  Similar to what we see in SS2.
+
 ==Revision 846==
   # (minor) FS: Added buff all link on relic defense screen and group screen so you can buff all defenders or all members of a group using the quick buff screen. issue 713
   # (minor) FS: Tweaked player links on the groups page so the screen loads a little faster and also made it so the links are faster too (they don't cause a player search on the server).
