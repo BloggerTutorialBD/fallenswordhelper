@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 846==
+  # (minor) FS: Added buff all link on relic defense screen and group screen so you can buff all defenders or all members of a group using the quick buff screen. issue 713
+  # (minor) FS: Tweaked player links on the groups page so the screen loads a little faster and also made it so the links are faster too (they don't cause a player search on the server).
+  # (minor) FS: Added quests from level 645 to 710 (thanks to fallenswordguide.com).
+  # (minor) FS: Added some missing item data (for inventory screens - 10 new items).
+
 ==Revision 844==
   # (minor) FS: Fix to QuickBuff screen to open consistently with the helper or native online guild list (i.e. show data from the target profile page (stats, stam, etc). Also increased the opening size of the quick buff screen to keep it consistent too.
   # (minor) FS: Moved where the "you gain a level" message shows when using quick kill. issue 703
