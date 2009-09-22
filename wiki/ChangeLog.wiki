@@ -1,6 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 844==
+  # (minor) FS: Fix to QuickBuff screen to open consistently with the helper or native online guild list (i.e. show data from the target profile page (stats, stam, etc). Also increased the opening size of the quick buff screen to keep it consistent too.
+  # (minor) FS: Moved where the "you gain a level" message shows when using quick kill. issue 703
+  # (minor) FS: Removed the New? box code (cleanup). issue 711
+  # (minor) FS: Tidied up the bulk sell AH slots message to clear up confusion when the right number of slots does not show up. issue 706
+
+
 ==Revision 842==
   # (Major) SS2: Added Component Summary under the Components in Datasheet
   # (minor) SS2: Clean up some code for DataSheet screen
