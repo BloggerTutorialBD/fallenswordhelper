@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 850==
+  # (minor) FS: Fixed the recent workaround, made relic screen, scavening backpack counter works again (issue 715)
+  # (minor) FS: Removed redudant options to hide HCS Online members, Chat section
+  # (minor) FS: Improved Quick Scavenging with some "visual effect" under the text log 
+
 ==Revision 849==
   # (minor) FS: Added flag to preferences to allow the user to hide the new HCS last 3 chat section.
   # (minor) FS: Tweaked the hide HCS Guild Info functionality so you can hide the online members, last 3 chat, or a combination of the two.
