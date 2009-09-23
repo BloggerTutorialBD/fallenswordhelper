@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 849==
+  # (minor) FS: Added flag to preferences to allow the user to hide the new HCS last 3 chat section.
+  # (minor) FS: Tweaked the hide HCS Guild Info functionality so you can hide the online members, last 3 chat, or a combination of the two.
+  # (minor) FS: Added widgets to the Guild Info Online Members panel (defaults on and can be turned off). Players online within 2 mins will color green, white is 2-5 mins and gray is >5 mins). Also made it so you can't play with yourself (well at least M, ST or T - any other playing around with yourself will have to be self regulated - I hear it can make you go blind).
+  # (minor) FS: Added a crude workaround to get the relic screen working again. The hidden code HCS has for that page marks it as a "guild" screen - subscreen "dochat". Weird. Let me know if you see any other helper functionality not working as expected (Tangtop).
+
 ==Revision 847==
   # (minor) FS: Fixed Ally/Enemy List, and HCS Guild Online Player list to stay in a constant place.  Similar to what we see in SS2.
 
