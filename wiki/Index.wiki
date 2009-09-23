@@ -112,6 +112,9 @@ Actually, since features are added very frequently, there may be a lot more than
   # Quick heal: h (you need to have your class healing skill, and have enough in skill power bar)
   # Quick heal link: the heart icon on the left of the health bar
   # Quick class skill cast: the class icon on the right of the skill power bar
+  # Quick cast Mental Strength: i
+  # Quick cast Mind Shard: k
+  # Quick cast Mind Stone: K
 
 My Fallensword in-game name is Coccinella - feel free to contact me for any questions or remarks. For Sigmastorm2, please contact [http://www.sigmastorm2.com/index.php?cmd=profile&player_id=1191381 dkwizard].
 

@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 851==
+  # (minor) FS: HAPPY BIRTHDAY TO THE Fallen Sword Helper, it has been around for 1 Year today! (9/23/09)
+
 ==Revision 850==
   # (minor) FS: Fixed the recent workaround, made relic screen, scavening backpack counter works again (issue 715)
   # (minor) FS: Removed redudant options to hide HCS Online members, Chat section
