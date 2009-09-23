@@ -112,7 +112,7 @@ Actually, since features are added very frequently, there may be a lot more than
   # Quick heal: h (you need to have your class healing skill, and have enough in skill power bar)
   # Quick heal link: the heart icon on the left of the health bar
   # Quick class skill cast: the class icon on the right of the skill power bar
-  # Quick cast Mental Strength: i
+  # Quick cast Mental Strength: i, Quick remove Mental Strength: I (Shift+i)
   # Quick cast Mind Shard: k
   # Quick cast Mind Stone: K
 

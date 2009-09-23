@@ -1,6 +1,15 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 852==
+  # (minor) SS2: Removed some redundant options in config page
+  # (minro) SS2: Fixed a bug at shop after Faction info was added in recent HCS update (issue 715)
+  # (minor) SS2: Fixed buffing using the B from the new Faction Info box to show target info
+  # (Major) SS2: Ported buff pack from FS
+  # (minor) SS2: Moved where the "you gain a level" message shows when using quick kill (issue 703)
+  # (minor) SS2: Tweaked player links on the groups page
+  # (minor) SS2: Ported widgets to the Faction Info Online Members panel (defaults on and can be turned off). Players online within 2 mins will color green, white is 2-5 mins and gray is >5 mins). Also made it so you can't M/T/ST with yourself.
+
 ==Revision 851==
   # (minor) FS: HAPPY BIRTHDAY TO THE Fallen Sword Helper, it has been around for 1 Year today! (9/23/09)
 
