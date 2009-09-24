@@ -3,6 +3,10 @@ Fallen Sword Helper is a Greasemonkey script meant to enhance the experience of 
 
 <wiki:toc max_depth="2" />
 
+= History =
+
+The Fallen Sword Helper was created on 9/23/2008 by Cocinella.  It was originally found on userscripts.org On Nov 21, 2008.  At this point it was a script Created by Cocinella and Jesiegel. It was finally fully moved over to code.google.com And Tangtop started assiting with coding at this time.  Shortly thereafter dkwizard, Nabalac and Ananasii started to help with the coding and getting new ideas for the project to make it what it is today.
+
 = Disclaimer =
 
 This is a personal project, which I created just for fun. Of course I was happily surprised that quite a lot of people seem to like it, even contribute to it. I'm in no way affiliated with Hunted Cow Studios (creators of Fallen Sword) nor do I have any claims on the trademark - after all Fallen Sword Helper only exists under the wings of Fallen Sword :). This project is funded out of my personal time and done solely as a hobby, so (a) don't make irrational demands (b) don't offer me money (I already have a day job :)). If you come across me at the game, I would of course appreciate if you didn't attack me, or an occasional buff, but don't feel I'm entitled to any special treatment because of the script. That being said, I really (I mean _really_ - it makes my day) appreciate any other form of admiration, such as PMs or comments on this site :). Also, as you can see changes are (at least for now) very frequent.

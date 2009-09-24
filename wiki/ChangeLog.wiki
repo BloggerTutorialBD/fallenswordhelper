@@ -2,8 +2,11 @@
 =A version by version list of changes made to the script=
 
 ==Revision 852==
+  # (minor) FS: Adjusted the insertion point for the Right Side bar as if you hid the Game Stats, the FSH wouldnt be able to inject. now based on Support Fallensword!  Hopefully they wont get rid of that so we can stop adjusting the code.
+  
+==Revision 852==
   # (minor) SS2: Removed some redundant options in config page
-  # (minro) SS2: Fixed a bug at shop after Faction info was added in recent HCS update (issue 715)
+  # (minor) SS2: Fixed a bug at shop after Faction info was added in recent HCS update (issue 715)
   # (minor) SS2: Fixed buffing using the B from the new Faction Info box to show target info
   # (Major) SS2: Ported buff pack from FS
   # (minor) SS2: Moved where the "you gain a level" message shows when using quick kill (issue 703)
