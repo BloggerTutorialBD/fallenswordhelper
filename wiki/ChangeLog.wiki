@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 857==
+  # (minor) FS: Fix for latest HCS release so the helper does not break. To see the new buff selected functionality you will need to turn off the GuildInfo Widgets preference.
+
 ==Revision 855==
   # (minor) SS2: Fixed Faction List updates every 5 mins if the faction online list disabled (ported from FS r716)
 
