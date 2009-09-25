@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 860==
+  # (minor) SS2: Added total count for Component Summary.
+  # (minor) SS2: Fixed a bug which the script did not update faction list, squad member list.
+
 ==Revision 859==
   # (minor) FS: Another tweak to match HCS's tweak to get helper working again.
 
