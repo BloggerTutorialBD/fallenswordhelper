@@ -16,7 +16,7 @@
 
 ==Revision 854==
   # (minor) SS2: Fixed the insertion point for the Right bar when they removed "Communities".
-  # (minor) FS: Adjusted the insertion point for the Right Side bar as if you hid the Game Stats, the FSH wouldnt be able to inject. now based on Support Fallensword!  Hopefully they wont get rid of that so we can stop adjusting the code.
+  # (minor) FS: Adjusted the insertion point for the Right Side bar as if you hid the Game Stats, the FSH wouldnt be able to inject. now based on Support Fallensword!  Hopefully they wont get rid of that so we can stop adjusting the code. issue 717
   
 ==Revision 852==
   # (minor) SS2: Removed some redundant options in config page
