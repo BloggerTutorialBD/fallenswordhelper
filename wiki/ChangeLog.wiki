@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 864==
+  # (minor) FS: Removed FSH Quick Scavenging
+  # (minor) FS: Added backpack counter and scavenging result to Multi-Scavenge
+
 ==Revision 863==
   # (minor) FS: Fix to buff link in log so that it opens quick buff screen to a consistent size as other similar links.
   # (minor) FS: Added missing items to the data file. issue 693
