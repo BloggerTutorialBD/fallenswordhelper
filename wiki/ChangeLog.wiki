@@ -1,5 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
+==Revision 867==
+  # (Minor) FS: Added new preferences for rendering player bios. (Issues 726 and 727)
+  # (Minor) FS: Fixed Ask for buffs button not working with bio compression enabled.
+  # (Minor) FS: Added new buff tags `~ and ~` to look cleaner on non-FSH Script user screens. Old tags still work. (For now)
+  # (Minor) FS: Added {buffs} tag to buff greeting to choose where to place buff list.
+  # (Minor) FS: Added {cmd} to bio tagset to choose where to place the ask button. This position is overridden when bio compression is enabled. This will only place one button in your bio, so don't try to do multiple tags =).
+  # Once again, take a look at McBush's bio to see how this looks and works =)
 
 ==Revision 866==
   # (Major) FS: Added Character bio tags {b} and {/b} to allow players to select buffs from your bio! See McBush's profile to see how this looks with the new script! Go to change bio on your character page to try this out. (Issue 725)
