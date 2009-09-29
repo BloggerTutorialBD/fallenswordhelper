@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 866==
+  # (Major) FS: Added Character bio tags {b} and {/b} to allow players to select buffs from your bio! See McBush's profile to see how this looks with the new script! Go to change bio on your character page to try this out. (Issue 725)
+  # (Minor) FS: Correct Elven Forge relic attribute from +100 gold to +10 protect gold. (Issue 723)
+
 ==Revision 865==
   # (minor) SS2: Fixed map alignment in minimap when players are in maps with artifacts. (You need to move to another map, use minimap, then go back for the update to take effects)
 
