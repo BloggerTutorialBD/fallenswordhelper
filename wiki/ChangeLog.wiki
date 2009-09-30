@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 882==
+  # IMPORTANT! The helper version of the chat in the sidebar will be removed about 2 weeks from now. There will be a post in the forum to discuss it. The reason for the removal is that it causes an extra page hit (to the chat page) each load which is unnecessary as HCS has implemented a version that works. Please encourage HCS to tweak their version by posting in the forums if you prefer the helper version to HCS's version.
+(minor) FS: Fix for bug introduced in r876 where preferences could not be saved.
+
 ==Revision 880==
   # (minor) FS: Typo on newly formatted allies/enemies list cause a link not to work - fixed.
 
