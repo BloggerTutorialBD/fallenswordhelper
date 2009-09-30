@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 888==
+  # (Minor) FS: Added preference to render buff checkboxes on the left side of the buff name. This new preference is called: Render checkbox on left.
+
 ==Revision 887==
   # (Minor) FS: Added preference to show speaker icon on world map
   # (Minor) FS: Added preference to enable/disable playing a sound when you have an unread log message.
