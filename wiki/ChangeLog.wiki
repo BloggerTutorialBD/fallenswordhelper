@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 885==
+  # (Minor) FS: Fixed finding of the unread log messages notification box so sound will play if enabled.
+
 ==Revision 884==
   # (minor) FS: Added a feature to move the HCS Guild Info Box above the FSH Chat window.  This can be found in the Preferences screen.
 
