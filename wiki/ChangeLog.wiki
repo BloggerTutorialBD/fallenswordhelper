@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 884==
+  # (minor) FS: Added a feature to move the HCS Guild Info Box above the FSH Chat window.  This can be found in the Preferences screen.
+
 ==Revision 883==
   # IMPORTANT! The helper version of the chat in the sidebar will be removed about 2 weeks from now. There will be a post in the forum to discuss it. The reason for the removal is that it causes an extra page hit (to the chat page) each load which is unnecessary as HCS has implemented a version that works. Please encourage HCS to tweak their version by posting in the forums if you prefer the helper version to HCS's version.
   # (minor) FS: Fix for bug introduced in r876 where preferences could not be saved.
