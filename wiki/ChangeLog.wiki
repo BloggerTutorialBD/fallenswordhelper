@@ -2,6 +2,9 @@
 =A version by version list of changes made to the script=
 
 ==Revision 877==
+  # (minor) FS: Typo on newly formatted allies/enemies list cause a link not to work - fixed.
+
+==Revision 877==
   # (minor) FS: Removed Guild Online List in favor of HCS's version. Internal logic will still check the guild list every 5 mins to update status for use in other processes. If you miss this list, then please turn on HCS's version, it works well and things will run faster for you.
   # (minor) FS: Reformatted Allies/Enemies list to match HCS's format. The hope is that HCS will implement this too so we can reduce the load caused by the helper (not to mention adding more info to the mouseover).
   # (minor) FS: Added links to the offline guild members for relic defense. issue 692.
