@@ -1,5 +1,7 @@
 #labels Featured
 =A version by version list of changes made to the script=
+==Revision 869==
+  # (Very Minor) FS: small update to bio renderer
 
 ==Revision 868==
   # (Minor) FS: Added ability to play a sound when the "You have unread log messages." box is up. Firefox 3.5+ only. Can turn on and off from the world page (little speaker icon). (Issue 722)
