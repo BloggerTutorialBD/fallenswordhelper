@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 890==
+  # (Minor) FS: Added ability to highlight players who are in your level range when looking for PvP targets in OTHER guilds. This can be disabled in preferences.
+
 ==Revision 889==
   # (minor) SS2: Fixed a bug which prevents using artifact upgrade. 
 
