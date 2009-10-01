@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 889==
+  # (minor) SS2: Fixed a bug which prevents using artifact upgrade. 
+
 ==Revision 888==
   # (Minor) FS: Added preference to render buff checkboxes on the left side of the buff name. This new preference is called: Render checkbox on left.
 
