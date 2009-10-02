@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 901==
+  # (Minor) FS: Fixed issues with quick buff popup autoselecting buffs. (Issue 741)
+  # (Minor) FS: Added total cost of buying FSPs on the marketplace for gold on the marketplace create request screen.
+  # (Minor) FS: Fixed null error when trying to select all guild locked items on the store items page when you have no guild locked items.
+
 ==Revision 900==
   # (minor) FS: Updated quickbuff to calculate stamina when buffing multiple players. issue 743
 
