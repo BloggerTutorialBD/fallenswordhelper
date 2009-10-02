@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 892==
+  # (Minor) FS: Added ability to change the level range to highlight for PvP targets (GvG in mind) on other guild lists. (Issue 737)
+  # (Minor) FS: Fixed the preference for highlighting players within the level range specified always been enabled, regardless of the preference state.
+
 ==Revision 891==
   # (Majorish) FS: Added first round of auto selecting buffs from your character log in the quick buff window. For now, try to use the most common names/abbreviations for buffs to get the most out of this.
   # Please remember to let us know if you find any bugs!
