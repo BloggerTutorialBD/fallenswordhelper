@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 896==
+  # (Minor) FS: Fixed moving Guild Info if Game Stats was marked to be hidden
+
 ==Revision 895==
   # (Minor) FS: Fixed storing of items bug introduced in last update (r894)
 
