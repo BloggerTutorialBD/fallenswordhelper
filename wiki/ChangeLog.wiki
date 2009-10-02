@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 891==
+  # (Majorish) FS: Added first round of auto selecting buffs from your character log in the quick buff window. For now, try to use the most common names/abbreviations for buffs to get the most out of this.
+  # Please remember to let us know if you find any bugs!
+
 ==Revision 890==
   # (Minor) FS: Added ability to highlight players who are in your level range when looking for PvP targets in OTHER guilds. This can be disabled in preferences.
 
