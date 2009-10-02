@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 893==
+  # (Minor) FS: Added ability to hide the "B M S T" links on the Guild Info Box.
+  # (Minor) FS: Adjusted wording/location on preferences page for the Move Guild Info Box.
+  
 ==Revision 892==
   # (Minor) FS: Added ability to change the level range to highlight for PvP targets (GvG in mind) on other guild lists. (Issue 737)
   # (Minor) FS: Fixed the preference for highlighting players within the level range specified always been enabled, regardless of the preference state.
