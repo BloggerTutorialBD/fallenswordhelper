@@ -2,6 +2,10 @@
 =A version by version list of changes made to the script=
 
 ==Revision 896==
+  # (minor) FS: Added Default CA level to the quick buff popup, you can now see what the current setting of your Default CA level is on the quick buff screen. I also added some colors to make it easier to see if BuffMaster is on and if Sustain and Fury Caster are at 100%.
+  # (minor) FS: Sorted preferences into catagories to make them easier to find and to make future additions easier to add in so people can find them. We might want to think about adding a *New* tag whenever we add a new preference that eventually gets removed when it gets old.
+
+==Revision 896==
   # (Minor) FS: Fixed moving Guild Info if Game Stats was marked to be hidden
 
 ==Revision 895==
