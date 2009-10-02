@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 895==
+  # (Minor) FS: Fixed storing of items bug introduced in last update (r894)
+
 ==Revision 894==
   # (Minor) FS: Added ability to select all guild locked items from the "Store Items" part of the guild inventory. (Issue 234)
 
