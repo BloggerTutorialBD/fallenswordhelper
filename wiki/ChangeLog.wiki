@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 904==
+  # (minor) FS,SS2: Fixed location tracking issue, turn on/off with the footprint on/off. Remove trackFootprints option.
+
 ==Revision 903==
   # (minor) SS2: Ported links to Trade and Secure Trade to enable users to select different catagories of items (all, all stims, all ammo, all resources).
 
