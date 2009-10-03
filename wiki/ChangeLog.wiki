@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 905==
+  # (minor) SS2: Removed Faction Online List in favor of HCS's version. Internal logic will still check the faction list every 5 mins to update status for use in other processes.
+
 ==Revision 904==
   # (minor) FS,SS2: Fixed location tracking issue, turn on/off with the footprint on/off. Remove trackFootprints option.
 
