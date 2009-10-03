@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 902==
+  # (Minor) FS: Added preference to disable tracking your location, which is used in drawing footprints. If you disable this and drawing footprints, loading time for the world page will be increased.
+  
 ==Revision 901==
   # (Minor) FS: Fixed issues with quick buff popup autoselecting buffs. (Issue 741)
   # (Minor) FS: Added total cost of buying FSPs on the marketplace for gold on the marketplace create request screen.
