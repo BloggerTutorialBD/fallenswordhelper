@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 907==
+  # (minor) FS: Fixed the auto-select buffs feature always selecting rage.
+  
 ==Revision 906==
   # (minor) SS2: Fixed a bug in Save Config from r905
   # (minor) SS2: Fixed a bug in Component Summary total count
