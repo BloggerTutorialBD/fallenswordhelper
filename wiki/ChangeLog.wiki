@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 906==
+  # (minor) SS2: Fixed a bug in Save Config from r905
+  # (minor) SS2: Fixed a bug in Component Summary total count
+
 ==Revision 905==
   # (minor) SS2: Removed Faction Online List in favor of HCS's version. Internal logic will still check the faction list every 5 mins to update status for use in other processes.
 
