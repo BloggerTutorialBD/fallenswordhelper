@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 909==
+  # (minor) FS: Added display of self and target player stats and buffs on the attack player screen so you can get a quick look at the side by side stat and buff view before you attack.
+  # (minor) FS: Updated the relic mouseover stats to the latest available info.
+
 ==Revision 907==
   # (minor) FS: Fixed the auto-select buffs feature always selecting rage.
   
