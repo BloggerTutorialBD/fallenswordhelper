@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 912==
+  # (Major) SS2: Made Config page using tab panel, grouping options into different groups. Replace checkbox with button for instant save. You still need to click Save if you want to save the text field. 
+
 ==Revision 911==
   # (minor) FS,SS2: Improved buff checking function to speed up the script.
   # (minor) SS2: Cleaned up code, html source in injectSettings.
