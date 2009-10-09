@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 911==
+  # (minor) FS,SS2: Improved buff checking function to speed up the script.
+  # (minor) SS2: Cleaned up code, html source in injectSettings.
+
 ==Revision 910==
   # (Major) FS,SS2: Added a hunting mode (enable in Preference / Config), disable by clicking on the "[ON]" on top right screen. The hunting mode will disable the additional menu and some features to make the script run 30-50% faster.
 
