@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 914==
+  # (minor) FS: added option to enable/disable attack player functionality. default is off. issue 757
+  # (minor) FS: minor code tweaks to improve performance. World screen. View other guild screen. View creature info option on world screen. issue 755
+  # (minor) FS: fix for not being able to see guild attack groups. issue 758
+
 ==Revision 912==
   # (Major) SS2: Made Config page using tab panel, grouping options into different groups. Replace checkbox with button for instant save. You still need to click Save if you want to save the text field. 
 
