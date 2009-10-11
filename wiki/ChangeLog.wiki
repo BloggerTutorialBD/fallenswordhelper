@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 916==
+  # (minor) FS: Minor code tweaks to improve performance on Guild>Manage page. issue 755
+
 ==Revision 914==
   # (minor) FS: added option to enable/disable attack player functionality. default is off. issue 757
   # (minor) FS: minor code tweaks to improve performance. World screen. View other guild screen. View creature info option on world screen. issue 755
