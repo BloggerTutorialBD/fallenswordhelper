@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 919==
+  # (minor) FS: Updated the quick buff screen to show the level of an active skill (in yellow) next to the skill that you are able to cast. (Issue 256)
+
 ==Revision 918==
   # (minor) FS: Tweaked the combat evaluator slightly to add some flexibility to how the creature is evaluated. I added three levels to the preferences screen (Conservative, Semi-conservative and Adventurous) to give the user the chance to play around with values. Conservative setting is the closest to the previous setting.
   # (minor) FS: Added an option to disable the check for offline defenders on the relic screen for guilds defending the relic.
