@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 918==
+  # (minor) FS: Tweaked the combat evaluator slightly to add some flexibility to how the creature is evaluated. I added three levels to the preferences screen (Conservative, Semi-conservative and Adventurous) to give the user the chance to play around with values. Conservative setting is the closest to the previous setting.
+  # (minor) FS: Added an option to disable the check for offline defenders on the relic screen for guilds defending the relic.
+
 ==Revision 916==
   # (minor) FS: Minor code tweaks to improve performance on Guild>Manage page. issue 755
 
