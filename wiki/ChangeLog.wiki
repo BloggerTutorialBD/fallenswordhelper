@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 920==
+  # (minor) FS: Moved Scout Tower Info to the top of the Titan Kill Log Screen, added Scout Tower Graphic from HCS as well.
+
 ==Revision 919==
   # (minor) FS: Updated the quick buff screen to show the level of an active skill (in yellow) next to the skill that you are able to cast. (Issue 256)
 
