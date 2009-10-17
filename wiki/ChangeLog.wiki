@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 921==
+  # (minor) FS: Made it easier to create buff packs on the Quick Buff Screen: Now whenever you want to create a buff pack, select all of the buffs in that pack first. Then click the Add button to add a new buff pack, all of the selected buffs will be added to that buff pack.
+
 ==Revision 920==
   # (minor) FS: Moved Scout Tower Info to the top of the Titan Kill Log Screen, added Scout Tower Graphic from HCS as well.
 
