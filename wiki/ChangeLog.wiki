@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 925==
+  # (minor) FS: Quick fix to Quest Book and Quest Manager to match HCS's latest change. I expect to have to make changes again when HCS adds min level to the page (hopefully), but at least it works for now.
+
 ==Revision 923==
   # (minor) SS2: Added button to enable quick delete components in datasheet page.
   # (minor) SS2: Ported the level of an active skill (in yellow) next to the skill that you are able to cast in quick buff page.
