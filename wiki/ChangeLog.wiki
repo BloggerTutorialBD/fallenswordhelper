@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 923==
+  # (minor) SS2: Added button to enable quick delete components in datasheet page.
+  # (minor) SS2: Ported the level of an active skill (in yellow) next to the skill that you are able to cast in quick buff page.
+
 ==Revision 922==
   # (minor) FS: Added ability to auto-select buff packs from your character log. The buff pack name MUST match the name that buyers select when they select a buff pack from your bio. If you have a buff pack named 'Defense Buffs', you must display it to others as 'Defense Buffs', not 'Defense Buffs: Const,Deflect' etc... (Issue 736)
   # (minor) FS: Doubled the size of the bio editor text area, with plans to make the size configurable.
