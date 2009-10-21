@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 930==
+  # (minor) FS: Added link to the quest book for the fallen sword guide.
+  # (minor) FS: Added link to add/remove the creature from the Do Not Kill List to the creature screen. issue 764
+  # (minor) FS: Added some relic and item data and cleaned up the data file a little.
+  # (minor) FS: Fixed extremely minor bug if the top 250 players didn't load correctly.
+
 ==Revision 928==
   # (minor) FS: Removed quest manager, quest data (level and location) and flag for hiding completed quests. All that remains is the functionality to hide individual quests. HCS did a great job in updating their quest log.
   # (minor) FS: Fixed the fast recall functionality after HCS's latest change so you can still fast recall to either backpack (BP) or guild store (GS). Also fixed the self recall (SR) link from the Guild>Manage page.
