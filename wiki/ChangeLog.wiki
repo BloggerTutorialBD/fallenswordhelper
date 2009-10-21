@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 926==
+  # (minor) SS2: Fixed a bug in displaying the level of an active skill (in yellow) in quick buff page.
+
 ==Revision 925==
   # (minor) FS: Quick fix to Quest Book and Quest Manager to match HCS's latest change. I expect to have to make changes again when HCS adds min level to the page (hopefully), but at least it works for now.
 
