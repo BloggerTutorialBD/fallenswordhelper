@@ -14,6 +14,10 @@ Q: Can you auto repair after all kills?
 
 A: No, you need to press 'r' yourself to repair. The auto repair feature was removed due to HCS request.
 ----
+Q: How do I report a bug or request an enhancement for the Helper?
+
+A: Click on Issues tab, select Search within "All Issues" for your report/request. If there is no report/request similar to yours, click on "New issue" to make a new report/request. Otherwise, please leave your comment on the existing issue.
+----
 Q: What do the colors on the guild members list mean?
 
 A: White is for normal. Dark orange means the member has just logged in. Gold denotes yourself (to find yourself easily and e.g. buff yourself)
