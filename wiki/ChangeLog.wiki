@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 932==
+  # (minor) FS: Added link in bio to get the any players self-recall page.
+  # (minor) FS: Added Fast Wear in guild recall page to recall to your backpack (you need to have at least one spare backpack) and wear it.
+
 ==Revision 930==
   # (minor) FS: Added link to the quest book for the fallen sword guide.
   # (minor) FS: Added link to add/remove the creature from the Do Not Kill List to the creature screen. issue 764
