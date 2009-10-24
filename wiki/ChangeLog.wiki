@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 936==
+  # (minor) FS: Added skill description on mouseover on the skills page. (Issue 748)
+
 ==Revision 935==
   # (minor) FS: Removed the 'Render Checkbox on Left' property since it is has been OBE.
   # (minor) FS: Updated bio preview area to use the latest bio parsing code.
