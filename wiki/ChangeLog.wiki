@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 935==
+  # (minor) FS: Removed the 'Render Checkbox on Left' property since it is has been OBE.
+  # (minor) FS: Updated bio preview area to use the latest bio parsing code.
+
 ==Revision 933==
   # (minor) FS: Changed checkbox for buffs in bio to clickable buff name: not selected buffs are blue, selected buffs are yellow.
   # (minor) FS: Code cleaned up for bio parsing.
