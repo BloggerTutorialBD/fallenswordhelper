@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 937==
+  # (minor) FS: Fixed buff parsing for bios with bold inside the buff tags.
+
 ==Revision 936==
   # (minor) FS: Added skill description on mouseover on the skills page. (Issue 748)
 
