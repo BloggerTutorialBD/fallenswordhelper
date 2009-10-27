@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 938==
+  # (minor) SS2: Removed mission manager, mission data (level and location) and flag for hiding completed misions. All that remains is the functionality to hide individual mission.
+
 ==Revision 937==
   # (minor) FS: Fixed buff parsing for bios with bold inside the buff tags.
 
