@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 939==
+  # (minor) FS: Added the estimated buff price when the bio used buff tag and had buff price on the same line. Move mouse over the estimated cost to see detail buff price calculation.
+
 ==Revision 938==
   # (minor) SS2: Removed mission manager, mission data (level and location) and flag for hiding completed misions. All that remains is the functionality to hide individual mission.
 
