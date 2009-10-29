@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 940==
+  # (minor) FS: Tweaked the bio cost calculator a little bit. (It now removes non-alphanumeric characters on the line in order to match)
+
 ==Revision 939==
   # (minor) FS: Added the estimated buff price when the bio used buff tag and had buff price on the same line. Move mouse over the estimated cost to see detail buff price calculation.
 
