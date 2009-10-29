@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 942==
+  # (minor) FS: Added ability to track multiple quests.
+
 ==Revision 941==
   # (minor) FS: Fixed the bulk create auction when you have backpack folders enabled. (Issue 667)
 
