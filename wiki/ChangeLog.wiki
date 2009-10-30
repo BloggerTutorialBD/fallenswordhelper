@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 944==
+  # (minor) FS: Fixed the bio cost calculator to accept floating point numbers and negative numbers.
+
 ==Revision 943==
   # (minor) FS: Fixed Calculate Defender Stats Button on Relic Page
 
