@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 947==
+  # (minor) FS: Added preference on the create auction page that allows you to choose if you want to bulk sell items across all folders, or just from your main folder. (Issue 778)
+
 ==Revision 946==
   # (minor) FS: Code cleaned up in injectProfile.
 
