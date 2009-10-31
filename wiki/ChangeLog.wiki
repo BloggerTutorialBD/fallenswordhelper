@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 949==
+  # (minor) FS,SS2: Changed view creature info implementation. From now, when "Show Creature/Entity Info" is enable, the creature info will not be retrieved until you actually want to see it (by putting the mouse over the creature icon). However, if you have "Keep Creature/Entity Log" enable, all creatures' info will still be prefetched as before.
+
 ==Revision 948==
   # (minor) FS: Bulk auction should be working properly all over again.
 
