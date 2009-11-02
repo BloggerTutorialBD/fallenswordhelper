@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 953==
+  # (minor) FS: Added configurable property on the bio edit page for how many lines to show in the edit area. Max is 99. (Issue 746)
+
 ==Revision 952==
   # (minor) FS: Added image indicator of hunting mode on the world page. You can click this icon to toggle hunting mode on and off. (Issue 772)
   # (minor) FS: Added code to fix HCS' implementation for the tooltip for the 'Empower Relic [?]' popup text. Will remove when they fix it.
