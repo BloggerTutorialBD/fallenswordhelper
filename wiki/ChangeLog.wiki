@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 954==
+  # (minor) FS: Fixed the Fetch defender stats button not always showing up, hopefully. (Issue 788, Issue 784, Issue 776)
+  # (minor) FS: Fixed the bio update button not working since r953. Sorry! (Issue 792, Issue 791)
+  # (minor) FS: Updated relic data for the latest relic update. I still need information on the following relics: Pillars of Lindorik, Statue of Elidoia and Darghei Statue. (Issue 775)
+
 ==Revision 953==
   # (minor) FS: Added configurable property on the bio edit page for how many lines to show in the edit area. Max is 99. (Issue 746)
 
