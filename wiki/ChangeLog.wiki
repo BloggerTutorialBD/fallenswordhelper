@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 955==
+  # (minor) FS: Fixed ability to buff the first 16 group members on a relic you are defending, and group members.
+  # (minor) FS: Added ability to buff second, third, fourth, etc.. groups of 16, unfortunately the buffs you choose won't be saved, you should make a buff pack that you want to buff these groups with.
+
 ==Revision 954==
   # (minor) FS: Fixed the Fetch defender stats button not always showing up, hopefully. (Issue 788, Issue 784, Issue 776)
   # (minor) FS: Fixed the bio update button not working since r953. Sorry! (Issue 792, Issue 791)
