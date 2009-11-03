@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 956==
+  # (major) FS: Added ability to check if there are quests that are not started or started, not complete and not being tracked for the current zone. You can turn this on by going to the preferences page, it is marked as new.
+  # (minor) FS: Fixed the buff links on the Guild->Groups page.
+  # (minor) FS: Added missing relic data. (Pillars of Lindorik, Statue of Elidoia and Darghei Statue)
+
 ==Revision 955==
   # (minor) FS: Fixed ability to buff the first 16 group members on a relic you are defending, and group members.
   # (minor) FS: Added ability to buff second, third, fourth, etc.. groups of 16, unfortunately the buffs you choose won't be saved, you should make a buff pack that you want to buff these groups with.
