@@ -1,5 +1,8 @@
 #labels Featured
 =A version by version list of changes made to the script=
+==Revision 957==
+  # (minor) FS: Tweaked the checking for quests code a little bit
+  # (minor) FS: Added FS Wiki and FSG buttons to the view quest pages since clicking on a quest name from the world page brings you to that page.
 
 ==Revision 956==
   # (major) FS: Added ability to check if there are quests that are not started or started, not complete and not being tracked for the current zone. You can turn this on by going to the preferences page, it is marked as new.
