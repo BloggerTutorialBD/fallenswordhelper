@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 961==
+  # (minor) FS: Fixed a big that was introduced with the last revision. Sorry!
+
 ==Revision 960==
   # (minor) FS: Added code to change your Character->Quest Book link on the lefthand menu to your last quest book page for active quests if this value is set.
 
