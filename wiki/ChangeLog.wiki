@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 964==
+  # (minor) FS: Fix for Guild Info screen when player name forces the 'T' onto the next line.
+
 ==Revision 962==
   # (minor) FS: Moved code for changing the Quest Book menu item link to injectMenu. (Issue 796)
   # (minor) FS: Added a new preference to parse your character log for 'Chat' messages. If enabled, this chat will then be inserted into the 'Send Message' page to give you an idea of what you are replying to. (Issue 423)
