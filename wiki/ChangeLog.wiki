@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 966==
+  # (minor) FS: Added fast take to add tags screen because finding items in the GS is a pita.
+
 ==Revision 964==
   # (minor) FS: Fix for Guild Info screen when player name forces the 'T' onto the next line.
 
