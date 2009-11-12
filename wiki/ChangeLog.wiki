@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 969==
+  # (minor) FS: With the marketplace prices going higher, tweaked the upper price on the selling warning for FSP.
+
 ==Revision 967==
   # (minor) FS: Added Buff Log option to Preferences page, that will record all buffs you cast, and a link to the log in the Character Area. (Issue 110)
   # (minor) FS: Ported Quick Buy From SS2 to the shops in FS (Issue 686) and (Issue 797)
