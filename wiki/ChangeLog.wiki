@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 967==
+  # (minor) FS: Added Buff Log option to Preferences page, that will record all buffs you cast, and a link to the log in the Character Area. (Issue 110)
+  # (minor) FS: Ported Quick Buy From SS2 to the shops in FS (Issue 686) and (Issue 797)
+  # (minor) FS: Ported Count Components from SS2 to the players Profile screen (Issue 681)
+
 ==Revision 966==
   # (minor) FS: Added fast take to add tags screen because finding items in the GS is a pita.
 
