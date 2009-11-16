@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 971==
+  # (minor) SS2: Fixed a bug in TH after the new SS2 recruiment update.
+
 ==Revision 970==
   # (minor) SS2: Changed shortcut "Repair at Mechanic" back to 'r'
   # (minor) SS2: Changed shortcut "use a Repair Kit" to 'f'
