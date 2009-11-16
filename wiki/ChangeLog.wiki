@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 970==
+  # (minor) SS2: Changed shortcut "Repair at Mechanic" back to 'r'
+  # (minor) SS2: Changed shortcut "use a Repair Kit" to 'f'
+  # (minor) SS2: Changed shortcut "use a Medipack" to 'm'
+  # (minor) SS2: Changed shortcut "Open map in tab" to 'M'
+
 ==Revision 969==
   # (minor) FS: With the marketplace prices going higher, tweaked the upper price on the selling warning for FSP.
 
