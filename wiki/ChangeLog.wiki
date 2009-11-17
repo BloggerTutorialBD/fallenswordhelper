@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 977==
+  # (minor) FS: Removed (For now) The code to put the fallensword guide icon on the world page, since the page is down, this was causing the FSH to be slow when loading the world page (even with hunting mode on). We will add this back if (and when) the FSG becomes available again.
+
 ==Revision 976==
   # (minor) FS: Fixed the Quick Wear/Use page.
   # (minor) FS: If you find any more problems with the latest HCS and the FSH, please post your issue to http://code.google.com/p/fallenswordhelper/issues/list. Thank you!
