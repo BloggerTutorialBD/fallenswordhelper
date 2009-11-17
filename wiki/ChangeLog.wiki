@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 980==
+  # (minor) FS: Fixed an error in fsdata.js. Sorry!
+
 ==Revision 979==
   # (minor) FS: Guild inventory parsing should be working again.
   # (minor) FS: Changed instances of 'Faction' to 'Guild'.
