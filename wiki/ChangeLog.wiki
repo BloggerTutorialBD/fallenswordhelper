@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 974==
+  # (minor) FS: Fixed the preference screen (The exclusive box dorks up the code a little =) )
+
 ==Revision 973==
   # (minor) FS: Added some items to the FS data list for mapping item to wear location. issue 799
   # (minor) FS: Added recall to BP to remove tag screen as requested. issue 801
