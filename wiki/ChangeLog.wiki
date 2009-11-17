@@ -1,8 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 975==
+  # (minor) FS: Fixed the Auction House (hopefully).
+
 ==Revision 974==
-  # (minor) FS: Fixed the preference screen (The exclusive box dorks up the code a little =) )
+  # (minor) FS: Fixed the preference screen (The exclusive box dorks up the code a little =) ) (Issue 807)
 
 ==Revision 973==
   # (minor) FS: Added some items to the FS data list for mapping item to wear location. issue 799
