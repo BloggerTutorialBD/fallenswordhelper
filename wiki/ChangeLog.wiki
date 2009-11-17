@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 973==
+  # (minor) FS: Added some items to the FS data list for mapping item to wear location. issue 799
+  # (minor) FS: Added recall to BP to remove tag screen as requested. issue 801
+  # (minor) FS: Added link to guild log screen for players added, kicked, promoted, requesting join, etc. issue 803
+  # (minor) FS: Fixed it so if you refresh your AH search template it will go back to the default one. issue 779
+
 ==Revision 971==
   # (minor) SS2: Fixed a bug in TH after the new SS2 recruiment update.
 
