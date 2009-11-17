@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 978==
+  # (minor) FS: Added quick extract functionality. Link appears under profile components. This enables you to extract all similar resources easily. (yuuzhan)
+
 ==Revision 977==
   # (minor) FS: Removed (For now) The code to put the fallensword guide icon on the world page, since the page is down, this was causing the FSH to be slow when loading the world page (even with hunting mode on). We will add this back if (and when) the FSG becomes available again.
 
