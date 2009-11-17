@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 976==
+  # (minor) FS: Fixed the Quick Wear/Use page.
+  # (minor) FS: If you find any more problems with the latest HCS and the FSH, please post your issue to http://code.google.com/p/fallenswordhelper/issues/list. Thank you!
+
 ==Revision 975==
   # (minor) FS: Fixed the Auction House (hopefully).
 
