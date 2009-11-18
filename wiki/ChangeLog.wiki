@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 983==
+  # (minor) FS: Hide the Buff Log menu item if the buff log feature is disabled (Issue 805)
+  # (minor) FS: When replying to a message from your character log (If you have Enable Log Parsing enabled) the little [?] box will no longer be focused by pressing tab after entering your message.
+  # (minor) FS: You can now enable hitting enter to send a message via the enter key on the Send Message screen in the preferences section (all the way to the bottom). Default is off. (Issue 590)
+
 ==Revision 982==
   # (minor) FS: You should now be able to hide the top banner again.
 
