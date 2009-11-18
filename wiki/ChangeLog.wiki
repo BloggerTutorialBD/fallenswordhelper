@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 982==
+  # (minor) FS: You should now be able to hide the top banner again.
+
 ==Revision 981==
   # (minor) FS: Added stamina used to the buff log.
 
