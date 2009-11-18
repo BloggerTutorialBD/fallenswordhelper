@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 984==
+  # (minor) SS2: Fixed the repair kit shortcut [f] to new url
+
 ==Revision 983==
   # (minor) FS: Hide the Buff Log menu item if the buff log feature is disabled (Issue 805)
   # (minor) FS: When replying to a message from your character log (If you have Enable Log Parsing enabled) the little [?] box will no longer be focused by pressing tab after entering your message.
