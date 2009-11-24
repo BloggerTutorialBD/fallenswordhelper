@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 989==
+  # (minor) FS: Added preference to enable showing the backpack slot counter from the world page to your profile page above your backpack items, it defaults to being off. (Issue 631)
+
 ==Revision 988==
   # (minor) FS: Fixed issue with quick links possibly screwing up the FSH. (Issue 351)
 
