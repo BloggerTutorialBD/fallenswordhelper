@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 988==
+  # (minor) FS: Fixed issue with quick links possibly screwing up the FSH. (Issue 351)
+
 ==Revision 987==
   # (minor) FS: Fixed the wiki link not showing up on the Quest Details page. (Issue 823)
 
