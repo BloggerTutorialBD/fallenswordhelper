@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 990==
+  # (minor) SS2: Changed blueprint manager filter to be more visible.
+  # (minor) SS2: Added blueprint filter by name.
+  # (minor) SS2: Fixed blueprint list and online list to show unique entries only.
+  # (minor) SS2: Cleaned up some code
+
 ==Revision 989==
   # (minor) FS: Added preference to enable showing the backpack slot counter from the world page to your profile page above your backpack items, it defaults to being off. (Issue 631)
 
