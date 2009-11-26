@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 991==
+  # (minor) SS2: Fixed bug in dropping items after the new folder update.
+  # (minor) SS2: Introduced new view mode in blueprint manager: the table mode for components. There is a summary of the total number of components needed at the end which should be useful when viewing the blueprints of one complete set.
+
 ==Revision 990==
   # (minor) SS2: Changed blueprint manager filter to be more visible.
   # (minor) SS2: Added blueprint filter by name.
