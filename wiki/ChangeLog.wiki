@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 992==
+  # (Major) SS2: Added bulk move items between folder, access from Manage Backpack [b] screen
+  # (minor) SS2: Moved the Hunting Mode indicator to the stats displaying area. You can toggle the mode on/off from world screen.
+  # (minor) SS2: Ported link to add/remove the creature from the Do Not Kill List to the creature screen.
+  # (minor) SS2: Fixed Trade Hub bug in special section.
+
 ==Revision 991==
   # (minor) SS2: Fixed bug in dropping items after the new folder update.
   # (minor) SS2: Introduced new view mode in blueprint manager: the table mode for components. There is a summary of the total number of components needed at the end which should be useful when viewing the blueprints of one complete set.
