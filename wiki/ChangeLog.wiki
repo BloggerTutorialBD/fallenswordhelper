@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 994==
+  # (minor) FS: Fixed some image bugs if you use the FS Image Pack. (Issue 827)
+
 ==Revision 993==
   # (minor) FS: Ported from SS2 bulk move items between folder, access from Manage Backpack (shortcut b) screen. Note that only personal item are displayed there, guild tagged items can not be move around this way. 
 
