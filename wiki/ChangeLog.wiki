@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 995==
+  # (minor) FS: Added a temporary fix to replace the slashes for realm tile images for *nix based systems. Only runs if you have the image pack enabled. This will be removed when HCS fixes the tile source locations for realm tiles.
+
 ==Revision 994==
   # (minor) FS: Fixed some image bugs if you use the FS Image Pack. (Issue 827)
 
