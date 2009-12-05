@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 996==
+  # (minor) FS: Fixed the background image on the quick kill combat result log if you have the FSIP enabled.
+
 ==Revision 995==
   # (minor) FS: Added a temporary fix to replace the slashes for realm tile images for *nix based systems. Only runs if you have the image pack enabled. This will be removed when HCS fixes the tile source locations for realm tiles.
 
