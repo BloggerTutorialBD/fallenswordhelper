@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 997==
+  # (minor) FS: Fixed the realm tile error code for *nix boxes. (thanks mind)
+
 ==Revision 996==
   # (minor) FS: Fixed the background image on the quick kill combat result log if you have the FSIP enabled.
 
