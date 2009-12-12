@@ -1,9 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 999==
+  # (minor) FS: Fixed the quick buff screen not showing up with the last update... my bad.
+
 ==Revision 998==
   # (minor) FS: Added an option to show guild conflict summary information on the Guild->Manage page.
-  # (minor) FS: Added an option to turn the Game Help text in the bottom right box into a quick link to the settings page. This can be useful if you play the game from multiple locations.
+  # (minor) FS: Added an option to turn the Game Help text in the bottom right box into a quick link to the settings page. This can be useful if use the FS Image Pack AND you play the game from multiple locations.
 
 ==Revision 997==
   # (minor) FS: Fixed the realm tile error code for *nix boxes. (thanks mind)
