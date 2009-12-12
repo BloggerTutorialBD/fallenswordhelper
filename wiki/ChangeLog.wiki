@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1001==
+  # (minor) FS: Changed the navigate to log preference to navigate to the page that you were on when you first went to the send message screen.
+
 ==Revision 1000==
   # (minor) FSH: The FSH has turned 1000 revisions old!!!
   # (minor) FS: Added a preference to navigate to your character log after a message is sent successfully. (Issue 551)
