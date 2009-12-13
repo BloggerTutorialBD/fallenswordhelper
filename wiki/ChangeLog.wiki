@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1002==
+  # (minor) FS: Added the display on the Guild->Manage page to show if your guild is XP locked, how much XP you need to break the lock. (Issue 265)
+  # (minor) FS: Fixed tooltip and preference display name for the navigate after message sent option in the Preferences screen.
+
 ==Revision 1001==
   # (minor) FS: Changed the navigate to log preference to navigate to the page that you were on when you first went to the send message screen.
 
