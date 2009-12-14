@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1004==
+  # (minor) SS2: Ported a preference to parse your character journal for 'Chat' messages. If enabled (default), this chat will then be inserted into the 'Send Message' page to give you an idea of what you are replying to.
+  # (minor) SS2: Ported a preference to navigate to your last page (usually character journal) after a message is sent successfully
+  # (minor) SS2: With the Crystal Market prices going higher, tweaked the price on the selling warning for FC.
+  # (minor) SS2: Added Wiki button to the view mission pages.
+
 ==Revision 1003==
   # (minor) FS: Fixed the detailed conflict info if your guild hasn't initiated any conflicts.
   # (minor) FS: Turned the 'Active Conflicts' text into a link for the Guild Conflicts page.
