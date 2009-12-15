@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1005==
+  # (minor) SS2: Fixed quick use function (shortcut {,},|) to search in all folders (but you should put those items in main folder for fastest use).
+  # (minor) SS2: Changed quick_use result to be displayed in an alert box.
+
 ==Revision 1004==
   # (minor) SS2: Ported a preference to parse your character journal for 'Chat' messages. If enabled (default), this chat will then be inserted into the 'Send Message' page to give you an idea of what you are replying to.
   # (minor) SS2: Ported a preference to navigate to your last page (usually character journal) after a message is sent successfully
