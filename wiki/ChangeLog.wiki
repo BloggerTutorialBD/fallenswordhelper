@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1007==
+  # (minor) SS2: Fixed bug in Faction Inventory when you have Mission Item in store (issue 834)
+
 ==Revision 1006==
   # (minor) SS2: Ported Doppler Array Info to the top of the Behemoth Kill Log Screen
 
