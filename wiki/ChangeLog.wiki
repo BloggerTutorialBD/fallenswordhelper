@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1008==
+  # (minor) FS: Added option to show the current server time and date (from the Game Stats block) in the banner area over the dragon's head. Make sure you don't hide the banner and don't use HCS' option to hide the Game Stats if you want to use this. (Issue 156)
+
 ==Revision 1007==
   # (minor) SS2: Fixed bug in Faction Inventory when you have Mission Item in store (issue 834)
 
