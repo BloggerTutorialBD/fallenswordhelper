@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1010== 
+  # (minor) FS: Ally/enemy list should show again, along with the guild chat. (Issue 835)
+
 ==Revision 1009==
   # (minor) FS: Fixed the server time showing up in the top right.
 
