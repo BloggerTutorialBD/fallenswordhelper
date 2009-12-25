@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1012==
+  # (minor) SS2: Fixed a bug in Faction Inventory Manager (issue 774)
+
 ==Revision 1011==
   # (minor) FS: Added code to update your inventory on the world page while you are quick hunting (Issue 829, thanks joseph)
 
