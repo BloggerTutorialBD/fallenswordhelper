@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1013==
+  # (minor) FS: If you have guild conflict info enabled for the Guild->Manage screen, it should no longer insert 'Active Conflicts' if your guild isn't involved in any.
+  # (minor) FS: If you are checking for incomplete quests, the notification text should no longer be on the same line as the Shield Imp count.
+
 ==Revision 1012==
   # (minor) SS2: Fixed a bug in Faction Inventory Manager (issue 774)
 
