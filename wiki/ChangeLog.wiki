@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1015==
+  # (minor) FS: Added shortcut "y" to quickly send gold (accessible from World Screen only) (issue 626)
+  # (minor) FS: Added option to turn on/off Kill Streak trackin feature when you have Death Dealer and no Summon Shield Imp (visible on World Screen, only when DD is on and no SSI) (issue 798).
+
 ==Revision 1014==
   # (minor) FS: Added an option in the preferences screen to completely reset your footprints variable. It also shows the current size (# of characters) of the variable. (Issue 742)
   # (minor) FS: Added the ability to see how your footprint color choice looks on top of the current square you are standing on (in the preferences screen).
