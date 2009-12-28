@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1014==
+  # (minor) FS: Added an option in the preferences screen to completely reset your footprints variable. It also shows the current size (# of characters) of the variable. (Issue 742)
+  # (minor) FS: Added the ability to see how your footprint color choice looks on top of the current square you are standing on (in the preferences screen).
+  
 ==Revision 1013==
   # (minor) FS: If you have guild conflict info enabled for the Guild->Manage screen, it should no longer insert 'Active Conflicts' if your guild isn't involved in any.
   # (minor) FS: If you are checking for incomplete quests, the notification text should no longer be on the same line as the Shield Imp count.
