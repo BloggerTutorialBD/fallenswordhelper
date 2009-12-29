@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1016==
+  # (minor) FS: Added a quick-link underneath the Local Image Directory text box to make it easier to play the game from multiple machines. The value will be saved whenever you update your game settings. To test this, you can turn greasemonkey off, set the image location value. Then turn GM back on, and set it again. The quick link should be underneath the box now.
+
 ==Revision 1015==
   # (minor) FS: Added shortcut "y" to quickly send gold (accessible from World Screen only) (issue 626)
   # (minor) FS: Added option to turn on/off Kill Streak trackin feature when you have Death Dealer and no Summon Shield Imp (visible on World Screen, only when DD is on and no SSI) (issue 798).
