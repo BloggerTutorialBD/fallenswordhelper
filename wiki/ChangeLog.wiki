@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1018==
+  # (minor) SS2: Made items in blueprint linked to search in TH.
+  # (minor) SS2: Added link to hightlight points of interest (POI) in mini map and world map. 
+
 ==Revision 1017==
   # (minor) FS: The Quest(s) not completed line should REALLY be on its own line all the time now. 
 
