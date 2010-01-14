@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1020==
+  # (minor) FS: Changed the bias on the combat evaluator to only effect damage and hp. Attack will still have a 1.1053 multipler applied. Some players found they missed even though the helper said they would hit.
+  # (minor) FS: Added an option to enable the icon for the FSG on the world screen. This will allow those who have edited their hosts file to get the FSG working to use the icon again.
+  # (minor) FS: Changed the default of the countdown timer to off. You should turn this off unless you really need it as it is a memory hog. I recommend using the FS plugin instead (http://koti.kapsi.fi/~tharna/fallensword/). issue 815
+  # (minor) FS: Added some more items to fsdata.js. issue 830
+
 ==Revision 1018==
   # (minor) SS2: Made items in blueprint linked to search in TH.
   # (minor) SS2: Added link to hightlight points of interest (POI) in mini map and world map. 
