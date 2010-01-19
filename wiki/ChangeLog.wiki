@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1022==
+  # (minor) FS: Fixed scout tower details showing on the titan log screen.
+  # (minor) FS: Fixed quick links so it doesn't screw up your layout on the world screen (if it is a little longer) and also fixed it so that it will wrap around with many links.
+
 ==Revision 1020==
   # (minor) FS: Changed the bias on the combat evaluator to only effect damage and hp. Attack will still have a 1.1053 multipler applied. Some players found they missed even though the helper said they would hit.
   # (minor) FS: Added an option to enable the icon for the FSG on the world screen. This will allow those who have edited their hosts file to get the FSG working to use the icon again.
