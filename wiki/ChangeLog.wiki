@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1026==
+  # (minor) FS: Minor tweak to screen display of kill streak tracker if disabled.
+
 ==Revision 1024==
   # (minor) FS: Added links to buff players hunting titans on the scout tower screen.
 
