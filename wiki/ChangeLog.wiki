@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1028==
+  # (minor) FS: Calculator on upgrade page that shows you how many stamina you get for the FSP you are spending was not working with the image pack on.
+
 ==Revision 1026==
   # (minor) FS: Minor tweak to screen display of kill streak tracker if disabled.
 
