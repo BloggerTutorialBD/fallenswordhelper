@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1030==
+  # (minor) FS,SS2: Added Fast Wear in Guild/Faction store.
+  # (minor) FS,SS2: Added operator OR "|" in guild report filter for item (example FS: http://www.fallensword.com/index.php?cmd=guild&subcmd=inventory&subcmd2=report&item=Cursed|Bride SS2: http://www.sigmastorm2.com/index.php?cmd=guild&subcmd=inventory&subcmd2=report&item=KR5|Narholt )
+
 ==Revision 1029==
   # (minor) SS2: Added "Combine Selected" button on Manage Backpack (shortcut b) screen.
 
