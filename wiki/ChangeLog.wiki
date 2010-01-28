@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1031==
+  # (minor) SS2: Added "Invent Multiple times" button in View Blueprint screen.
+  # (minor) SS2: Ported shortcut "y" to quickly send credit (accessible from World Screen only).
+  # (minor) SS2: Ported quick buy feature that allows you to select how many items to buy.
+
 ==Revision 1030==
   # (minor) FS,SS2: Added Fast Wear in Guild/Faction store.
   # (minor) FS,SS2: Added operator OR "|" in guild report filter for item (example FS: http://www.fallensword.com/index.php?cmd=guild&subcmd=inventory&subcmd2=report&item=Cursed|Bride SS2: http://www.sigmastorm2.com/index.php?cmd=guild&subcmd=inventory&subcmd2=report&item=KR5|Narholt )
