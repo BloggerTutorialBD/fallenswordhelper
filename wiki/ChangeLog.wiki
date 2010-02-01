@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1034==
+  # (minor) FS: Added option to hide the new recruiting box (defaults to off).
+
 ==Revision 1031==
   # (minor) SS2: Added "Invent Multiple times" button in View Blueprint screen.
   # (minor) SS2: Ported shortcut "y" to quickly send credit (accessible from World Screen only).
