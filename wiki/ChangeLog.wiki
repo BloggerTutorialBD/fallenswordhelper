@@ -2,6 +2,13 @@
 =A version by version list of changes made to the script=
 
 ==Revision 1036==
+  # (minor) FS: On inventory screens, tidied up the (set) link so it only shows for sets (will require a refresh), also changed it so the (set) link attempts to search for all items in that set using the "|" functionality added in a recent patch.
+  # (minor) FS: Fixed a bugs introduced in the last patch with minor issues with the relic stats and the guild log coloring.
+  # (minor) FS: Fixed the [?] after Empower Level text so it is all on one line on the relic screen.
+  # (minor) FS: Added a few items to the data list.
+  # (minor) FS: Minor code housekeeping.
+
+==Revision 1036==
   # (minor) FS: Added links to world screen, creature screen and quest pages to link to the ultimate fallen sword guide. I don't have a good icon for it yet, so for now use the green square.
 
 ==Revision 1034==
