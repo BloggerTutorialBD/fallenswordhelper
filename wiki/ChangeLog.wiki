@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1041==
+  # (minor) FS: Fix to hide top banner that caused the login screen not to show.
+  # (minor) FS: Added [Join All] link to the indicator to show if a new attack group has been created (saves a click if you are always joining all groups).
+  # (minor) FS: More minor code cleanup.
+
 ==Revision 1036==
   # (minor) FS: On inventory screens, tidied up the (set) link so it only shows for sets (will require a refresh), also changed it so the (set) link attempts to search for all items in that set using the "|" functionality added in a recent patch.
   # (minor) FS: Fixed a bugs introduced in the last patch with minor issues with the relic stats and the guild log coloring.
