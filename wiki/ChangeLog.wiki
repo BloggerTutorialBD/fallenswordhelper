@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1047==
+  # (minor) FS: Tweak to the join all on the main page so it uses the right link and you actually join some groups.
+
 ==Revision 1045==
   # (minor) FS: Added option to turn off saving quest book links in the rare occasion where the last page no longer exists.
 
