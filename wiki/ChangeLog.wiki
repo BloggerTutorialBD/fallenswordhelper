@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1049==
+  # (minor) FS: Fixed issue where krul portal on world screen did not work if you did not have footprints enabled ever.
+  # (minor) FS: Fixed issue where bio expander did not work in a certain circumstance. issue 857
+  # (minor) FS: Fixed an issue where gold auction templates showed up as FSP (display issue only). issue 858
+
 ==Revision 1047==
   # (minor) FS: Tweak to the join all on the main page so it uses the right link and you actually join some groups.
 
