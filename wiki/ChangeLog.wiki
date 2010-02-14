@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1050==
+  # (minor) SS2: Changed Port 1,2,3 and Socket Mk 1 to active skills (can be activated in class buff skill page)
+  # (minor) SS2: Colorized POIs in minimap: mission POIs blue, gates green, other POIs red.
+  # (minor) SS2: Added fixing code for movement (issue 845)
+
 ==Revision 1049==
   # (minor) FS: Fixed issue where krul portal on world screen did not work if you did not have footprints enabled ever.
   # (minor) FS: Fixed issue where bio expander did not work in a certain circumstance. issue 857
