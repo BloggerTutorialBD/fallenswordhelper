@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1052==
+  # (minor) FS: Quick fix to stop sidebar from hiding when recruiting box hidden. Better fix for side bar coming soon. issue 863
+
 ==Revision 1050==
   # (minor) SS2: Changed Port 1,2,3 and Socket Mk 1 to active skills (can be activated in class buff skill page)
   # (minor) SS2: Colorized POIs in minimap: mission POIs blue, gates green, other POIs red.
