@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1056==
+  # (minor) FS: Added option to turn off font size change in the Guild Info Chat section.
+
 ==Revision 1054==
   # (minor) FS: Fixed sidebar for FSH version of guild chat.
   # (minor) FS: Fixed sidebar for allies/enemies list.
