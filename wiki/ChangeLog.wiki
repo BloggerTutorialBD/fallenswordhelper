@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1054==
+  # (minor) FS: Fixed sidebar for FSH version of guild chat.
+  # (minor) FS: Fixed sidebar for allies/enemies list.
+  # (minor) FS: Fixed sidebar for bounty tracking.
+  # (minor) FS: Added some tweaks to the Guild Info Chat section. It is still not as good as the FSH version ... HCS will have to make some changes before that can happen. But you can post without it changing screens and it keeps a count of the number of posts you have made because the chat list does not refresh. The font was also tweaked to be more in line with the FSH version.
+
 ==Revision 1052==
   # (minor) FS: Quick fix to stop sidebar from hiding when recruiting box hidden. Better fix for side bar coming soon. issue 863
 
