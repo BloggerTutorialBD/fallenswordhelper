@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1060==
+  # (minor) FS: Added fix for latest guild info chat changes if you did not have
+enough guild chat to make 3 entries.
+
 ==Revision 1058==
   # (minor) FS: Fixed issue with Game Info box disappearing if you had both game stats and Support box hidden. issue 866
   # (minor) FS: Added some items to the data list for use on the inventory screens (wear location).
