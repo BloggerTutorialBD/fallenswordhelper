@@ -1,6 +1,14 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1063==
+  # (major) FS: Removed FSH guild chat sidebar in favor of HCS version. If you have not tried it yet, turn it on and try it, they did a good job with the update.
+  # (minor) FS: Added option to enable the fetching of item stats (craft/forge/durability) in the AH. Note this is DEFAULT TO OFF so if you like this functionality, you will need to go turn it back on again in the preferences. I turned it off because it is extra load on HCS servers and should only really be used if you make use of it.
+  # (minor) FS: Added code so that if you click on an item image in the AH, it will do a search for that item (e.g. if you are looking at someones auction listings and you want to know if their prices are reasonable, you can just click the image to do a search)
+  # (minor) FS: Added option to control adding the Attack link with the other links in the log. Note this is DEFAULT TO OFF so if you like the link, you will need to go turn it back on again in the preferences.
+  # (minor) FS: Fixed issue with ST/Date at top not showing with game stats in compressed mode. issue 868
+  # (minor) FS: Added code to hopefully add quick take links to the guild mailbox. We had no items in the mailbox so I was unable to test it, but hopefully someone else can and let us know how it goes. issue 856
+
 ==Revision 1060==
   # (minor) FS: Added fix for latest guild info chat changes if you did not have enough guild chat to make 3 entries.
 
