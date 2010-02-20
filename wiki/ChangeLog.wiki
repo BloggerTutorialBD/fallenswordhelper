@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1065==
+  # (minor) FS: Fix for AH item widgets not showing up in the AH after the last fix.
+
 ==Revision 1063==
   # (major) FS: Removed FSH guild chat sidebar in favor of HCS version. If you have not tried it yet, turn it on and try it, they did a good job with the update.
   # (minor) FS: Added option to enable the fetching of item stats (craft/forge/durability) in the AH. Note this is DEFAULT TO OFF so if you like this functionality, you will need to go turn it back on again in the preferences. I turned it off because it is extra load on HCS servers and should only really be used if you make use of it.
