@@ -3,9 +3,9 @@
 
 ==Revision 1069==
   # (minor) FS: Added indicator to Online Players list for players within x levels of you. issue 870
-(minor) FS: Fixed issue with estimating buff cost when summing buffs. issue 821
-(minor) FS: Added some missing items from the item data list. issue 860
-(minor) FS: Removed countdown timer (too many people having memory issues). issue 831
+  # (minor) FS: Fixed issue with estimating buff cost when summing buffs. issue 821
+  # (minor) FS: Added some missing items from the item data list. issue 860
+  # (minor) FS: Removed countdown timer (too many people having memory issues). issue 831
 
 ==Revision 1067==
   # (minor) FS: If you have the track conflicts on the guild manage page option turned on, this functionality will now show all your conflicts, not just the first page.
