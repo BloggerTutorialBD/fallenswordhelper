@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1072==
+  # (minor) FS,SS2: Improved AH/TH-clickable item code. Now most of items (in AH/TH, in other player's profile/datasheet, etc.) is clickable. Also the new code does not need the prefetch of AH to be enabled.
+
 ==Revision 1071==
   # (minor) SS2: Added confirmation when trying to create new squad with shortcut G
   # (minor) SS2: Fixed a bug when parsing blueprint pages make the log go down very long
