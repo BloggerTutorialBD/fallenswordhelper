@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1071==
+  # (minor) SS2: Added confirmation when trying to create new squad with shortcut G
+  # (minor) SS2: Fixed a bug when parsing blueprint pages make the log go down very long
+  # (minor) SS2: Changed POIs in minimap to be displayed by default
+
 ==Revision 1069==
   # (minor) FS: Added indicator to Online Players list for players within x levels of you. issue 870
   # (minor) FS: Fixed issue with estimating buff cost when summing buffs. issue 821
