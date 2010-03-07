@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1076==
+  # (minor) FS: Added functionality to check the guild mailbox to see if there are any items in it each hour. A message similar to the personal  mailbox message will show up if there are. This functionality can be disabled in the preferences.
+  # (minor) FS: Fixed bug with item stats subtotalling functionality on profile screen when hunting mode is disabled. issue 880
+  # (minor) FS: Fixed bug with BP slot indicator on the profile screen if the player is on one of the transition screens on the world screen. It used to show guild chat, now it should show nothing. 
+
 ==Revision 1074==
   # (minor) FS: Fix to Creature Evaluator if you are looking at a SE and do not have SES enabled. issue 844
   # (minor) FS: Added feature to profile and manage screen to sum the stat bonuses for an individual item on the mouseover. This can be disabled in the preferences.
