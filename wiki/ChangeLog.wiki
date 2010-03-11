@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1078==
+  # (minor) FS: Added indicator to show on guild screen players within 25 levels of yourself as orange (actual level, not VL). There is an option for displaying both PvP targets (5 levels) and/or GvG targets (25 levels). issue 882
+  # (minor) FS: Turned AH quick search items into links as requested so you can ctrl-click on them to open a new tab. issue 881
+  # (minor) FS: Fixed bug where you could not click on items in your manage page if you had the stat summing function turned on. issue 883
+  # (minor) FS: Added a couple of items to the database.
+
 ==Revision 1076==
   # (minor) FS: Added functionality to check the guild mailbox to see if there are any items in it each hour. A message similar to the personal  mailbox message will show up if there are. This functionality can be disabled in the preferences.
   # (minor) FS: Fixed bug with item stats subtotalling functionality on profile screen when hunting mode is disabled. issue 880
