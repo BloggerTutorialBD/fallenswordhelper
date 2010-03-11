@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1080==
+  # (minor) FS: Fixed bug introduced in last fix that prevented settings from being saved.
+
 ==Revision 1078==
   # (minor) FS: Added indicator to show on guild screen players within 25 levels of yourself as orange (actual level, not VL). There is an option for displaying both PvP targets (5 levels) and/or GvG targets (25 levels). issue 882
   # (minor) FS: Turned AH quick search items into links as requested so you can ctrl-click on them to open a new tab. issue 881
