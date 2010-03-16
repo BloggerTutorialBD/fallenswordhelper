@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1084==
+  # (minor) FS: Fixed issue with last update where the last guild member would not show up. Also fixed it so that players with unavailable profiles show up correctly.
+
 ==Revision 1082==
   # (minor) FS: Added some functionality to make a guild rank management easier. On the Ranks page (Guild>Manage>Ranks), it will now show you a list of which players are assigned to each rank.
 
