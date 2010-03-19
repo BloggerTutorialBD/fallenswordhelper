@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1086==
+  # (minor) FS: Fixed bug with stat summing when the item has a negative stat. issue 886
+  # (minor) FS: Fixed HCS bug with guild history where HTML text shows where it shouldn't. issue 885
+  # (minor) FS: Fixed typos. issue 887
+  # (minor) FS: Added function to guild rank screen to gather weightings for each rank to the main screen as a number. Privs that most people should have (e.g. view advisor, store items, etc) have a low rank (0.1), privs that only a few should have (un-tag, withdraw gold, etc) have a high weighting (5), the rest are between. It was intended as an easy way to sum up who has to little or too many privs for each rank.
+
 ==Revision 1084==
   # (minor) FS: Fixed issue with last update where the last guild member would not show up. Also fixed it so that players with unavailable profiles show up correctly.
 
