@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1088==
+  # (minor) FS: Added new way of viewing the Guild Log (beta). It includes filters and will bring back multiple pages of data (default 5 but configurable). Please add any feedback on this new feature to the forum post.
+
 ==Revision 1086==
   # (minor) FS: Fixed bug with stat summing when the item has a negative stat. issue 886
   # (minor) FS: Fixed HCS bug with guild history where HTML text shows where it shouldn't. issue 885
