@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1092==
+  # (minor) FS: Fix for the quest links in the quest book so that you still have the wiki link functioning how it used to. Also the ultimate guide link takes you straight to the right page now. issue 893
+
 ==Revision 1090==
   # (minor) FS: Fixed for bug that some people were seeing with the menu items. issue 889
 
