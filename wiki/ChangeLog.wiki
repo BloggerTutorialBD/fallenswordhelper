@@ -1,9 +1,14 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1097==
+  # (minor) SS2: Fixed bug when retriving player buffs (Strike with HP!, buff with number in its name).
+  # (minor) SS2: Ported total sent gold counter
+  # (minor) SS2: Ported reset foot print
+  # (minor) SS2: Cleaned up some code
+
 ==Revision 1096==
-  # (minor) FS: Removed Guild Mailbox checking code as HCS added it to the core
-code.
+  # (minor) FS: Removed Guild Mailbox checking code as HCS added it to the core code.
 
 ==Revision 1094==
   # (minor) FS: Fix to the new guild log to make it a little faster and also some of the filters were not working correctly.
