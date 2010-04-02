@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1099==
+  # (minor) FS: Added cancel all displayed auctions button to the AH to enabled fast cancel for all the displayed auctions. It only does up to 8 at once (still can save up to 7 clicks though). issue 892
+  # (minor) FS: Fixed the stats for the Tower Orb relic mouseover. Also added mouseovers for some of the more recent relics. issue 900
+  # (minor) FS: Tweaked the new guild log so that you can apply/remove filters without having to refresh the page. Also added an option to replace the current guild log with the new guild log (can be turned off in the options).
+
 ==Revision 1097==
   # (minor) SS2: Fixed bug when retriving player buffs (Strike with HP!, buff with number in its name).
   # (minor) SS2: Ported total sent gold counter
