@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1103==
+  # (minor) FS: Admin enhancement. Change to Up/Down button functionality for guild ranks. Now the screen does not refresh, but rather the ranks move up and down as you click on them - AJAX style.
+
 ==Revision 1101==
   # (minor) FS: Minor fix for the new guild log. Turning off the option did not correctly go back to the old guild log. Now it does.
 
