@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1105==
+  # (minor) FS: ported POI coloring on the mini map (n) from SS2 to FS.
+  # (minor) FS: minor bug fix for rank screen where the list of which players have which ranks didn't always show up correctly for the last rank (alphabetically).
+
 ==Revision 1103==
   # (minor) FS: Admin enhancement. Change to Up/Down button functionality for guild ranks. Now the screen does not refresh, but rather the ranks move up and down as you click on them - AJAX style.
 
