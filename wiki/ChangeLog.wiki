@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1106==
+  # (Major) FS, SS2: Added folder selection in Trade/ST screen where only items from selected folder are displayed. Note that these items will include non-tradeable items and NOT include guild/faction tagged items.
+
 ==Revision 1105==
   # (minor) FS: ported POI coloring on the mini map (n) from SS2 to FS.
   # (minor) FS: minor bug fix for rank screen where the list of which players have which ranks didn't always show up correctly for the last rank (alphabetically).
