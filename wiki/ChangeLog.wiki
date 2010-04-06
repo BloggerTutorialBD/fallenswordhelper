@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1108==
+  # (minor) FS: minor fix to new guild log if the guild log message in the LHS column didn't exist. issue 904
+
 ==Revision 1106==
   # (Major) FS, SS2: Added folder selection in Trade/ST screen where only items from selected folder are displayed. Note that these items will include non-tradeable items and NOT include guild/faction tagged items.
 
