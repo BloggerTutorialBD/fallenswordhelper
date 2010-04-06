@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1110==
+  # (minor) SS2: Changed BP compact screen to 4 items per line with more info displayed.
+
 ==Revision 1109==
   # (Major) SS2: Added compact backpack mode in Manage Backpack screen (click [Show BP Compact] to enable). All items will be displayed as 10 items per line. Actions available: [S] (select all items of the same type), [TH], [Sell] (as usual). Note that no quick drop link is availble in this mode.
 
