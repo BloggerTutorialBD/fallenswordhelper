@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1113==
+  # (minor) FS: Fix to new guild log where sometimes and error would cause it to show notepad instead of loading correctly.
+
 ==Revision 1112==
   # (minor) FS: Fix to issue 906 so that it casts SSI before it refreshes.
 
