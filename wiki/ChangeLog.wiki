@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1111==
+  # (minor) FS: Added "Recast" link to the world screen if your imps had run out. If you have the Summon Shield Imp skill and click on this, it will recast it and refresh. If you don't have it, it will just refresh the screen. issue 906
+  # (minor) FS: Tweaked the guild rank screen functionality. Added option to turn it on and off (default on). Added logic to not try and rank those above you. Also added a screen scroll so you can keep clicking to move a rank.
+  # (minor) FS: Fixed the bug where select all on the manage screen could select more items than you intended if you had items that had a name which included the name of the item you selected (e.g. selecting "Blue Soul Stone" when you also had a "Elemental Blue Soul Stone") issue 905
+
 ==Revision 1110==
   # (minor) SS2: Changed BP compact screen to 4 items per line with more info displayed.
 
