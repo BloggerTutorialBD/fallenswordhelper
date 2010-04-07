@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1112==
+  # (minor) FS: Fix to issue 906 so that it casts SSI before it refreshes.
+
 ==Revision 1111==
   # (minor) FS: Added "Recast" link to the world screen if your imps had run out. If you have the Summon Shield Imp skill and click on this, it will recast it and refresh. If you don't have it, it will just refresh the screen. issue 906
   # (minor) FS: Tweaked the guild rank screen functionality. Added option to turn it on and off (default on). Added logic to not try and rank those above you. Also added a screen scroll so you can keep clicking to move a rank.
