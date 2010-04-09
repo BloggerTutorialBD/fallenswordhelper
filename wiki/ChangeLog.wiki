@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1116==
+  # (minor) FS: Added a link on the new guild log to get back to the old guild log if you want to go back a few more pages than is displayed.
+  # (minor) FS: Added a few more items to the data file (although I hope HCS implements soon so that I can remove this functionality and make the helper faster).
+
 ==Revision 1115==
   # (minor) FS: Added Best Damage wearing item check, accessible from any profile, "Check Items" link above the wearing set. The new screen will check the current wearing items with the Best Damage item available in the Ultimate Fallensword Guide, and show the result of the comparison. The items will be green if it is the best damage item (or in a full set), yellow if not. Please note that items are compared based on damange only, no other stats or set bonus is included.
 
