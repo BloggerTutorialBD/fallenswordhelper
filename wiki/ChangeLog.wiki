@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1117==
+  # (minor) FS: Fixed a bug not display Rune in Best Damange item check.
+  # (minor) FS: Added tooltip for wearing items and suggested item in Best Damage item check.
+  # (minor) FS: Changed combat log (world screen) to be displayed when you lost (so suicide style hunters know how they lost).
+
 ==Revision 1116==
   # (minor) FS: Added a link on the new guild log to get back to the old guild log if you want to go back a few more pages than is displayed.
   # (minor) FS: Added a few more items to the data file (although I hope HCS implements soon so that I can remove this functionality and make the helper faster).
