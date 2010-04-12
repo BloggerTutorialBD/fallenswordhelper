@@ -1,8 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1118==
+  # (minor) FS: Fixed a bug on the Best Damage Item check where the link to the ultimate guide was not correct.
+  # (minor) FS: Fixed a bug where sometimes when requesting buffs, the text 'Join All' sometimes got added to the request.
+
 ==Revision 1117==
-  # (minor) FS: Fixed a bug not display Rune in Best Damange item check.
+  # (minor) FS: Fixed a bug not display Rune in Best Damage item check.
   # (minor) FS: Added tooltip for wearing items and suggested item in Best Damage item check.
   # (minor) FS: Changed combat log (world screen) to be displayed when you lost (so suicide style hunters know how they lost).
 
