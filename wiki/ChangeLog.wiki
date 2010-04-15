@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1119==
+  # (minor) FS: Added some cross-browser compatible function checks.
+  # (minor) FS: Fixed colors in Best Damage check screen.
+
 ==Revision 1118==
   # (minor) FS: Fixed a bug on the Best Damage Item check where the link to the ultimate guide was not correct.
   # (minor) FS: Fixed a bug where sometimes when requesting buffs, the text 'Join All' sometimes got added to the request.
