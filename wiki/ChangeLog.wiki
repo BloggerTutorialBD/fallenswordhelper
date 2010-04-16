@@ -1,7 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1119==
+==Revision 1120==
+  # (minor) FS: Fixed bug introduced in the cross-browser fix from r1119 where three functions stopped working (calc relic stats, return to page after message and attack player extra widgets) 
+
+  ==Revision 1119==
   # (minor) FS: Added some cross-browser compatible function checks.
   # (minor) FS: Fixed colors in Best Damage check screen.
 
