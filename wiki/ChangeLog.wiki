@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1122==
+  # (minor) FS: Updated cross-browser fix for Chrome: movement, sorting in advisor and arena.
+
 ==Revision 1121==
   # (minor) FS: Rebuilt the new guild log so that it caches data and so does not require a full set of page refreshes each time. i.e. made it faster. 
 
