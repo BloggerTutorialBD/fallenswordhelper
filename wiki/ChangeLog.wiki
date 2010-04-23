@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1123==
+  # (minor) FS: Enhanced chat entry area (you can turn this functionality off in the options if you don't like it).
+  # (minor) FS: Added code to refresh the member list variable whenever you visit the guild.manage page. This should help the advisor have the correct ranks/levels. issue 917
+  # (minor) FS: Fixed an item listed as armor that was actually an amulet and added 3 more items to the data sheet.
+  # (minor) FS: Fixed error on rank page where the last player for the last rank did not show up.
+
 ==Revision 1122==
   # (minor) FS: Updated cross-browser fix for Chrome: movement, sorting in advisor and arena.
 
