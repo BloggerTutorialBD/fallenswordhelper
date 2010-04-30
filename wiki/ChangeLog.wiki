@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1124==
+  # (minor) FS: Added option to turn off the auto scroll when shifting guild store pages (default on). If you have page elements hidden on the manage page then the scroll to guild store doesn't move to the right spot.
+
 ==Revision 1123==
   # (minor) FS: Enhanced chat entry area (you can turn this functionality off in the options if you don't like it).
   # (minor) FS: Added code to refresh the member list variable whenever you visit the guild.manage page. This should help the advisor have the correct ranks/levels. issue 917
