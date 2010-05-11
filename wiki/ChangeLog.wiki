@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1126==
+  # (minor) FS: Attempt at fixing some strange bugs someone was experiencing. See issue 923 for more details
+  # (minor) FS: Added more items to the data sheet (although I wish HCS would add the wear location in the mouseover). issue 926
+  
+
 ==Revision 1125==
   # (minor) FS: Added get tax rate to the get rank weightings function (to make it easier to find out what individual rank tax rates are set to).
   
