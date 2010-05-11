@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1125==
+  # (minor) FS: Added get tax rate to the get rank weightings function (to make it easier to find out what individual rank tax rates are set to).
+  
 ==Revision 1124==
   # (minor) FS: Added option to turn off the auto scroll when shifting guild store pages (default on). If you have page elements hidden on the manage page then the scroll to guild store doesn't move to the right spot.
 
