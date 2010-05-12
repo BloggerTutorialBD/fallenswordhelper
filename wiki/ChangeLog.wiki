@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1128==
+  # (MAJOR) FS: Added Auto-Walk in mini map. On the mini map (turned on by press "n"), draw a path starting from current player's position, then press "N" and watch your position moving along the drawn path.
+
 ==Revision 1127==
   # (minor) FS: Added an option to only join groups of x size and smaller. Defaults to on and size 11. This means that they old 'Join All' button and links are replaced by a "Join All < x' button and functionality. Bottom line, with this option turned on, the only way to join a group which is already size x or higher is to click on the join button for that group.
 
