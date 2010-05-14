@@ -1,8 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1130==
+  # (minor) FS: Update to the creature log to make it look and work better. The gold column was blocked, the font make smaller, highlighting added, background coloring added. Also added the ability to track enchancements. However, this only works with new sightings of the creatures. It should update your records though as you move around. Missing enchantments show up as **Missing**. issue 932. issue 934. 
+  # (minor) FS: Changed the auto-walk instructions to a mouseover as the instructions could make the map funky with a small map.
+
 ==Revision 1129==
-  # (minor) FS: Fix to Auto-Walk in mini map. Now it should show up correctly when you hit 'n'. However, it does not do anything to prevent you from walking into walls, so use at your own risk. issue 928
+  # (minor) FS: Fix to Auto-Walk in mini map. Now it should show up correctly when you hit 'n'. However, it does not do anything to prevent you from walking into walls, so use at your own risk. issue 928. issue 931
   # (minor) FS: Updated some incorrect text parsing in the new guild log to correctly work for filters.
   # (minor) FS: Added slight delay to the refresh (1s) after joining all groups from the link on the LHS of the screen.
   # (minor) FS: Another attempt at fixing some strange bugs someone was experiencing. See issue 923 for more details
