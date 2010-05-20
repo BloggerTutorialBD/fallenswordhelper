@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1131==
+  # (Major) SS2: Ported Auto-Walk from FS.
+
 ==Revision 1130==
   # (minor) FS: Update to the creature log to make it look and work better. The gold column was blocked, the font make smaller, highlighting added, background coloring added. Also added the ability to track enchancements. However, this only works with new sightings of the creatures. It should update your records though as you move around. Missing enchantments show up as **Missing**. issue 932. issue 934. 
   # (minor) FS: Changed the auto-walk instructions to a mouseover as the instructions could make the map funky with a small map.
