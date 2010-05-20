@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1133==
+  # (minor) FS: Fix to check all button not showing up if no other options were enabled on profile manage page.
+  # (minor) FS: Typo in previous fix made monster log display incorrectly.
+
 ==Revision 1132==
   # (minor) FS: Minor fix to join groups < x logic as some were experiencing issues.
   # (minor) FS: Minor fix to font size, etc on the monster log to make it more readable.
