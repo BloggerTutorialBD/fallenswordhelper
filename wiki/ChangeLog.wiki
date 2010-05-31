@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1135==
+  # (minor) FS: Aded mouseover info and stam cost for the new buffs.
+  # (minor) FS: Added extend info to quick buff screen. issue 942
+  # (minor) FS: Tweaked the relic display parameters (should have no impact)
+  
 ==Revision 1134==
   # (minor) FS: Added functionality to log titan kills. This defaults off, so you need to turn it on. Each time you refresh a page it will log the current titan kills (assuming x minutes has past - configurable - default 5). You can view the history on the scout tower screen. This is stage 1, once this is tested, I will work on the titan log to match the kills up to what you have in your log. issue 916
 
