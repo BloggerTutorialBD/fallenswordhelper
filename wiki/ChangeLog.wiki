@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1137==
+  # (minor) FS: Minor javascript rounding error on calculating relic stats.
+
 ==Revision 1136==
   # (minor) FS: Fix to buff parsing since the new buffs were added, some check boxes were inadvertantly getting checked. issue 944 and issue 945
   # (minor) FS: Fix to calculation that calculates the relic multiplier depending on how many relics you own. Previously it did not go below 90% if you had 3 relics or more.
