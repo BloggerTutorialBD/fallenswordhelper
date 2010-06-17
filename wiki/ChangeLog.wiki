@@ -1,7 +1,8 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1140==
+==Revision 1141==
+  # (minor) SS2: Fixed bugs in create auction page.
   # (minor) SS2: Fixed bugs in TH and Auto-walk after HCS updates.
 
 ==Revision 1139==
