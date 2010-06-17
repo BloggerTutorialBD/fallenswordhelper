@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1140==
+  # (minor) SS2: Fixed bugs in TH and Auto-walk after HCS updates.
+
 ==Revision 1139==
   # (minor) FS: Minor tweak to bio rendering logic. You can now add a {cost} to the message text when you ask someone for buffs and it will include the cost total in the message. To change, go to your preferences page and change the Buy Buffs Greeting to something like 'Hello {playername}, can I buy {buffs} for {cost} please?'. issue 946
   # (minor) FS: Tweak to guild log widgets so it will provide a link to a players name if you invite them to the guild.
