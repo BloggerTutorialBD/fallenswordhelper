@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1143==
+  # (minor) FS: Quick fix to enable the helper to work. Many sidebar functions (e.g. Ally/Enemy list) are still not working.
+
 ==Revision 1142==
   # (minor) SS2: Added Select All to the list of blueprint
   # (minor) SS2: Fixed blueprint manager parser after HCS updates
