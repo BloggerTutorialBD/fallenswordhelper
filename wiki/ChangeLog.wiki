@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1145==
+  # (minor) FS: Fixes for most of the rest of the issues. If you are still having problems after this patch, then post in the forum or PM Tangtop your issue.
+
 ==Revision 1144==
   # (minor) FS: Quick fix to enable the helper log messages to work. 
 
