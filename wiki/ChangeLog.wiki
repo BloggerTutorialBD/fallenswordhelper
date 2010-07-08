@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1144==
+  # (minor) FS: Quick fix to enable the helper log messages to work. 
+
 ==Revision 1143==
   # (minor) FS: Quick fix to enable the helper to work. Many sidebar functions (e.g. Ally/Enemy list) are still not working.
 
