@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1146==
+  # (minor) FS: Fixed for the world screen. It is now 1:30am and I hope you appreciate the fixes. I have to work in the morning.
+
 ==Revision 1145==
   # (minor) FS: Fixes for most of the rest of the issues. If you are still having problems after this patch, then post in the forum or PM Tangtop your issue.
 
