@@ -1,9 +1,15 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1148==
+  # (minor) FS: Fix for send gold to player. issue 973
+  # (minor) FS: Added durability to the two inventory managers (self and guild), it will color red if less than 20% durability (once you refresh). issue 974
+  # (minor) FS: Added craft coloring to the two inventory managers.
+  # (minor) FS: Fixed the recpie manager so it now looks in folders too. issue 959
+
 ==Revision 1147==
-  # (minor) FS: Fix for the quick buffs. issue 965
-  # (minor) FS: Fix for the item wear locations for inventory managers now that item wear location is in the mouseover. issue 953 and 940
+  # (minor) FS: Fix for the quick buffs. issue 965 and issue 964
+  # (minor) FS: Fix for the item wear locations for inventory managers now that item wear location is in the mouseover. issue 953 and issue 940
 
 ==Revision 1146==
   # (minor) FS: Fixed for the world screen. It is now 1:30am and I hope you appreciate the fixes. I have to work in the morning.
