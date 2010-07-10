@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1147==
+  # (minor) FS: Fix for the quick buffs. issue 965
+  # (minor) FS: Fix for the item wear locations for inventory managers now that item wear location is in the mouseover. issue 953 and 940
+
 ==Revision 1146==
   # (minor) FS: Fixed for the world screen. It is now 1:30am and I hope you appreciate the fixes. I have to work in the morning.
 
