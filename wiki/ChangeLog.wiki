@@ -1,6 +1,17 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1149==
+  # (minor) FS: Fixed mouseover on skills page. issue 976
+  # (minor) FS: Fixed quick links on pages it wasn't displaying on or displaying centered. issue 964
+  # (minor) FS: Fixed quest tracker name on world screen. issue 978
+  # (minor) FS: Fixed bio rendering, edit bio screen and compress bio functions.
+  # (minor) FS: Fixed Quick Extract link on the profile page. issue 979
+  # (minor) FS: Fixed Allies/Enemies counters on the profile page and allies/enemies list seen on any screen.
+  # (minor) FS: Fixed buttons under the player avy when viewing someone elses profile.
+  # (minor) FS: Added an alert to the LHS if you have no prayed in a while.
+  # (minor) FS: Widened the notepad a little to make it easier to read.
+
 ==Revision 1148==
   # (minor) FS: Fix for send gold to player. issue 973
   # (minor) FS: Added durability to the two inventory managers (self and guild), it will color red if less than 20% durability (once you refresh). issue 974
