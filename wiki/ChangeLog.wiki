@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1150==
+  # (minor) FS: Fixed minor bug with online allies/enemies list where sometimes it would show someone elses ally/enemy list.
+
 ==Revision 1149==
   # (minor) FS: Fixed mouseover on skills page. issue 976
   # (minor) FS: Fixed quick links on pages it wasn't displaying on or displaying centered. issue 964
