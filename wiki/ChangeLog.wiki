@@ -1,6 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1151==
+  # (minor) FS: Fixed most of the quick buff links so they link by id rather than name, this means the profile data is pulled up correctly. issue 969
+  # (minor) FS: Fixed most of the missing links from the profile page. All, BP counter and Quick Wear. issue 981
+  # (minor) FS: Known issue - Defender stats and buffs not showing on attack player screen. Waiting for HCS code change to implement.
+  # (minor) FS: Known issue - Quick buff stats and buffs not showing up for quick buff lookup by name (e.g. buffing groups). Waiting for HCS code change to implement.
+  # (minor) FS: Known issue - Show items functionality from profile is broken (where it looks for best item by slot), needs some rewrites. issue 985
+
 ==Revision 1150==
   # (minor) FS: Fixed minor bug with online allies/enemies list where sometimes it would show someone elses ally/enemy list.
 
