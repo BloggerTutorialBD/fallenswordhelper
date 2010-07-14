@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1152==
+  # (minor) FS: Moved the Quick Wear link up to the inventory line to make more room below. issue 981
+  # (minor) FS: Fixed the offline players at relic functionality.
+
 ==Revision 1151==
   # (minor) FS: Fixed most of the quick buff links so they link by id rather than name, this means the profile data is pulled up correctly. issue 969
   # (minor) FS: Fixed most of the missing links from the profile page. All, BP counter and Quick Wear. issue 981
