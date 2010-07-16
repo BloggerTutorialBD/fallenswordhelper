@@ -1,21 +1,25 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1152==
+==Revision 1154==
+  # (minor) FS: Fixed lookup of profile via playername. This fixes quick buff and attack player defender stats. issue 966 and issue 969
+  # (minor) FS: Fixed coloring on the Guild Log screen (old version)
+
+==Revision 1153==
   # (minor) FS: Moved the Quick Wear link up to the inventory line to make more room below. issue 981
   # (minor) FS: Fixed the offline players at relic functionality.
 
-==Revision 1151==
+==Revision 1152==
   # (minor) FS: Fixed most of the quick buff links so they link by id rather than name, this means the profile data is pulled up correctly. issue 969
   # (minor) FS: Fixed most of the missing links from the profile page. All, BP counter and Quick Wear. issue 981
   # (minor) FS: Known issue - Defender stats and buffs not showing on attack player screen. Waiting for HCS code change to implement.
   # (minor) FS: Known issue - Quick buff stats and buffs not showing up for quick buff lookup by name (e.g. buffing groups). Waiting for HCS code change to implement.
   # (minor) FS: Known issue - Show items functionality from profile is broken (where it looks for best item by slot), needs some rewrites. issue 985
 
-==Revision 1150==
+==Revision 1151==
   # (minor) FS: Fixed minor bug with online allies/enemies list where sometimes it would show someone elses ally/enemy list.
 
-==Revision 1149==
+==Revision 1150==
   # (minor) FS: Fixed mouseover on skills page. issue 976
   # (minor) FS: Fixed quick links on pages it wasn't displaying on or displaying centered. issue 964
   # (minor) FS: Fixed quest tracker name on world screen. issue 978
@@ -26,23 +30,23 @@
   # (minor) FS: Added an alert to the LHS if you have no prayed in a while.
   # (minor) FS: Widened the notepad a little to make it easier to read.
 
-==Revision 1148==
+==Revision 1149==
   # (minor) FS: Fix for send gold to player. issue 973
   # (minor) FS: Added durability to the two inventory managers (self and guild), it will color red if less than 20% durability (once you refresh). issue 974
   # (minor) FS: Added craft coloring to the two inventory managers.
   # (minor) FS: Fixed the recpie manager so it now looks in folders too. issue 959
 
-==Revision 1147==
+==Revision 1148==
   # (minor) FS: Fix for the quick buffs. issue 965 and issue 964
   # (minor) FS: Fix for the item wear locations for inventory managers now that item wear location is in the mouseover. issue 953 and issue 940
 
-==Revision 1146==
+==Revision 1147==
   # (minor) FS: Fixed for the world screen. It is now 1:30am and I hope you appreciate the fixes. I have to work in the morning.
 
-==Revision 1145==
+==Revision 1146==
   # (minor) FS: Fixes for most of the rest of the issues. If you are still having problems after this patch, then post in the forum or PM Tangtop your issue.
 
-==Revision 1144==
+==Revision 1145==
   # (minor) FS: Quick fix to enable the helper log messages to work. 
 
 ==Revision 1143==
