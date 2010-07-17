@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1155==
+  # (minor) FS: Added functionality to show gold on hand on the find player screen (optional). issue 984
+  # (minor) FS: Added quick link to pull back PvP targets on find player screen. 
+
 ==Revision 1154==
   # (minor) FS: Fixed lookup of profile via playername. This fixes quick buff and attack player defender stats. issue 966 and issue 969
   # (minor) FS: Fixed coloring on the Guild Log screen (old version)
