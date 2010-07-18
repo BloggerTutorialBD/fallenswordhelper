@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1156==
+  # (minor) FS: Added PvP rating to show up on the find player screen. issue 984
+  # (minor) FS: Fix to attack player show defender stats issue. issue 989
+  
 ==Revision 1155==
   # (minor) FS: Added functionality to show gold on hand on the find player screen (optional). issue 984
   # (minor) FS: Added quick link to pull back PvP targets on find player screen. 
