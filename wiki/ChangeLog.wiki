@@ -1,7 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1156==
+==Revision 1157==
+  # (minor) FS: Fixed player log coloring and widgets from last HCS change.
+  # (minor) FS: Fixed mouseover for skills on page 2 and 3. issue 991
+
+  ==Revision 1156==
   # (minor) FS: Added PvP rating to show up on the find player screen. issue 984
   # (minor) FS: Fix to attack player show defender stats issue. issue 989
   
