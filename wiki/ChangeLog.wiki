@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1158==
+  # (minor) FS: Fixed active and wanted bounty side bars. issue 990
+  # (minor) FS: Fixed AH search link in inventing. issue 983
+
 ==Revision 1157==
   # (minor) FS: Fixed player log coloring and widgets from last HCS change.
   # (minor) FS: Fixed mouseover for skills on page 2 and 3. issue 991
