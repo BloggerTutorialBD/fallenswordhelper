@@ -1,6 +1,16 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1159==
+Bunch of fixes for latest HCS update as follows: 
+  # (minor) FS: AH widgets removed, added coloring to craft and durability similar to how it used to work.
+  # (minor) FS: Fixed the Guild Log screen widgets and coloring.
+  # (minor) FS: Commented out quick preferences on the AH until it can be fixed more completely. issue 995
+  # (minor) FS: Removed character counter from bio and history editor in favor of HCS version.
+Other fixes
+  # (minor) FS: Tried another fix for the Quick Extract link not showing up. issue 980
+  # (minor) FS: Fixed personal log so reply, etc links show up when you get buffed. issue 994
+
 ==Revision 1158==
   # (minor) FS: Fixed active and wanted bounty side bars. issue 990
   # (minor) FS: Fixed AH search link in inventing. issue 983
