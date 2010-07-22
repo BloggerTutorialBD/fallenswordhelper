@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1161==
+  # (minor) FS: Fixed coloring on log tab for guild mates and allies/enemies.
+
 ==Revision 1160==
   # (minor) FS: New Guild Log fixed, with latest HCS change it was only picking up every second log message. Also added a reset button to reset the stored log.
   # (minor) FS: Added VL to the find player screen if not the same as the current level.
