@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1165==
+  # (minor) FS: Fixed the mouseover issue for the show item stat total. It should work now even if you have the item compare and the show stat total turned on.
+
 ==Revision 1164==
   # (minor) FS: Fix to Quick Extract Link not showing up. issue 980. This should fix it for everyone I think.
   # (minor) FS: Fix to show defender buffs. issue 989. This should also fix it for everyone I think.
