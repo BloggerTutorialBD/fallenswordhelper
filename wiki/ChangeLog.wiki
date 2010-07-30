@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1166==
+  # (minor) FS: Added functionality to auto populate the min bid value on the AH. There is an option to enable this functionality (default off). HCS has given us permission to include it in the helper. See details in issue 997
+  # (minor) FS: Fixed best damage item functionality (check items). issue 985
+
 ==Revision 1165==
   # (minor) FS: Fixed the mouseover issue for the show item stat total. It should work now even if you have the item compare and the show stat total turned on.
 
