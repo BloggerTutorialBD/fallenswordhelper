@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1168==
+  # (minor) FS: More obvious text on the world screen if hunting mode is enabled (the most common people have with the helper is leaving hunting mode enabled).
+  # (minor) FS: AH screen will now show an indicator if any filters are enabled and also has a quick link to reset all filters.
+  # (minor) FS: Added a quick PvP Combat Summary to the log. This option can be disabled in the preferences.
+  
 ==Revision 1167==
   # (minor) FS: Fixed new guild log where duplicate records were sometimes showing. issue 1002
   # (minor) FS: Fixed stamina price of avert gaze in data file (was 25, now 10).
