@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1169==
+  # (minor) FS: Updated functions from 5 to 10 for PvP range.
+  # (minor) FS: Added link to find player screen to quickly get GvG targets (25 range). issue 1006
+
 ==Revision 1168==
   # (minor) FS: More obvious text on the world screen if hunting mode is enabled (the most common people have with the helper is leaving hunting mode enabled).
   # (minor) FS: AH screen will now show an indicator if any filters are enabled and also has a quick link to reset all filters.
