@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1170==
+  # (minor) FS: Fixed find player PvP range for players under level 200. issue 1018
+  # (minor) FS: Added raw attack and defense stats to the relic defender calculator (NMV, Const are not calculated for raw stats). This is a partial step towards fixing the calculation.
+  # (minor) FS: Added functionality to empower a relic to a certain level with one click.
+
 ==Revision 1169==
   # (minor) FS: Updated functions from 5 to 10 for PvP range.
   # (minor) FS: Added link to find player screen to quickly get GvG targets (25 range). issue 1006
