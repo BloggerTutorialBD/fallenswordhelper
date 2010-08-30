@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1172==
+  # (minor) FS: Fixed hide arena move functionality and hide specific arena items functionality (HCS changed their HTML to link to a different image server).
+
 ==Revision 1171==
   # (minor) FS: Another fix for PvP highlighting for players under level 205. issue 1018
   # (minor) FS: Fixed functionality to empower a relic to a certain level with one click. It will also now stop after a max of 20 attempts if you don't reach your target.
