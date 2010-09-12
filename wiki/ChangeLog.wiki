@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1173==
+  # (minor) FS: Fixed item drop line when using quick kill. issue 1028
+  # (minor) FS: Added fast wear to report page for items in your own backpack. issue 1028
+
 ==Revision 1172==
   # (minor) FS: Fixed hide arena move functionality and hide specific arena items functionality (HCS changed their HTML to link to a different image server).
 
