@@ -1,12 +1,17 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1175==
+  # (minor) FS: Level range indicators (guild>manage page, find player screen and online player screen) use VL instead of actual level. Note that if your VL does not match your level, you should go to the profile page to refresh this functionality if your VL changes. issue 1029
+  # (minor) FS: Changed indicator for high marketplace prices from 200k up to 250k.
+  # (minor) FS: Changed level limit filters for items up to level 2000 when you reset.
+
 ==Revision 1174==
   # (minor) FS: Added link to UFSG creature page to pull all creature data (max) back to the main page. The extra link can be disabled in preferences.
 
 ==Revision 1173==
   # (minor) FS: Fixed item drop line when using quick kill. issue 1028
-  # (minor) FS: Added fast wear to report page for items in your own backpack. issue 1028
+  # (minor) FS: Added fast wear to report page for items in your own backpack. issue 1026
 
 ==Revision 1172==
   # (minor) FS: Fixed hide arena move functionality and hide specific arena items functionality (HCS changed their HTML to link to a different image server).
