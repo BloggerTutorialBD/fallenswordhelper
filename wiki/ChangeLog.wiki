@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1178==
+  # (minor) FS: Added Quick Drink functionality to the profile page (this can be disabled in preferences).
+
 ==Revision 1177==
   # (minor) FS: Added functionailty to show VL on the PvP ladder page.
 
