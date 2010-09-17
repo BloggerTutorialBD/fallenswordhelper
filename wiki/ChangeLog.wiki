@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1177==
+  # (minor) FS: Added functionailty to show VL on the PvP ladder page.
+
 ==Revision 1176==
   # (minor) FS: Fixed bug caused by ST shown in top banner (if you had it enabled), that would block HCS special offers.
   # (minor) FS: Fixed bug with Fast Wear for items you are carrying. issue 1026
