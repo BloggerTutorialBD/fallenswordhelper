@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1179==
+  # (minor) FS: Fixed bug where imp counter would not show 11 imps when you had caged imp pot enabled. issue 1031
+  # (minor) FS: Fixed bug with one click relic empower where empower to 10 would often not work.
+
 ==Revision 1178==
   # (minor) FS: Added Quick Drink functionality to the profile page (this can be disabled in preferences).
 
