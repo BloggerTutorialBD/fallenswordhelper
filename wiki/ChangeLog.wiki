@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1180==
+  # (minor) FS: Fix to enhanced chat text entry so it posts to the right channel (general/leadership). issue 1038
+  # (minor) FS: Fix allies/enemies list first entry B quick buff link. issue 1035
+
 ==Revision 1179==
   # (minor) FS: Fixed bug where imp counter would not show 11 imps when you had caged imp pot enabled. issue 1031
   # (minor) FS: Fixed bug with one click relic empower where empower to 10 would often not work.
