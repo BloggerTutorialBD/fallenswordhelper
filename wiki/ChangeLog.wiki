@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1182==
+  # (minor) FS: Fixed coloring on Online Allies Widget list to blue coloring for allies.
+
 ==Revision 1181==
   # (minor) FS: Fixed temple message so it will stay up until you pray (if enabled).
   # (minor) FS: Fixed log message sound trigger (if enabled).
@@ -8,7 +11,7 @@
   # (minor) FS: Added widgets to the Online Allies list (if you have it enabled).
   # (minor) FS: Added option to move the Online Allies list to the top of the RHS sidebar.
 
-  ==Revision 1180==
+==Revision 1180==
   # (minor) FS: Fix to enhanced chat text entry so it posts to the right channel (general/leadership). issue 1038
   # (minor) FS: Fix allies/enemies list first entry B quick buff link. issue 1035
 
