@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1183==
+  # (minor) FS: Fix to temple message where it would sometimes not show up correctly.
+
 ==Revision 1182==
   # (minor) FS: Fixed coloring on Online Allies Widget list to blue coloring for allies.
 
