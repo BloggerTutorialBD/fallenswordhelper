@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1184==
+  # (minor) FS: Fix to mouseover for Sacrifice (0.02% to 0.04%).
+  # (minor) FS: Fix to guild manage screen to color players by VL not level.
+  # (minor) FS: Fix to online allies/enemies list to show color scale based on last activity minutes.
+  # (minor) FS: Fix to online players list to show players over level 1000.  issue 1046
+
 ==Revision 1183==
   # (minor) FS: Fix to temple message where it would sometimes not show up correctly.
 
