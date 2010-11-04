@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1187==
+  # (minor) Sigmastorm2: Ported Quick Extract from FS.
+  # (minor) SS2: Fixed loot item log in world screen.
+  # (Major) SS2: Added quick load ammo (any types of weapon) using shortcut "l" on world screen.
+  # (Major) SS2: Added quick combine charged psi ammo using shortcut "L" (so a fast charging section would be: in shop screen, select "Empty mind shard" for quick buy, the press "ttttKKKKLttttKKKKL" repeatedly).
+
 ==Revision 1186==
   # (minor) FS: Fixed Guild Chat Leaders Area to include settings from Members area.
 
