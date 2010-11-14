@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1189==
+  # (minor) FS: Updated Relic calculator so it now calculates Constitution, NMV and Flinch against group stats rather than just the lead defender. Also added Fortitude to the calculation.
+
 ==Revision 1188==
   # (minor) FS: Enhanced Online Dots. Now dots will show as green for < 2 mins, yellow < 5 mins, orange < 30 mins. Optional.
 
