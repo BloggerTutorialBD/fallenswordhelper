@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1192==
+  # (minor) FS: Fixed bug with wanted bounty tracker after last HCS change. issue 1063.
+
 ==Revision 1191==
   # (minor) FS: Fixed bug with creature evaluator that caused SES to be applied to Defense twice and Damage not at all (only for Super Elites).
   # (minor) FS: Added Chi Strike and Terrorize effects to both Relic Calculator and Creature Evaluator.
