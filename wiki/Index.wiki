@@ -106,11 +106,14 @@ Actually, since features are added very frequently, there may be a lot more than
   # Open map: m (map opened in new tab)
   # Go to profile/datasheet: p
   # Open mini map: n
+  # Auto-Move in mini map: N (after open mini map and have selected the path with your mouse)
   # Move to next/previous page: > < (only works in pages that have ">", "<" button to move, such as AH/TH, log page)
   # Change combat set: Shift + # where # is a number from 1 to 9 (Only for QWERTY keyboard layouts - for more info see issue 698)
   # Scroll combat log: `PgUp`, `PgDn` (only in world page with visible combat log)
   # Toggle footprint: `[x]` or `[v]` icons under world map in world screen
-  # Quick gold/credit send: gold/credit icon under world map in world screen (must enable this feature in Preference/Config page first)
+  # Quick gold/credit send: y - or gold/credit icon under world map in world screen (must enable this feature in Preference/Config page first)
+  # Quick buy: t (in shop, after an item has been chosen from the top right list)
+  # Quick wear manager: v
 === Sigmastorm2 Specific Keys and Links ===
   # Open shop, augmentation center, engineering center, using health center: = (you must be at the shop, center)
   # Quick heal: h (you need to have your class healing skill, and have enough in skill power bar)
@@ -119,6 +122,10 @@ Actually, since features are added very frequently, there may be a lot more than
   # Quick cast Mental Strength: i, Quick remove Mental Strength: I (Shift+i)
   # Quick cast Mind Shard: k
   # Quick cast Mind Stone: K
+  # Quick use item: {, }, | (must setup first from Q_Use in Data Sheet)
+  # Load ammo: l (will look at main folder first)
+  # Combine psi charged ammo: L
+  # Open map: M (map opened in new tab) (note: m is for medikit as without SS2Helper)
 
 My Fallensword in-game name is Coccinella - feel free to contact me for any questions or remarks. For Sigmastorm2, please contact [http://www.sigmastorm2.com/index.php?cmd=profile&player_id=1191381 dkwizard].
 
