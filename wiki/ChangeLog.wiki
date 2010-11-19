@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1193==
+  # (minor) FS: Hid the border of guild logo. issue 1071
+  # (minor) FS: Added ability hide the buff selected functionality on the online allies and guild info sections (can be re-enabled in preferences).
+  # (minor) FS: Fixed it so the page does not refresh when you add/remove a critter from the do not kill list.
+
 ==Revision 1192==
   # (minor) FS: Fixed bug with wanted bounty tracker after last HCS change. issue 1063.
 
