@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1194==
+  # (minor) FS: Added another online status dot color to show offline for > 7 days.
+
 ==Revision 1193==
   # (minor) FS: Hid the border of guild logo. issue 1071
   # (minor) FS: Added ability hide the buff selected functionality on the online allies and guild info sections (can be re-enabled in preferences).
