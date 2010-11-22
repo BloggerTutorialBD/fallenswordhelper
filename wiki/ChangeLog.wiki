@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1195==
+  # (major) FS: New Feature! Find Buff functionality added to the top of the action menu. Use this feature to search recently online players for the specific buff you need. Try it today!
+  # (minor) FS: Fixed temple alert in LHS column when functionality is disabled.
+
 ==Revision 1194==
   # (minor) FS: Added another online status dot color to show offline for > 7 days.
 
