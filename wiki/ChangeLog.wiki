@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1197==
+  # (minor) FS: Fixed minor bug with find buff functionality where sometimes sometimes online player search would not work.
+
 ==Revision 1196==
   # (minor) FS: Fixed minor bug with find buff functionality where sometimes players > 1000 would not show up.
 
