@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1198==
+  # (minor) FS: Added functionality to find buffs to clear results, search another players profile for buffers. e.g. Add Tangtop to allies/enemies list and you can search my enemies list for buffers.
+  # (minor) FS: Fixed bug when searching a player for buffs that had no allies/enemies.
+  # (minor) FS: Added functionality to check for active RP buffs before activating a RP pack (so you are less likely to activate it again).
+
 ==Revision 1197==
   # (minor) FS: Fixed minor bug with find buff functionality where sometimes sometimes online player search would not work.
 
