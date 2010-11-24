@@ -1,7 +1,7 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1199==
+==Revision 1202==
   # (major) SS2: New Feature! ported Find Buff functionality from FS, added to the action menu. Use this feature to search recently online players for the specific buff you need. Try it today! 
 
 ==Revision 1198==
