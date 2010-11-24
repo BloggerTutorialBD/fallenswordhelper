@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1199==
+  # (major) SS2: New Feature! ported Find Buff functionality from FS, added to the action menu. Use this feature to search recently online players for the specific buff you need. Try it today! 
+
 ==Revision 1198==
   # (minor) FS: Added functionality to find buffs to clear results, search another players profile for buffers. e.g. Add Tangtop to allies/enemies list and you can search my enemies list for buffers.
   # (minor) FS: Fixed bug when searching a player for buffs that had no allies/enemies.
