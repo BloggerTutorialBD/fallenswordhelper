@@ -40,3 +40,8 @@ A: Look at DeveloperInfo.
 Q: Is there a list of currently used hotkeys? 
 
 A: Look at the [Index#Ingame_Shortcut_Keys_and_Links] of the Wiki
+----
+Q: Are there many extensions that can cause funky FSH behavior?
+
+A: AVG save search is known to cause issues. To disable it do the following:
+Tools -> Add-ons -> Extensions. Disable AVG save search!
