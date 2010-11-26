@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1204==
+  # (minor) FS: Added keyboard shortcut for stairs. Who would have known how easy it was. You can now use (s) to use stairs (if they exist). issue 935
+  # (minor) FS: Fixed bug with temple notification that was causing quick buff enhancements not to work correctly. Thanks to boeffie for helping track it down.
+  # (minor) FS: Fixed bug with group widgets if no groups existed.
+
 ==Revision 1203==
   # (minor) FS, SS2: Improved search to give better result in find buff feature, added bio preview.
   # (minor) SS2: Fixed FC price warning.
@@ -12,6 +17,7 @@
   # (minor) FS: Added functionality to find buffs to clear results, search another players profile for buffers. e.g. Add Tangtop to allies/enemies list and you can search my enemies list for buffers.
   # (minor) FS: Fixed bug when searching a player for buffs that had no allies/enemies.
   # (minor) FS: Added functionality to check for active RP buffs before activating a RP pack (so you are less likely to activate it again).
+  # (minor) FS: Added indicator on the world page if you have doubler 200 active.
 
 ==Revision 1197==
   # (minor) FS: Fixed minor bug with find buff functionality where sometimes sometimes online player search would not work.

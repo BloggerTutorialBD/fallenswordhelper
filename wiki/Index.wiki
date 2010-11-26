@@ -74,6 +74,7 @@ Actually, since features are added very frequently, there may be a lot more than
   # Quest Manager displays all quests in one big sortable table, with levels and locations, and also to wiki.fallensword.com and fallen sword guide.
   # Personal and Guild Inventory Managers displays all items worn or in backpack (for personal IM) or in guild store or worn by members (for guild IM) with their respective bonuses (attack, defense, damage, armor). You can now better decide what to wear
   # Recipe manager along with options to hide recipes.
+  # Find buffs screen to search guild mates, profiles and online players to find the buff you need.
 
 == World Additions ==
   # Footprints functionality. When you select the checkbox under the map, you can see where you've been (useful to track down creatures)
@@ -106,6 +107,7 @@ Actually, since features are added very frequently, there may be a lot more than
   # Open map: m (map opened in new tab)
   # Go to profile/datasheet: p
   # Open mini map: n
+  # Use stairs (if available): s
   # Auto-Move in mini map: N (after open mini map and have selected the path with your mouse)
   # Move to next/previous page: > < (only works in pages that have ">", "<" button to move, such as AH/TH, log page)
   # Change combat set: Shift + # where # is a number from 1 to 9 (Only for QWERTY keyboard layouts - for more info see issue 698)
