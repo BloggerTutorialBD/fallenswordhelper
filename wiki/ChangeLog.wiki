@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1206==
+  # (minor) FS: Added another find option. Find Other. This allows you to search for any text in recently online player bios (e.g. chest, baron, triclopse, etc). issue 1082
+
 ==Revision 1205==
   # (minor) FS: Fixed bug where you could not cancel guild mass (if you had the text area enhancement turned on). issue 1080
   # (minor) FS: Fixed bug with find player looking for data after latest HCS patch
