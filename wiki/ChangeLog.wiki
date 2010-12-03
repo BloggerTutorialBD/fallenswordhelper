@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1205==
+  # (minor) FS: Fixed bug where you could not cancel guild mass (if you had the text area enhancement turned on). issue 1080
+  # (minor) FS: Fixed bug with find player looking for data after latest HCS patch
+  # (minor) FS: Removed lookup of virtual level from PvP ladder page as it is already shown.
+
 ==Revision 1204==
   # (minor) FS: Added keyboard shortcut for stairs. Who would have known how easy it was. You can now use (s) to use stairs (if they exist). issue 935
   # (minor) FS: Fixed bug with temple notification that was causing quick buff enhancements not to work correctly. Thanks to boeffie for helping track it down.
