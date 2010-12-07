@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1208==
+  # (minor) FS: Fixed last activity not showing up on quick buff.
+  # (minor) FS: Added red coloring to quick buff if the target has less than 10% stamina left (so as not to buff if they don't have the stamina to hunt).
+
 ==Revision 1207==
   # (minor) FS: Fix for quick buff where stats were not showing up.
 
