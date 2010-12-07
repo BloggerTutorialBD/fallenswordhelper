@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1207==
+  # (minor) FS: Fix for quick buff where stats were not showing up.
+
 ==Revision 1206==
   # (minor) FS: Added another find option. Find Other. This allows you to search for any text in recently online player bios (e.g. chest, baron, triclopse, etc). issue 1082
 
