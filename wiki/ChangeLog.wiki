@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1209==
+  # (minor) FS: Fixed auto fill min bid price on AH to not exceed buyout price.
+
 ==Revision 1208==
   # (minor) FS: Fixed last activity not showing up on quick buff.
   # (minor) FS: Added red coloring to quick buff if the target has less than 10% stamina left (so as not to buff if they don't have the stamina to hunt).
