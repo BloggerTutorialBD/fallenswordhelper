@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1211==
+  # (minor) FS: Updated code and item list for checking all items in Secure Trades and Trades 
+
 ==Revision 1210==
   # (minor) FS: Fix to minor bug in r1209.
 
