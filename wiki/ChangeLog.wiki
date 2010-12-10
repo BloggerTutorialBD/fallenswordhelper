@@ -2,6 +2,9 @@
 =A version by version list of changes made to the script=
 
 ==Revision 1211==
+  # (minor) FS: Minor changes to trade selectors.
+
+==Revision 1211==
   # (minor) FS: Updated code and item list for checking all items in Secure Trades and Trades 
 
 ==Revision 1210==
