@@ -1,10 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1211==
+==Revision 1215==
+  # (minor) FS: Short term fix to ask for buffs functionality and quick message (from chat>reply) and enter sends message (old message version only). issue 1085
+
+==Revision 1214==
   # (minor) FS: Minor changes to trade selectors.
 
-==Revision 1211==
+==Revision 1212==
   # (minor) FS: Updated code and item list for checking all items in Secure Trades and Trades 
 
 ==Revision 1210==
