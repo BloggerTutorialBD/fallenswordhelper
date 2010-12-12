@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1216==
+  # (minor) FS: Fix to RP buff checker if you had SSI enabled.
+
 ==Revision 1215==
   # (minor) FS: Short term fix to ask for buffs functionality and quick message (from chat>reply) and enter sends message (old message version only). issue 1085
 
