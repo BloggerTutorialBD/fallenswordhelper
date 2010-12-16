@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1218==
+  # (minor) FS: Temporary fixed NaN on relic stats when someone use cloak. Assumption for stat: 5k for all, 200 for HP (issue 1087).
+
 ==Revision 1217==
   # (minor) SS2: Fixed buff link to use the new interface, please use with care as the interface from HCS is not bug-free yet (target name not change when choose another buff target).
 
