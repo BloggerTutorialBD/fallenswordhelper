@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1217==
+  # (minor) SS2: Fixed buff link to use the new interface, please use with care as the interface from HCS is not bug-free yet (target name not change when choose another buff target).
+
 ==Revision 1216==
   # (minor) FS: Fix to RP buff checker if you had SSI enabled.
 
