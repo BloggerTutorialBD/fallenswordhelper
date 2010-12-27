@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1219==
+  # (minor) FS: Fix to hide buff selected which in rare circumstances could cause helper to break.
+
 ==Revision 1218==
   # (minor) FS: Temporary fixed NaN on relic stats when someone use cloak. Assumption for stat: 5k for all, 200 for HP (issue 1087).
 
