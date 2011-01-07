@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1220==
+  # (major) FS: Implemented fast walk in the helper. Turns out it wasn't that hard after all. Use at your own risk, can be disabled if needed.
+  # (major) FS: Fixed movement on the world map (it was broken it turned out), also enabled fast walk for movement on the world map also.
+
 ==Revision 1219==
   # (minor) FS: Fix to hide buff selected which in rare circumstances could cause helper to break.
 
