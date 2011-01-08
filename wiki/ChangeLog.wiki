@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1222==
+  # (minor) Reorganized scripts, added jQuery support.
+
 ==Revision 1221==
   # (minor) FS: Fixed quick take on add tags screen. issue 1096
   # (minor) FS: Added indicator to find player screen if pvp protection is enabled (red dot next to name).
