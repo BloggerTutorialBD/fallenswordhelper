@@ -2,7 +2,7 @@
 =A version by version list of changes made to the script=
 
 ==Revision 1226==
-  # (major) SS2: Introduced a hunting guide page (accessed from menu Action), with information on what/where to hunt, how to get there (up-to-date with The Ultimate Guide). Thinking of including a stripped-down mission guide (similar to wiki) for future version. Check back often :)
+  # (major) SS2: Introduced a hunting guide page (accessed from menu Character), with information on what/where to hunt, how to get there (up-to-date with The Ultimate Guide). Thinking of including a stripped-down mission guide (similar to wiki) for future version. Check back often :)
 
 ==Revision 1223==
   # (minor) Fixed jQuery support to use existing site jQuery to avoid conflicts.
