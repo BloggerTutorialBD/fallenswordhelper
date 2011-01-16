@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1229==
+  # (minor) SS2: Fixed Auto-Walk on minimap.
+  # (minor) FS: Added more room for quick-search in AH for the new pots in game.
+  # (minor) FS: Added quick setup for moves in Setup Combat Moves screen, click on the green link (issue 1047).
+
 ==Revision 1228==
   # (major) SS2: Improved Hunting Guide page (accessed from menu Character) with items to wear and mission items, blueprints.
   # (minor) SS2: Added link to hunting guide in world page to allow access when hunting mode is on.
