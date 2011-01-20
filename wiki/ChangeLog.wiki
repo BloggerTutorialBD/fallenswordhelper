@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1230==
+  # (minor) SS2: Ported auto fill min bid price from FS, can be disabled in Config / General.
+  # (minor) SS2: Added links to the Ultimate Guide on mission view screen and creature view screen.
+  # (minor) SS2: Updated artifact locations.
+  # (minor) SS2: Added abbreviation for buff.
+
 ==Revision 1229==
   # (minor) SS2: Fixed Auto-Walk on minimap.
   # (minor) FS: Added more room for quick-search in AH for the new pots in game.
