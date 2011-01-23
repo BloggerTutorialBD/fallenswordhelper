@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1231==
+  # (minor) Workaround for GreaseMonkey 0.9.0 bug which doesn't allow for local scripts.
+
 ==Revision 1230==
   # (minor) SS2: Ported auto fill min bid price from FS, can be disabled in Config / General.
   # (minor) SS2: Added links to the Ultimate Guide on mission view screen and creature view screen.
@@ -13,11 +16,11 @@
   # (minor) FS: Added quick setup for moves in Setup Combat Moves screen, click on the green link (issue 1047).
 
 ==Revision 1228==
-  # (major) SS2: Improved Hunting Guide page (accessed from menu Character) with items to wear and mission items, blueprints.
+  # (Major) SS2: Improved Hunting Guide page (accessed from menu Character) with items to wear and mission items, blueprints.
   # (minor) SS2: Added link to hunting guide in world page to allow access when hunting mode is on.
 
 ==Revision 1226==
-  # (major) SS2: Introduced a hunting guide page (accessed from menu Character), with information on what/where to hunt, how to get there (up-to-date with The Ultimate Guide). Thinking of including a stripped-down mission guide (similar to wiki) for future version. Check back often :)
+  # (Major) SS2: Introduced a hunting guide page (accessed from menu Character), with information on what/where to hunt, how to get there (up-to-date with The Ultimate Guide). Thinking of including a stripped-down mission guide (similar to wiki) for future version. Check back often :)
 
 ==Revision 1223==
   # (minor) Fixed jQuery support to use existing site jQuery to avoid conflicts.
@@ -85,7 +88,7 @@
   # (minor) SS2: Fixed FC price warning.
 
 ==Revision 1202==
-  # (major) SS2: New Feature! ported Find Buff functionality from FS, added to the action menu. Use this feature to search recently online players for the specific buff you need. Try it today! 
+  # (Major) SS2: New Feature! ported Find Buff functionality from FS, added to the action menu. Use this feature to search recently online players for the specific buff you need. Try it today! 
 
 ==Revision 1198==
   # (minor) FS: Added functionality to find buffs to clear results, search another players profile for buffers. e.g. Add Tangtop to allies/enemies list and you can search my enemies list for buffers.
@@ -100,7 +103,7 @@
   # (minor) FS: Fixed minor bug with find buff functionality where sometimes players > 1000 would not show up.
 
 ==Revision 1195==
-  # (major) FS: New Feature! Find Buff functionality added to the top of the action menu. Use this feature to search recently online players for the specific buff you need. Try it today!
+  # (Major) FS: New Feature! Find Buff functionality added to the top of the action menu. Use this feature to search recently online players for the specific buff you need. Try it today!
   # (minor) FS: Fixed temple alert in LHS column when functionality is disabled. issue 1072
 
 ==Revision 1194==
@@ -533,7 +536,7 @@ Other fixes
   # (minor) FS: Fix for AH item widgets not showing up in the AH after the last fix.
 
 ==Revision 1063==
-  # (major) FS: Removed FSH guild chat sidebar in favor of HCS version. If you have not tried it yet, turn it on and try it, they did a good job with the update.
+  # (Major) FS: Removed FSH guild chat sidebar in favor of HCS version. If you have not tried it yet, turn it on and try it, they did a good job with the update.
   # (minor) FS: Added option to enable the fetching of item stats (craft/forge/durability) in the AH. Note this is DEFAULT TO OFF so if you like this functionality, you will need to go turn it back on again in the preferences. I turned it off because it is extra load on HCS servers and should only really be used if you make use of it.
   # (minor) FS: Added code so that if you click on an item image in the AH, it will do a search for that item (e.g. if you are looking at someones auction listings and you want to know if their prices are reasonable, you can just click the image to do a search)
   # (minor) FS: Added option to control adding the Attack link with the other links in the log. Note this is DEFAULT TO OFF so if you like the link, you will need to go turn it back on again in the preferences.
@@ -839,7 +842,7 @@ Other fixes
   # (minor) FS: Added FS Wiki and FSG buttons to the view quest pages since clicking on a quest name from the world page brings you to that page.
 
 ==Revision 956==
-  # (major) FS: Added ability to check if there are quests that are not started or started, not complete and not being tracked for the current zone. You can turn this on by going to the preferences page, it is marked as new.
+  # (Major) FS: Added ability to check if there are quests that are not started or started, not complete and not being tracked for the current zone. You can turn this on by going to the preferences page, it is marked as new.
   # (minor) FS: Fixed the buff links on the Guild->Groups page.
   # (minor) FS: Added missing relic data. (Pillars of Lindorik, Statue of Elidoia and Darghei Statue)
 
@@ -1273,7 +1276,7 @@ Other fixes
   # (minor) SS2: Added Shortcut key "I" (shift+i) to remove Mental Strength for Purists. 
 
 ==Revision 800==
-  # (major) FS: Added functionality to bulk list items on the AH. Works for one type of item at a time (so more suited to potion sellers). Does not differentiate between different forge levels or FF levels (so use at own risk - to the bulk list functionality a uncrafted 0FF Sword of Ursa is the same as a Perfect 5FF one - this is because of the way HCS labels their items). Defaults to disabled, you have to toggle a preference to turn it on. Need some testers please. I have tested this listing some potions, but would appreciate if others tested it too. issue 311.
+  # (Major) FS: Added functionality to bulk list items on the AH. Works for one type of item at a time (so more suited to potion sellers). Does not differentiate between different forge levels or FF levels (so use at own risk - to the bulk list functionality a uncrafted 0FF Sword of Ursa is the same as a Perfect 5FF one - this is because of the way HCS labels their items). Defaults to disabled, you have to toggle a preference to turn it on. Need some testers please. I have tested this listing some potions, but would appreciate if others tested it too. issue 311.
   # (minor) FS: Updated player online list to remove duplicates (I think).
 
 ==Revision 798==
@@ -1324,7 +1327,7 @@ Other fixes
   # (minor) FS: Minor bug fix for arena so that current combat moves show up for arenas with specials. Looks like HCS has a minor typo in their latest arena update that broke this functionality. All fixed now.
 
 ==Revision 782==
-  # (major) FS: Added Ally/Enemy online list (similar to the guild online list). It defaults to off (so you have to turn it on to use it) and a 60s refresh. You can seperately turn on either your ally list or your enemy list. Allies are blue, enemies are red. issue 414.
+  # (Major) FS: Added Ally/Enemy online list (similar to the guild online list). It defaults to off (so you have to turn it on to use it) and a 60s refresh. You can seperately turn on either your ally list or your enemy list. Allies are blue, enemies are red. issue 414.
 
 ==Revision 780==
   # (minor) SS2: Added PSI Shield warning message on commbat display
@@ -1334,7 +1337,7 @@ Other fixes
   # (minor) FS: Added a few items to the data list that were missing.
 
 ==Revision 777==
-  # (major) FS: Added bounty tracking system. Defaults off - go to preferences to turn it on. Two parts to this upgrade - both panels on the sidebar of the main screen. 1) A way to track active bounties (any bounty you are currently attempting), and 2) A way to track specific players when they appear on the bounty screen. issue 640.
+  # (Major) FS: Added bounty tracking system. Defaults off - go to preferences to turn it on. Two parts to this upgrade - both panels on the sidebar of the main screen. 1) A way to track active bounties (any bounty you are currently attempting), and 2) A way to track specific players when they appear on the bounty screen. issue 640.
 
 ==Revision 775==
   # (minor) FS: Added minor change to send gold function to keep track of how much gold has been sent. Player can manually reset the total on the preferences screen. issue 628.
@@ -1540,10 +1543,10 @@ Other fixes
   # (minor) SS2: Add current player stats to the combat log (hopefully someone will use it to derive the correct formula for SS2)
 
 ==Revision 695==
-  # (major) SS2: Ported from FS filters in Faction Inventory Manager and Personal Inventory Manager so you can filter out certain types of items.
+  # (Major) SS2: Ported from FS filters in Faction Inventory Manager and Personal Inventory Manager so you can filter out certain types of items.
 
 ==Revision 693==
-  # (major) FS: Added filters to the Guild Inventory Manager and the Personal Inventory Manager so you can filter out certain types of items (e.g. don't show me any Runes, etc). These filters all default to "show" so there should be no change to how things are displayed as default.
+  # (Major) FS: Added filters to the Guild Inventory Manager and the Personal Inventory Manager so you can filter out certain types of items (e.g. don't show me any Runes, etc). These filters all default to "show" so there should be no change to how things are displayed as default.
   # (minor) FS: Updated a few items that were missing from the data file and updated code to deal with extra spaces at the start and end of item names (which HCS does sometimes).
 
 ==Revision 692==
@@ -1551,8 +1554,8 @@ Other fixes
   # (minor) SS2: Addition to credits
 
 ==Revision 690==
-  # (major) FS: Updated code for View Creature page to provide a section for "Can my group kill this" (Group Combat Evaluator). This will only show up if the player has a group and will include the same logic as used for the single player combat evaluator. issue 296
-  # (major) FS: Updated creature evaluator to include Flinch, Nightmare Visage and Super Elite Slayer (only for super elites). issue 537.
+  # (Major) FS: Updated code for View Creature page to provide a section for "Can my group kill this" (Group Combat Evaluator). This will only show up if the player has a group and will include the same logic as used for the single player combat evaluator. issue 296
+  # (Major) FS: Updated creature evaluator to include Flinch, Nightmare Visage and Super Elite Slayer (only for super elites). issue 537.
 
 ==Revision 689==
   # (minor) SS2: Fixed player stats calculator bug when set does not have 3 pieces
@@ -1621,7 +1624,7 @@ Other fixes
   # (minor) FS: Fixed error in world screen when you don't have any buffs on
 
 ==Revision 663==
-  # (major) FS: After removing a buff from the world screen it will stay on the world screen (and refresh the page). issue 50
+  # (Major) FS: After removing a buff from the world screen it will stay on the world screen (and refresh the page). issue 50
   # (minor) Added scroll bars to quick buff screen. issue 429
   # (minor) FS: Added stam cost as mouseover on quickbuff screen. issue 142
 
@@ -1631,7 +1634,7 @@ Other fixes
   # (minor) FS: Added links on creature page to FSG and Wiki. issue 209
 
 ==Revision 659==
-  # (major) FS: New feature for create auction screen to show the item you are auctioning on the 2nd page of the auction screen (where you decide how much to list it for).
+  # (Major) FS: New feature for create auction screen to show the item you are auctioning on the 2nd page of the auction screen (where you decide how much to list it for).
   # (minor) FS: Fix for Fast Wear when you have no enemies. issue 431
   # (minor) FS: Fix for Creature page kill evaluator for HF buff. issue 473
   # (minor) FS: Fix for do not kill list to deal with creatures that have extra spaces at the start and end of their names.
@@ -1682,7 +1685,7 @@ Other fixes
 
 ==Revision 636==
   # (minor) FS: Fixed AH template enhancements so that you can delete the default template and also enter templates with null buy now values. issue 439.
-  # (major) FS: Fixed the AH quick search so that the grid on the AH screen is editable. Maximum of 18 items can show up and you can configure the list that shows up on the AH quick search screen. I added a new parameter called "displayOnAH" and this has to be set for a quick search to show up on the AH page. Hopefully this should not be too hard for people to figure out how to use. You can always reset your AH quick search page to get a list to show up (make sure you save your old one first to notepad or something). issue 300
+  # (Major) FS: Fixed the AH quick search so that the grid on the AH screen is editable. Maximum of 18 items can show up and you can configure the list that shows up on the AH quick search screen. I added a new parameter called "displayOnAH" and this has to be set for a quick search to show up on the AH page. Hopefully this should not be too hard for people to figure out how to use. You can always reset your AH quick search page to get a list to show up (make sure you save your old one first to notepad or something). issue 300
 
 ==Revision 633==
   # (minor) Fixed case where a backslash ("\") would break drop item page (issue 449).
