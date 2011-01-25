@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1232==
+  # (minor) FS: Items included in existing secure trades will now be indicated by red border.
+
 ==Revision 1231==
   # (minor) Workaround for GreaseMonkey 0.9.0 bug which doesn't allow for local scripts.
 
