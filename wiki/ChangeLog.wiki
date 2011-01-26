@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1234==
+  # (MAJOR) DKWIZARD has mastered jquery ^_^ (helper is now compatible with jquery and its ui).
+  # (minor) FS: Add message template back to send message dialog (the "Send Message" in profile or the "M" link in faction info)
+
 ==Revision 1233==
   # (minor) FS: Secure Trade check now also works on standard trade screen and AH screens (including bulk sell).
 
