@@ -43,6 +43,15 @@ Modern HTML is prefered, regardless of underlying (HCS) HTML coding standards. T
 == Javascript ==
 === Coding style ===
 === Variable naming ===
+=== Porting to Chrome ===
+A how-to is in the first post in http://forum.fallensword.com/phpBB3/viewtopic.php?f=1&t=92686
+=== Using JQuery and JQueryUI ===
+Since FS and SS2 already included JQuery and its UI in the page, we can make use of those libraries to enhance the user interface (and hopefully reduce our code side).
+JQuery is not particularly designed for running within a sandbox (Greasemonkey), we might need some tweaking. These tweaks (http://joanpiedra.com/jquery/greasemonkey/) are required for JQuery version 1.4.x (check the end of the fs.user.js and ss2.user.js).
+Currently:
+  * JQuery MUST be loaded by the webpage, not by the script (or bypass by those above tweaks).
+  * Anything that calls JQuery functions SHOULD NOT be on page load (JQuery needs some time to load before becoming available). Hence it is available for most key/mouse event handlers and within jqFunction in GM_Wait(jqFunction).
+  * GM_getValue and GM_setValue cannot be called directly under JQuery functions (Greasemonkey security model that avoids unsafeWindow). A workaround is to use a setTimeout(function() {GM_setValue(....);}, 0). This should be removed in future Greasemonkey updates.
 
 = Procedure =
 == Members ==
