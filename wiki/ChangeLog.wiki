@@ -2,8 +2,7 @@
 =A version by version list of changes made to the script=
 
 ==Revision 1237==
-  # (minor) SS2: Temporary fixed for the error in energy calculator. Moving and 
-shortcuts should be normal with helper enabled.
+  # (minor) SS2: Temporary fixed for the error in energy calculator. Moving and shortcuts should be normal with helper enabled.
 
 ==Revision 1235==
   # (minor) FS: Added message template manager to the new pretty send-message dialog.
