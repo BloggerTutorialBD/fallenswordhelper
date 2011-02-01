@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1239==
+  # (minor) FS: Added counter to figure out if you have secured a titan kill or how many kills more are needed (and percentage).
+  # (minor) FS: Fixed message for checking existing ST's.
+
 ==Revision 1237==
   # (minor) SS2: Temporary fixed for the error in energy calculator. Moving and shortcuts should be normal with helper enabled.
 
