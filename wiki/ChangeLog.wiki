@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1241==
+  # (minor) FS: Added Helper Menu to the top left (click to show/hide the menu).
+  # (minor) FS: Added jquery style for some of helper features, accessed from the new Helper Menu. Note that some features are not available in hunting mode (but still shown).
+
 ==Revision 1240==
   # (minor) FS: Fixed scout tower widgets if you have scout tower 3 and some dead titans in the log.
 
