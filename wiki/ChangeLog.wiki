@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1242==
+  # (minor) FS: Fixed cursor for new Helper Menu (pointer and underlined links)
+  # (minor) FS: Fixed issue where conflicts were not showing up on the Guild>Manage page.
+
 ==Revision 1241==
   # (minor) FS: Added Helper Menu to the top left (click to show/hide the menu).
   # (minor) FS: Added jquery style for some of helper features, accessed from the new Helper Menu. Note that some features are not available in hunting mode (but still shown).
