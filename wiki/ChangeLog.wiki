@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1243==
+  # (minor) FS: Fixed some Helper Menu items not working in Hunting Mode (some action require page reload are still not work as intented).
+  # (minor) FS: Added more items to Helper Menu.
+  # (minor) FS: Added devs' contact to Helper Menu.
+
 ==Revision 1242==
   # (minor) FS: Fixed cursor for new Helper Menu (pointer and underlined links)
   # (minor) FS: Fixed issue where conflicts were not showing up on the Guild>Manage page.
