@@ -1,6 +1,14 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1244==
+  # (minor) SS2: Fixed max-energy estimator and skill bar number.
+  # (minor) SS2: Added Helper Menu on the top left.
+  # (minor) SS2: Ported view creature stats button in the Ultimate SS2 Guide.
+  # (minor) SS2: Fixed a bug in buff dialog from HCS when trying to buff different players without refresh the page.
+  # (minor) SS2: Add the current player's buffs to the buff dialog.
+  # (minor) SS2: Fixed a bug in determining item class in TH.
+
 ==Revision 1243==
   # (minor) FS: Fixed some Helper Menu items not working in Hunting Mode (some action require page reload are still not work as intented).
   # (minor) FS: Added more items to Helper Menu.
