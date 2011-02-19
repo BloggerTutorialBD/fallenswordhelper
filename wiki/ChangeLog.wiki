@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1247==
+  # (Major) SS2: Added mission helper (retrieved from the Ultimate Guide) to the mission detail screen.
+
 ==Revision 1246==
   # (minor) FS: Fixed bug with previous release if you had guild info chat disabled.
 
