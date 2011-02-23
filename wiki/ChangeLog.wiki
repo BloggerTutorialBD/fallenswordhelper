@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1248==
+  # (minor) FS: Minor update to the new guild log. The logic for clearing out the log after a period of time was not working. Hopefully this should cause it to run faster.
+
 ==Revision 1247==
   # (Major) SS2: Added mission helper (retrieved from the Ultimate Guide) to the mission detail screen.
 
