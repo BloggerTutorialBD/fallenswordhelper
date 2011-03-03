@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1250==
+  # (minor) FS: issue 1127. Fixed transpose of month and minute in combat log.
+  # (minor) FS: Updated find buffs to use the new quick message dialog.
+
 ==Revision 1249==
   # (minor) FS: issue 1121. Added logic to the recipe manager to skip any folder with "quest" in the folder name.
 
