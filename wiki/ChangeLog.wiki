@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1251==
+  # (minor) SS2: Fixed the TH display cause by the new Ultimate Offer.
+
 ==Revision 1250==
   # (minor) FS: issue 1127. Fixed transpose of month and minute in combat log.
   # (minor) FS: Updated find buffs to use the new quick message dialog.
