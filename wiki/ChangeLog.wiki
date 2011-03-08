@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1252==
+  # (minor) FS: Fixed the Wanted bounty list so that now it searches all pages of the bounty board.
+
 ==Revision 1251==
   # (minor) SS2: Fixed the TH display cause by the new Ultimate Offer.
 
