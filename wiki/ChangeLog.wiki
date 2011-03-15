@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1253==
+  # (minor) FS: Fix for new mouseovers in progress. This is a short term fix to get people up and running. Will continue when I have more time.
+
 ==Revision 1252==
   # (minor) FS: Fixed the Wanted bounty list so that now it searches all pages of the bounty board.
 
