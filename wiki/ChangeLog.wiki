@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1255==
+  # (minor) FS: Fixed a bug with the mouseover on the AH screen. Please post mouseover issues in the forum.
+
 ==Revision 1254==
   # (minor) FS: More mouseover fixes. All the easy fixes are done. Please post in forums for stuff that does not work.
 
