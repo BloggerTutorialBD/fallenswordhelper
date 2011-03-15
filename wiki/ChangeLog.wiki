@@ -1,7 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1260==
+==Revision 1262==
+  # (minor) FS: Mouseover fix - fixed a bunch of mouseovers.
+  # (minor) FS: Mouseover fix - fixed recipe manager (mostly).
+
+==Revision 1261==
   # (minor) FS: Mouseover fix - fix bulk sell (again).
   # (minor) FS: Mouseover fix - fix to profile quick wear and quick drink (I hope).
 
