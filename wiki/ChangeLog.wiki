@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1257==
+  # (minor) FS: Mouseover fix - fixed join all groups.
+
+
 ==Revision 1256==
   # (minor) FS: Mouseover fix - fixed quick buff seeing buffs on target.
   # (minor) FS: Mouseover fix - fixed ranking on guild>rank page.
