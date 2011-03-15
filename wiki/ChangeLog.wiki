@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1256==
+  # (minor) FS: Mouseover fix - fixed quick buff seeing buffs on target.
+  # (minor) FS: Mouseover fix - fixed ranking on guild>rank page.
+
 ==Revision 1255==
   # (minor) FS: Fixed a bug with the mouseover on the AH screen. Please post mouseover issues in the forum.
 
