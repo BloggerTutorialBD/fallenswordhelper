@@ -2,6 +2,10 @@
 =A version by version list of changes made to the script=
 
 ==Revision 1260==
+  # (minor) FS: Mouseover fix - fix bulk sell (again).
+  # (minor) FS: Mouseover fix - fix to profile quick wear and quick drink (I hope).
+
+==Revision 1260==
   # (minor) FS: Mouseover fix - fixed error in dropitem screen.
   # (minor) FS: Mouseover fix - fixed error when refresh inventory pages (still need fix in getting items type).
 
@@ -10,7 +14,6 @@
 
 ==Revision 1257==
   # (minor) FS: Mouseover fix - fixed join all groups.
-
 
 ==Revision 1256==
   # (minor) FS: Mouseover fix - fixed quick buff seeing buffs on target.
