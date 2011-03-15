@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1258==
+  # (minor) FS: Mouseover fix - fixed error with join all groups.
+
 ==Revision 1257==
   # (minor) FS: Mouseover fix - fixed join all groups.
 
