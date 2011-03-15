@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1260==
+  # (minor) FS: Mouseover fix - fixed error in dropitem screen.
+  # (minor) FS: Mouseover fix - fixed error when refresh inventory pages (still need fix in getting items type).
+
 ==Revision 1258==
   # (minor) FS: Mouseover fix - fixed error with join all groups.
 
