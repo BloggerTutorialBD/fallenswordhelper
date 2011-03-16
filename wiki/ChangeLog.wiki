@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1266==
+  # (minor) FS: Fixed error in recipe manager where mouseover for components/items was not working right.
+  # (minor) FS: Fixed hiding the guild log notification when using the new guild log.
+
 ==Revision 1265==
   # (minor) FS: Removed old redundant injectMessageTemplate and related functions.
   # (minor) FS: Fixed AH-search clickable items.
