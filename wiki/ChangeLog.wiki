@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1263==
+  # (minor) FS: Removed old redundant injectMessageTemplate and related functions.
+  # (minor) FS: Fixed AH-search clickable items.
+  # (minor) FS: Fixed tooltip in recipe manager, relic list, wanted list, 
+  # (minor) FS: Fixed creature preview in world screen (partially, need to mouseover twice).
+
 ==Revision 1262==
   # (minor) FS: Mouseover fix - fixed a bunch of mouseovers.
   # (minor) FS: Mouseover fix - fixed recipe manager (mostly).
