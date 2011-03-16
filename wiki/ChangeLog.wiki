@@ -1,7 +1,7 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1263==
+==Revision 1265==
   # (minor) FS: Removed old redundant injectMessageTemplate and related functions.
   # (minor) FS: Fixed AH-search clickable items.
   # (minor) FS: Fixed tooltip in recipe manager, relic list, wanted list, 
