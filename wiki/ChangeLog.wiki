@@ -1,58 +1,62 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1269==
+==Revision 1270 (Tangtop)==
+  # (minor) FS: Fixed (guild) inventory manager.
+  # (minor) FS: Fixed fetch group stats.
+
+==Revision 1269 (yuuzhan)==
   # (minor) FS: Fixed quick kill parsing for drops
 
-==Revision 1268==
+==Revision 1268 (Tangtop)==
   # (minor) FS: More minor mouseover fixes.
   # (minor) FS: Fixed list item and bulk sell mouseovers.
   # (minor) FS: Fixed ST item checker.
 
-==Revision 1267==
+==Revision 1267 (Tangtop)==
   # (minor) FS: Fixed find player gold/pvp rating/pvp protection data fetch for this screen.
   # (minor) FS: Fixed Max stam time and Next level mouseover html tags and matched HCS color scheme.
   # (minor) FS: Fixed bulk extract.
 
-==Revision 1266==
+==Revision 1266 (Tangtop)==
   # (minor) FS: Fixed error in recipe manager where mouseover for components/items was not working right.
   # (minor) FS: Fixed hiding the guild log notification when using the new guild log.
 
-==Revision 1265==
+==Revision 1265 (dkwizard)==
   # (minor) FS: Removed old redundant injectMessageTemplate and related functions.
   # (minor) FS: Fixed AH-search clickable items.
   # (minor) FS: Fixed tooltip in recipe manager, relic list, wanted list, 
   # (minor) FS: Fixed creature preview in world screen (partially, need to mouseover twice).
 
-==Revision 1262==
+==Revision 1262 (Tangtop)==
   # (minor) FS: Mouseover fix - fixed a bunch of mouseovers.
   # (minor) FS: Mouseover fix - fixed recipe manager (mostly).
 
-==Revision 1261==
+==Revision 1261 (Tangtop)==
   # (minor) FS: Mouseover fix - fix bulk sell (again).
   # (minor) FS: Mouseover fix - fix to profile quick wear and quick drink (I hope).
 
-==Revision 1260==
+==Revision 1260 (jesiegel and dkwizard)==
   # (minor) FS: Mouseover fix - fixed error in dropitem screen.
   # (minor) FS: Mouseover fix - fixed error when refresh inventory pages (still need fix in getting items type).
 
-==Revision 1258==
+==Revision 1258 (jesiegel)==
   # (minor) FS: Mouseover fix - fixed error with join all groups.
 
-==Revision 1257==
+==Revision 1257 (jesiegel)==
   # (minor) FS: Mouseover fix - fixed join all groups.
 
-==Revision 1256==
+==Revision 1256 (Tangtop)==
   # (minor) FS: Mouseover fix - fixed quick buff seeing buffs on target.
   # (minor) FS: Mouseover fix - fixed ranking on guild>rank page.
 
-==Revision 1255==
+==Revision 1255 (Tangtop)==
   # (minor) FS: Fixed a bug with the mouseover on the AH screen. Please post mouseover issues in the forum.
 
-==Revision 1254==
+==Revision 1254 (Tangtop)==
   # (minor) FS: More mouseover fixes. All the easy fixes are done. Please post in forums for stuff that does not work.
 
-==Revision 1253==
+==Revision 1253 (Tangtop)==
   # (minor) FS: Fix for new mouseovers in progress. This is a short term fix to get people up and running. Will continue when I have more time.
 
 ==Revision 1252==
