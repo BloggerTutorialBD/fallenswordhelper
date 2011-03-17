@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1275 (yuuzhan)==
+  # (minor) FS: fixed Chime on world
+
 ==Revision 1274 (jesiegel)==
   # (minor) FS: Missed one spot, corrected it.
 
