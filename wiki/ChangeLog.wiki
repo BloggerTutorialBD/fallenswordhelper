@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1277 (yuuzhan)==
+  # (minor) FS: Fixed item stat subtotal (thanks JT!)
+
 ==Revision 1277 (Tangtop)==
   # (minor) FS: Fixed (guild) inventory manager again after minor HCS change.
 
