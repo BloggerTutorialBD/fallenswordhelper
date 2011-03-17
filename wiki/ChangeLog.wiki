@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1274 (jesiegel)==
+  # (minor) FS: Missed one spot, corrected it.
+
 ==Revision 1273 (jesiegel)==
   # (minor) FS: Adjusted groups slightly
   
