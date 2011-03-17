@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1277 (Tangtop)==
+  # (minor) FS: Fixed (guild) inventory manager again after minor HCS change.
+
 ==Revision 1275 (yuuzhan)==
   # (minor) FS: fixed Chime on world
 
@@ -9,7 +12,6 @@
 
 ==Revision 1273 (jesiegel)==
   # (minor) FS: Adjusted groups slightly
-  
 
 ==Revision 1272 (Tangtop)==
   # (minor) FS: Fixed (guild) inventory manager.
