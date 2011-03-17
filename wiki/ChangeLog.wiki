@@ -1,11 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1270 (Tangtop)==
+==Revision 1272 (Tangtop)==
   # (minor) FS: Fixed (guild) inventory manager.
   # (minor) FS: Fixed fetch group stats.
 
-==Revision 1269 (yuuzhan)==
+==Revision 1270 (yuuzhan)==
   # (minor) FS: Fixed quick kill parsing for drops
 
 ==Revision 1268 (Tangtop)==
