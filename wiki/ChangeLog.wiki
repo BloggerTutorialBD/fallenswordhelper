@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1268==
+  # (minor) FS: More minor mouseover fixes.
+  # (minor) FS: Fixed list item and bulk sell mouseovers.
+  # (minor) FS: Fixed ST item checker.
+
 ==Revision 1267==
   # (minor) FS: Fixed find player gold/pvp rating/pvp protection data fetch for this screen.
   # (minor) FS: Fixed Max stam time and Next level mouseover html tags and matched HCS color scheme.
