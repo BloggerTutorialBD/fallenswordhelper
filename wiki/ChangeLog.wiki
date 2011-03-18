@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1282 (Tangtop)==
+  # (minor) FS: Added data for new skills so they show up on tool tips, stamina calculators, etc.
+
 ==Revision 1278 (yuuzhan)==
   # (minor) FS: Fixed item stat subtotal (thanks JT!)
 
