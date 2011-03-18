@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1285 (yuuzhan)==
+  # (minor) FS: Fixed Active bounties.
+  # (minor) FS: Minor Tooltip stat subtotal optimization
+
 ==Revision 1283 (Tangtop)==
   # (minor) FS: Fixed fetch relic stats.
   # (minor) FS: Fixed view recipe widgets.
