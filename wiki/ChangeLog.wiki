@@ -1,6 +1,14 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1288 (yuuzhan)==
+  # (minor) FS: Updated summary of PvP attacks in logs(issue 1123)
+  # (minor) FS: Added date stamp to buff log (issue 813)
+  # (minor) FS: Added a Tick all option in the Block Buffs section (issue 1099)
+  # (minor) FS: Updated how helper checks for plants on quick pick, faster now
+  # (minor) FS: added ability to not quick select items in STs
+  # (minor) FS: limited the ST window to selecting 100 items (HCS limitation)
+
 ==Revision 1285 (yuuzhan)==
   # (minor) FS: Fixed Active bounties.
   # (minor) FS: Minor Tooltip stat subtotal optimization
