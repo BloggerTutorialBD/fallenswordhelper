@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1283 (Tangtop)==
+  # (minor) FS: Fixed fetch relic stats.
+  # (minor) FS: Fixed view recipe widgets.
+
 ==Revision 1282 (Tangtop)==
   # (minor) FS: Added data for new skills so they show up on tool tips, stamina calculators, etc.
 
