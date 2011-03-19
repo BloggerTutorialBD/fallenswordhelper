@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1292 (Tangtop)==
+  # (minor) FS: Fixed mouseover issue with check items and also fixed issue when using this function when over level 1000.
+
 ==Revision 1288 (yuuzhan)==
   # (minor) FS: Updated summary of PvP attacks in logs(issue 1123)
   # (minor) FS: Added date stamp to buff log (issue 813)
