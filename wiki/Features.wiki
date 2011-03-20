@@ -58,11 +58,11 @@ FSH adjustments have been made to the following areas of the profile page:
 (1)	Map Area
 ==== (i)	Links next to map name give you quick/easy access to: Search Map in FSG, Search Map in Wiki, Turn On/Off Hunting Mode, Turn on/off notification of new PM’s, Turn On/Off FastWalk ====
 ====(ii)	Pressing N will bring up the mini map which will let you drag your character to create a path to walk on. Pressing Shift+N will auto walk that path if its clear to walk (no walls in the way).  You can also see stairs to other boards and quest locations on the minimap. ====
-(2)	Quick Links
+===  (2)	Quick Links ===
 ==== (i)	Gold Icon – lets you send gold to the person you specify in preferances====
 ====(ii)	Warp to Krul – Can be hidden ====
 ====(iii)	Toggle Footprints ====
-(3)	Monster Area
+===  (3)	Monster Area ===
 ==== (i)	Will display a color next to creatures of a special type (SE, Legendary, Champions)====
 ==== (ii)	Will Display missing buffs from buff list ====
 ====(iii)	Will display # of imps left, and if imp dies, will let you re-cast ====
@@ -71,38 +71,38 @@ FSH adjustments have been made to the following areas of the profile page:
 ==== (vi)	Quick Kill area to type number of monster to quick kill it without leaving world map ====
 ==== (vii)	Tracking Quests will be displayed here with status. ====
 == IV.	Actions ==
-(1)	Find Player
+===  (1)	Find Player ===
 ==== (i)	Added links to Get Pvp Targets ====
 ====(ii)	Added links to Get GvG Targets ====
-(2)	Find Buffs - Added by the FSH
+===  (2)	Find Buffs - *Added by the FSH* ===
 ==== (i)	Gives the ability to search players bios for specific buffs ====
 ==== (ii)	Option for only level 175 buffs ====
 ==== (iii)	Option for Guild Members Only ====
 ==== (iv)	Option for Allies/Enemies ====
 ==== (v)	Option for Online List ====
 ==== (vi)	Will Display the results in same window. ====
-(3)	Find Other - Added by the FSH
+===  (3)	Find Other - *Added by the FSH*
 ==== (i)	Lets you search players Bios for specific text ====
 ==== (ii)	Option for level 500+ only ====
 ==== (iii)	Option for Guild Members Only ====
 ==== (iv)	Option for Allies/Enemies ====
 ==== (v)	Option for Online List ====
 ==== (vi)	Will Display the results in the same window ====
-(4)	Online Players - Added by the FSH
+===  (4)	Online Players - *Added by the FSH* ===
 ==== (i)	Needs a refresh to be displayed ====
 ==== (ii)	Will Display who is online and lets you choose what levels to search within. ====
 ==== (iii)	Shows if player is in a guild, and their current level ====
-(5)	Attack Player
+===  (5)	Attack Player ===
 ==== (i)	From the Attack Player (PvP) page you have the ability to see the attacker/defenders stats, best way into this is to goto the players profile and click attack player. ====
-(6)	PvP Arena
+===  (6)	PvP Arena ===
 ==== (i)	Added option to hide matches for Completed Moves ====
 ==== (ii)	Added a listing to display the number of active arenas ====
 ====(iii)	Added a filter to filter out Equipment levels from being displayed ====
 ==== (iv)	Will Auto Sort by the last column sorted (ID, Join Cost, State) ====
-(7)	AH Quick Search - Added by the FSH
+===  (7)	AH Quick Search - Added by the FSH ===
 ==== (i)	Allows you to customize the Quick Search area on the top of the Auction House page ====
 ==== (ii)	When Entering New items, Make sure the first column is set to the type, typically potions or plants.  The second Column is the Nick Name, The third Column is the actual name in the auction house, and the forth column will allow you to chose it on the quick link on the top of the Auction House Page ====
-(8)	Auction House
+===  (8)	Auction House ===
 ==== (i)	Added the Quick Search area on the top right, with a link to the AH Quick Search Configuration page ( # 7 above) ====
 ==== (ii)	Adds a Bid no Refresh Button below the bid amount ====
 ==== (iii)	Allows autofill of the bid amount ====
@@ -111,19 +111,19 @@ FSH adjustments have been made to the following areas of the profile page:
 ===== a.	Checks for ST’s before listing an item to sell =====
 ===== b.	Allows you to use an auction template to sell items over and over again w/o having to type in all info every time =====
 ===== c.	Shows image of the item you are selling =====
-(9)	Marketplace
+===  (9)	Marketplace ===
 ==== (i)	In Create New Request: ====
 ===== a.	Added Logic to display total fsp’s you are looking to buy, if the price is about right to sell your gold. And total cost in gold for the # of fsp’s and the # of gold per point. =====
-(10)	Send to Player
+===  (10)	Send to Player ===
 ==== (i)	Checks to see if ST’s have been created ====
 ==== (ii)	Added a Select area to quickly select groups of items ====
 ==== (iii)	Added a Folder area to quickly show specific folder  items ====
-(11)	Secure Trade
+=== (11)	Secure Trade ===
 ==== (i)	Checks to see if ST’s have been created ====
 ==== (ii)	Added a Select area to quickly select groups of items ====
 ==== (iii)	Added a Folder area to quickly show specific folder items ====
 ==    V.	Guild ==
-(1)	Manage
+===  (1)	Manage ===
 ==== (i)	Members area – Adjusted to show player activity status ====
 ===== a.	Green = Active =====
 ===== b.	Yellow = Semi Active =====
@@ -136,142 +136,142 @@ FSH adjustments have been made to the following areas of the profile page:
 ===== c.	Added button to get Rank Weightings to show rank control capabilities quickly =====
 ==== (iv)	Guild Store ====
 ===== a.	Added Take/Wear links =====
-(2)	Guild Inventory - Added by the FSH
+===  (2)	Guild Inventory - Added by the FSH ===
 ==== (i)	Needs to be refreshed to display current data ====
 ==== (ii)	Allows you to filter for certain level items ====
 ==== (iii)	Filter by item type ====
 ==== (iv)	Total number of tagged items ====
 ==== (v)	Gives a table of all items with stats, current location, forge level, craft level, and durability ====
 ==== (vi)	Click the SET link to see who has the pieces of that set in their bag ====
-(3)	New Guild Log - Added by the FSH
+===  (3)	New Guild Log - *Added by the FSH* ===
 ==== (i)	Lets you filter guild log based on type of message ====
-(4)	Chat
+===  (4)	Chat ===
 ==== (i)	Added a link to buff player from chat ====
 ==== (ii)	Highlights new messages, dims messages older than 20 minutes ====
 ==== (iii)	Adds a larger text box for your message ====
-(5)	Relic Control
+===  (5)	Relic Control ===
 ==== (i)	Added Mouseover the picture to get stats on the relic as well as its location ====
 ==   VI.	Top Rated ==
 (1)	Top 250 Players - Added by the FSH
 ==== (i)	Adds a link to the top 250 players that’s found on the Top Players Page ====
 ==== (ii)	Allows you to find Online Players out of the top 250 (good for finding buffers) ====
 ==  VII.	Upgrades ==
-(1)	Use Points
+===  (1)	Use Points ===
 ==== (i)	Removed the ability to sell gold, replaced link with “Sell at Marketplace” ====
 = Section 4.	Preferences Page -Fallen Sword Helper Configuration =
 This is where all of the FSH settings are setup. Please visit here first to configure the FSH to appear and use the features you desire
 Detailed Information of each preference option:
-== I.	General Preferences - Applies to Most Screens ==
-(1)	Check For Updates - Checks the Fallen Sword Helper Page to see if a new update is available (http://code.google.com/p/fallenswordhelper/)
-(2)	Enable Guild Info Widgets - This adds coloring to the HCS Guild Info page to show online status. It also allows you to disable the Message, Buff, Secure Trade, and Trade buttons next to players names.
-(3)	Move Guild Info List - This will Move the Guild Info List higher on the right bar of the main game display.
-(4)	Move Allies List - This will Move the Online Allies List higher on the right bar of the main game display
-(5)	Show Online Allies/Enemies - This will show the FSH version of the Allies/Enemies list on the right bar of the main game display, You can choose Either Allies or Enemies or Both, and set the refresh time. (note adjusting the refresh time may cause more lag in game)
-(6)	Enable Online Allies Widgets - Enabling this option will enable the HCS Online Allies List to be colored to show online status.
-(7)	Hide Top Banner - It hides the top banner on the page. To give you more retail space on your screen.
-(8)	Show ST/Date at top - This will add the current Server time on the top banner over the dragons head.  If you Hide Top Banner, this will not display anything.  This will also be disabled if you use the HCS option of hiding the Game Stats Box.
-(9)	Move FS Box - This will move the FS box to the left, under the normal menu (below logoff) unless it is hidden.
-(10)	“Game Help” Settings Link - Will turn the Game Help Text in the lower right box into a link into the FSH Settings/Configuration page
-(11)	Enable Temple Alert - Puts an alert on the Left Hand Side of your screen if you have not prayed at the temple today.  Checks once every 60 minutes.
-(12)	Enhance Online Dots - Enhances the green/grey dots next to player names to show if they are online/offline (seen on the guild management page of any guild and in the groups page, possibly other locations as well)
-(13)	Hide Buff Selected - Hides the buff selected functionality in the HCS online allies and Guild info section.
-(14)	Hide Helper Menu - Hides the helper menu from the top left, below the HCS Top banner.
+==    I.	General Preferences - Applies to Most Screens ==
+===  (1)	Check For Updates - Checks the Fallen Sword Helper Page to see if a new update is available (http://code.google.com/p/fallenswordhelper/) ===
+===  (2)	Enable Guild Info Widgets - This adds coloring to the HCS Guild Info page to show online status. It also allows you to disable the Message, Buff, Secure Trade, and Trade buttons next to players names. ===
+===  (3)	Move Guild Info List - This will Move the Guild Info List higher on the right bar of the main game display. ===
+===  (4)	Move Allies List - This will Move the Online Allies List higher on the right bar of the main game display ===
+===  (5)	Show Online Allies/Enemies - This will show the FSH version of the Allies/Enemies list on the right bar of the main game display, You can choose Either Allies or Enemies or Both, and set the refresh time. (note adjusting the refresh time may cause more lag in game) ===
+===  (6)	Enable Online Allies Widgets - Enabling this option will enable the HCS Online Allies List to be colored to show online status. ===
+===  (7)	Hide Top Banner - It hides the top banner on the page. To give you more retail space on your screen. ===
+===  (8)	Show ST/Date at top - This will add the current Server time on the top banner over the dragons head.  If you Hide Top Banner, this will not display anything.  This will also be disabled if you use the HCS option of hiding the Game Stats Box. ===
+===  (9)	Move FS Box - This will move the FS box to the left, under the normal menu (below logoff) unless it is hidden. ===
+===  (10)	“Game Help” Settings Link - Will turn the Game Help Text in the lower right box into a link into the FSH Settings/Configuration page ===
+=== (11)	Enable Temple Alert - Puts an alert on the Left Hand Side of your screen if you have not prayed at the temple today.  Checks once every 60 minutes. ===
+=== (12)	Enhance Online Dots - Enhances the green/grey dots next to player names to show if they are online/offline (seen on the guild management page of any guild and in the groups page, possibly other locations as well) ===
+=== (13)	Hide Buff Selected - Hides the buff selected functionality in the HCS online allies and Guild info section. ===
+=== (14)	Hide Helper Menu - Hides the helper menu from the top left, below the HCS Top banner. ===
 == II.	Guild > Manage Preferences ==
-(1)	Enter Guild names, separated by commas
+===  (1)	Enter Guild names, separated by commas ===
 ==== (i)	Own Guild - Will color all members of your guild’s names (dependent on what you fill in) green on their player profile page, and will write: “Member of your own guild” below their name, Customizable color/message by pressing the >> buttons on the right.  Please enter guild names with commas separating each guild, without spaces around the comma. The only spaces that are allowed here are if they are actually in the guild name. ====
 ==== (ii)	Friendly Guilds - Same as Own Guild except its defaulted to Yellow and states: “Do not attack - Guild is friendly!” ====
 ==== (iii)	Old Guilds - Same as Own Guild except it is defaulted to Grey and states: “Do not attack - You've been in that guild once!” ====
 ==== (iv)	Enemy Guild - Same as Own Guild except it is defaulted to Red and states: “Enemy guild. Attack at will!” ====
-(2)	Highlight Valid PVP Targets - Enabling this option will highlight targets in OTHER guilds that are within your level range to attack for PvP or GvG.  You can turn this on for PvP (orange) or GvG (Green) independently
-(3)	Show Rank Controls - Will show rank controls for guild management in the members profile page.  This will add a button below the members picture with the guild’s mini logo, pressing it will let you rank/kick your members. (necessary rights are needed)
-(4)	AJAXify rank controls - Enables players with the necessary rights to change rank positions without a screen refresh.
-(5)	Show Conflict Details - Inserts detailed conflict information onto your guild’s manage page. Currently displays the target guild as well as the current score.
+===  (2)	Highlight Valid PVP Targets - Enabling this option will highlight targets in OTHER guilds that are within your level range to attack for PvP or GvG.  You can turn this on for PvP (orange) or GvG (Green) independently ===
+===  (3)	Show Rank Controls - Will show rank controls for guild management in the members profile page.  This will add a button below the members picture with the guild’s mini logo, pressing it will let you rank/kick your members. (necessary rights are needed) ===
+===  (4)	AJAXify rank controls - Enables players with the necessary rights to change rank positions without a screen refresh. ===
+===  (5)	Show Conflict Details - Inserts detailed conflict information onto your guild’s manage page. Currently displays the target guild as well as the current score. ===
 ==  III.	World Screen/Hunting Preferences ==
-(1)	Quick Kill - This will allow you to press the Number associated with a normal monster to attack it, without having to leave the world screen (#1-8).  Will show the outcome, if any Imps died and if anything was found on the monster.
-(2)	Keep Combat logs - Saves a combat log to a temporary location,  Press the Show Logs button (inside the configuration page) to display and copy the logs.
-(3)	Show Combat Log - This will allow the Quick Kill to show the combat log below the monster list if enabled.
-(4)	Color Special Creatures - Will color the creatures on the world screen depending on their type.  Champions - Green, Elites - Yellow, and Super Elites - Red.
-(5)	Show Creature Info - This will show the information from the view creature link when you mouseover the eyeball picture next to any monster on the world screen.
-(6)	Combat Evaluator Bias - This will change the bias of the combat evaluator for the damage and HP evaluation.  It will not adjust the attack bias (1.1053).  
+===  (1)	Quick Kill - This will allow you to press the Number associated with a normal monster to attack it, without having to leave the world screen (#1-8).  Will show the outcome, if any Imps died and if anything was found on the monster. ===
+===  (2)	Keep Combat logs - Saves a combat log to a temporary location,  Press the Show Logs button (inside the configuration page) to display and copy the logs. ===
+===  (3)	Show Combat Log - This will allow the Quick Kill to show the combat log below the monster list if enabled. ===
+===  (4)	Color Special Creatures - Will color the creatures on the world screen depending on their type.  Champions - Green, Elites - Yellow, and Super Elites - Red. ===
+===  (5)	Show Creature Info - This will show the information from the view creature link when you mouseover the eyeball picture next to any monster on the world screen. ===
+===  (6)	Combat Evaluator Bias - This will change the bias of the combat evaluator for the damage and HP evaluation.  It will not adjust the attack bias (1.1053).  ===
 ==== (i)	Conservative - 1.1053 for damage and 1.1 for HP (Safest) ====
 ==== (ii)	Semi-Conservative - 1.1 for damage and 1.053 for HP ====
 ==== (iii)	Adventerous - 1.053 for damage and 1 for HP (Bleeding Edge) ====
-(7)	Keep Creature Log - This will show the creature log for each creature you see when you travel.  This requires Show Creature Info to be Enabled.
-(8)	Hide Krul Portal - This will hide the Krul portal on the world screen so you don’t accidentally click it.
-(9)	Footprints Color - Changes the color of the footprints.  Useful for maps that have varied colors that make the footprints hard to see.
-(10)	Reset Footprints - Resets the footprints Variable (can also be done on the world screen by clicking the Check box, then clicking the X to turn it back into a check box.  This method does it for the current map only.
-(11)	Show Send Gold - This will show an icon below the world map to allow you to quickly send gold to a friend.  Useful when hunting and you get pvp’d often.
-(12)	Do Not Kill List - List of creatures separated by a comma that will not be killed by the quick kill.  You must type the full name of each creature.  Creature name will show up in red color on the world screen and will not be killed by keyboard entry.  You can still kill the creature by clicking on its buttons.  Quick kill must be enabled for this to work.
-(13)	Hunting Buffs - Customize which buffs are designated as hunting buffs.  You must type the full name of each buff, separated by commas.  Use the checkbox to enable/disable them.  This will show you on the world screen which buffs are missing in case any expire.
+===  (7)	Keep Creature Log - This will show the creature log for each creature you see when you travel.  This requires Show Creature Info to be Enabled. ===
+===  (8)	Hide Krul Portal - This will hide the Krul portal on the world screen so you don’t accidentally click it.===
+===  (9)	Footprints Color - Changes the color of the footprints.  Useful for maps that have varied colors that make the footprints hard to see. ===
+===  (10)	Reset Footprints - Resets the footprints Variable (can also be done on the world screen by clicking the Check box, then clicking the X to turn it back into a check box.  This method does it for the current map only. ===
+=== (11)	Show Send Gold - This will show an icon below the world map to allow you to quickly send gold to a friend.  Useful when hunting and you get pvp’d often. ===
+=== (12)	Do Not Kill List - List of creatures separated by a comma that will not be killed by the quick kill.  You must type the full name of each creature.  Creature name will show up in red color on the world screen and will not be killed by keyboard entry.  You can still kill the creature by clicking on its buttons.  Quick kill must be enabled for this to work. ===
+=== (13)	Hunting Buffs - Customize which buffs are designated as hunting buffs.  You must type the full name of each buff, separated by commas.  Use the checkbox to enable/disable them.  This will show you on the world screen which buffs are missing in case any expire. ===
 ==== (i)	Default Hunting Buff List - Customizable to show Default Buffs ====
 ==== (ii)	PVP Hunting Buff List - Customizable to show PVP related buffs. ====
 ==== (iii)	Super Elite Slayer Hunting Buff List - Customizable to show SES related buffs ====
 ===== a.	All are customizable to be other than the above listing, these are just the default titles. You can adjust yourself in the first box. =====
-(14)	Enable FS Box Log - This Enables the functionality to keep a log of recent seen FS Box messages.
-(15)	Enable Buff Log - Enabled the functionality to keep a log of recently casted buffs.
-(16)	Enable Hunting Mode - Disables menu and some visual features to speed up the helper 
-(17)	Show FSG Icon - This will show the Fallen Sword Guide icon on the world page that links to the map for the page.
-(18)	Enable Fast Walk - This functionality will allow the user to send multiple move commands, each subsequent one assuming that the previous one succeeded.  It does not check for blocked squares, nor does it check to see that the move commands arrived at the server in the right order.  Depending on the lag you experience, the user may have to pause slightly between each move to make sure they reach the server in the right order.
+=== (14)	Enable FS Box Log - This Enables the functionality to keep a log of recent seen FS Box messages. ===
+=== (15)	Enable Buff Log - Enabled the functionality to keep a log of recently casted buffs. ===
+=== (16)	Enable Hunting Mode - Disables menu and some visual features to speed up the helper ===
+=== (17)	Show FSG Icon - This will show the Fallen Sword Guide icon on the world page that links to the map for the page. ===
+=== (18)	Enable Fast Walk - This functionality will allow the user to send multiple move commands, each subsequent one assuming that the previous one succeeded.  It does not check for blocked squares, nor does it check to see that the move commands arrived at the server in the right order.  Depending on the lag you experience, the user may have to pause slightly between each move to make sure they reach the server in the right order. ===
 ==== (i)	Show fast walk icon on world - Shows the FastWalk toggle icon on the world map. ====
 ==   IV.	Log Screen Preferences ==
-(1)	Cleanup Guild Log - Any log messages not related to the current player will be dimmed.
-(2)	Use New Guild Log - This will replace the HCS guild log with the helper version of the log, allowing you to view things by topics.
-(3)	New Guild Log History - This is the number of pages that the new guild log screen will go back in history.
-(4)	Enable Log Coloring - Three logs will be colored if this is enabled. Guild Chat, Guild Log, and Player Log.  It will show any new messages in yellow and anything 20 minutes or older in brown backgrounds.
-(5)	New Log Message Sound - the .wav or .ogg file to play when you have unread log messages. This must be a .wav or .ogg file.  This option can be turned on/off on the world page by clicking the speaker icon. Only works in firefox 3.5+
-(6)	Play Sound on unread Log - Activates the New Log Message Sound Feature
-(7)	Show Speaker on world - Shows the speaker on the world screen to toggle the play sound on unread log on and off.
-(8)	Enable Chat Parsing - If enabled, your character log will be parsed for chat messages and show the chat message on the screen if you reply to that message.
-(9)	Add attack link to log - If enabled this will add an Attack link to each message in your log.
-(10)	Enhance Chat Text Entry - If enabled this will enhance the entry field for entering chat text on the guild chat page.
+===  (1)	Cleanup Guild Log - Any log messages not related to the current player will be dimmed. ===
+===  (2)	Use New Guild Log - This will replace the HCS guild log with the helper version of the log, allowing you to view things by topics. ===
+===  (3)	New Guild Log History - This is the number of pages that the new guild log screen will go back in history. ===
+===  (4)	Enable Log Coloring - Three logs will be colored if this is enabled. Guild Chat, Guild Log, and Player Log.  It will show any new messages in yellow and anything 20 minutes or older in brown backgrounds. ===
+===  (5)	New Log Message Sound - the .wav or .ogg file to play when you have unread log messages. This must be a .wav or .ogg file.  This option can be turned on/off on the world page by clicking the speaker icon. Only works in firefox 3.5+ ===
+===  (6)	Play Sound on unread Log - Activates the New Log Message Sound Feature ===
+===  (7)	Show Speaker on world - Shows the speaker on the world screen to toggle the play sound on unread log on and off. ===
+===  (8)	Enable Chat Parsing - If enabled, your character log will be parsed for chat messages and show the chat message on the screen if you reply to that message. ===
+===  (9)	Add attack link to log - If enabled this will add an Attack link to each message in your log. ===
+=== (10)	Enhance Chat Text Entry - If enabled this will enhance the entry field for entering chat text on the guild chat page. ===
 ==    V.	Equipment Screen Preferences ==
-(1)	Disable Item Coloring - Will disable the code that colors the item text based on the rarity of the item.
-(2)	Show Quick Send Item - This will show a link beside each item which gives the option to quick send the item to this person.
+===  (1)	Disable Item Coloring - Will disable the code that colors the item text based on the rarity of the item. ===
+===  (2)	Show Quick Send Item - This will show a link beside each item which gives the option to quick send the item to this person. ===
 ==    I.	Quest Preferences ==
-(1)	Hide Specific Quests - If enabled, this will hide quests whos names matches the list. This works on the Quest Manager an Quest Book pages.  Please enter names of quests exactly as they are spelled, separated by commas.
-(2)	Show Incomplete/Not Started Quests - If enabled the helper will check to see if you have quests that are not started or that are started , but not complete, and not being tracked.  The helper will only check this when you change worlds. Or if when it last checked, there were quests it detected for the current world.
-(3)	Store Last Quest Page - This will store the page and sort order of each of the three quest selection pages for next time you visit.  If you need to reset the links, turn this option off, click on the link you want to reset, and then turn back on.
+===  (1)	Hide Specific Quests - If enabled, this will hide quests whos names matches the list. This works on the Quest Manager an Quest Book pages.  Please enter names of quests exactly as they are spelled, separated by commas. ===
+===  (2)	Show Incomplete/Not Started Quests - If enabled the helper will check to see if you have quests that are not started or that are started , but not complete, and not being tracked.  The helper will only check this when you change worlds. Or if when it last checked, there were quests it detected for the current world. ===
+===  (3)	Store Last Quest Page - This will store the page and sort order of each of the three quest selection pages for next time you visit.  If you need to reset the links, turn this option off, click on the link you want to reset, and then turn back on. ===
 ==  VII.	Profile Preferences ==
-(1)	Show BP Slots in Profile - This will display a backpack counter on your profile page if enabled.
-(2)	Render Self Bio - This determines if your own bio will render the FSH Special bio tags.
-(3)	Render other players’ Bios - This will determine if other players bios will be rendered using the FSH Special bio tags.
-(4)	Enable Bio Compressor - This will compress long bios according to the settings and provide a link to expand the compressed section.
-(5)	Buy Buffs Greeting - This is the default text to open a message with when asking to buy buffs. You can use {playername} to insert the target players name.  You can also use {buffs} to insert the list of buffs and you can use {cost} to insert the total cost of the buffs.
-(6)	Show Stat Bonus Total - This will show a total of the item stats when you mouseover an item on the profile screen.
-(7)	Enable Quick Drink - This enables the quick drink functionality on the profile page.
+===  (1)	Show BP Slots in Profile - This will display a backpack counter on your profile page if enabled. ===
+===  (2)	Render Self Bio - This determines if your own bio will render the FSH Special bio tags. ===
+===  (3)	Render other players’ Bios - This will determine if other players bios will be rendered using the FSH Special bio tags. ===
+===  (4)	Enable Bio Compressor - This will compress long bios according to the settings and provide a link to expand the compressed section. ===
+===  (5)	Buy Buffs Greeting - This is the default text to open a message with when asking to buy buffs. You can use {playername} to insert the target players name.  You can also use {buffs} to insert the list of buffs and you can use {cost} to insert the total cost of the buffs. ===
+===  (6)	Show Stat Bonus Total - This will show a total of the item stats when you mouseover an item on the profile screen. ===
+===  (7)	Enable Quick Drink - This enables the quick drink functionality on the profile page. ===
 == VIII.	Arena Preferences ==
-(1)	Auto Sort Arena List - This will automatically sort the arena list based on your last preference for sorting.
-(2)	Hide Arena Prizes - List the item id’s of arena prizes that should not display on the arena screen spereated by commas.  To find the item ID you will have to view the source of the page or mouseovr the item on the arena page.
+===  (1)	Auto Sort Arena List - This will automatically sort the arena list based on your last preference for sorting. ===
+===  (2)	Hide Arena Prizes - List the item id’s of arena prizes that should not display on the arena screen separated by commas.  To find the item ID you will have to view the source of the page or mouseover the item on the arena page. ===
 ==   IX.	Bounty Hunting Preferences == 
-(1)	Show Active Bounties - This will show your active bounties on the right hand side of all pages.
-(2)	Show Wanted Bounties - This will show when someone you want is on the bounty board list.  The list is displayed on the right hand side of all pages.
-(3)	Wanted Names - The names of the people to display in the Show Wanted Bounties area.  Enter their full player names, separated by commas.
-(4)	Show Attack Helper - This will show extra information on the attack player screen about stats and buffs on you and your target to verify you can kill them before clicking attack.
-(5)	Show PvP Summary in Log - This will show a summary of the PvP results in the log.
+===  (1)	Show Active Bounties - This will show your active bounties on the right hand side of all pages. ===
+===  (2)	Show Wanted Bounties - This will show when someone you want is on the bounty board list.  The list is displayed on the right hand side of all pages. ===
+===  (3)	Wanted Names - The names of the people to display in the Show Wanted Bounties area.  Enter their full player names, separated by commas. ===
+===  (4)	Show Attack Helper - This will show extra information on the attack player screen about stats and buffs on you and your target to verify you can kill them before clicking attack. ===
+===  (5)	Show PvP Summary in Log - This will show a summary of the PvP results in the log. ===
 ==    X.	Auction House Preferences ==
-(1)	Enable Bulk Sell - This enables the functionality to bulk sell items of the same type. Once you select an item with this option enabled you will have an option to sell multiple versions of it providing you have the spaces for the auctions.
-(2)	Auto Fill Min Bid Price - This enables the functionality to automatically fill in the minimum bid price so you just have to click bid and your bid will be placed.
+===  (1)	Enable Bulk Sell - This enables the functionality to bulk sell items of the same type. Once you select an item with this option enabled you will have an option to sell multiple versions of it providing you have the spaces for the auctions. ===
+===  (2)	Auto Fill Min Bid Price - This enables the functionality to automatically fill in the minimum bid price so you just have to click bid and your bid will be placed. ===
 ==   XI.	Other Preferences ==
-(1)	Hide Specific Recipies - This will hide recipes whos name matches the list.  This works in the Recipe Manager.  Please enter the Full Recipie name, separated by commas.
-(2)	Hide Relic Offline - Hides the relic offline defenders checker.
-(3)	Enter Sends Message - Will send a message from the Send Message screen if you press enter.  You can still insert a new line by holding shift when you press enter.
-(4)	Navigate after message sent - Will navigate to the referring page after a successful message is sent.
-(5)	Disable GS Page Shift - This will disable to page shift on the manage page to shift to the guild store.
-(6)	Max Group Size to Join - Will disable HCS’s join all functionality and will only join groups less than a set size.
-(7)	Enable Titan Log - This will keep a record of guild titan kills while you play.  You can set the number of minutes to delay before checking again.  Setting this to 0 will check every page load.  Setting it to a different number means it will not referesh until the next page load after the time has expired.
-(8)	Show Gold on Find Player - Shows gold on hand on the find player screen
-(9)	Titan Log Length - this is the number of titan logs that are stored on the scout tower page (including currently active titans)
-(10)	Add UFSG Widgets - Shows extra links on the guide.fallensword.com page.  First step is a link to pull back max critter data.
+===  (1)	Hide Specific Recipes - This will hide recipes whos name matches the list.  This works in the Recipe Manager.  Please enter the Full Recipe name, separated by commas. ===
+===  (2)	Hide Relic Offline - Hides the relic offline defenders checker. ===
+===  (3)	Enter Sends Message - Will send a message from the Send Message screen if you press enter.  You can still insert a new line by holding shift when you press enter. ===
+===  (4)	Navigate after message sent - Will navigate to the referring page after a successful message is sent. ===
+===  (5)	Disable GS Page Shift - This will disable to page shift on the manage page to shift to the guild store. ===
+===  (6)	Max Group Size to Join - Will disable HCS’s join all functionality and will only join groups less than a set size. ===
+===  (7)	Enable Titan Log - This will keep a record of guild titan kills while you play.  You can set the number of minutes to delay before checking again.  Setting this to 0 will check every page load.  Setting it to a different number means it will not refresh until the next page load after the time has expired. ===
+===  (8)	Show Gold on Find Player - Shows gold on hand on the find player screen ===
+===  (9)	Titan Log Length - this is the number of titan logs that are stored on the scout tower page (including currently active titans) ===
+===  (10)	Add UFSG Widgets - Shows extra links on the guide.fallensword.com page.  First step is a link to pull back max critter data. ===
 ==  XII.	SAVE ==
 Save every time you make an adjustment to the configuration page or they will be lost!
 == XIII.	Special Thanks ==
-(1)	Special Thanks
+===  (1)	Special Thanks ===
 ==== (i)	Cocinella - for Creating the FSH on 9/23/08 ====
-==== (ii)	Jesiegel - for helping Cocinella in creating the FSH and his code contributions, and for creating this guide. ====
+==== (ii)	JeSiegel - for helping Cocinella in creating the FSH and his code contributions, and for creating this guide. ====
 ==== (iii)	Tangtop - for taking the lead on the FSH after cocinella retired and making it the great tool that it is today. ====
 ==== (iv)	Dkwizard - for turning the FSH into a SSH, and for his valuable contributions in both games. ====
 ==== (v)	McBush - for his valuable coding in FS ====
 ==== (vi)	ByteBoy - for his valuable coding in FS ====
-(2)	Special Recognition:
+===  (2)	Special Recognition: ===
 ==== (i)	Nabalac ====
 ==== (ii)	Ananasii ====
