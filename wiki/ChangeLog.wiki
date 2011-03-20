@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1319 (Tangtop)==
+  # (minor) FS: Fixed quick buff buff detect logic where it would detect Deflect instead of Anti Deflect as previous fix did not completely work.
+
 ==Revision 1300 (Tangtop)==
   # (minor) FS: Fixed level sorting in the arena.
   # (minor) FS: Fixed quick buff buff detect logic where it would detect Deflect instead of Anti Deflect.
