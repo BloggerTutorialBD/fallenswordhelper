@@ -7,7 +7,7 @@ This will display a user guide for the FSH
 
 = Details =
 
-Add your content here.  Format your content with:
+You will see *New updates* here shortly showing _all_ the features of the FSH
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
