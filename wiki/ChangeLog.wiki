@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1293 (Tangtop)==
+  # (minor) FS: Fixed the count of defenders at the relic (prevented double counting defender stats).
+  # (minor) FS: Fixed the fsh additions to the guild>manage screen (pvp/gvg target coloring and online ball widgets).
+
 ==Revision 1292 (Tangtop)==
   # (minor) FS: Fixed mouseover issue with check items and also fixed issue when using this function when over level 1000.
 
