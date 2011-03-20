@@ -4,14 +4,6 @@
 
 This will display a user guide for the FSH
 
-
-= Details =
-
-You will see *New updates* here shortly showing _all_ the features of the FSH
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-
 I will go over page by page what feature the FSH adds to the game.
 
 = Section 1.	Purpose =
