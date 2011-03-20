@@ -1,7 +1,7 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1293 (Tangtop)==
+==Revision 1300 (Tangtop)==
   # (minor) FS: Fixed level sorting in the arena.
   # (minor) FS: Fixed quick buff buff detect logic where it would detect Deflect instead of Anti Deflect.
   # (minor) FS: Fixed skill data nicknames based on suggestions from forum post.
