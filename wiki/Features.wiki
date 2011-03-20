@@ -266,12 +266,13 @@ Detailed Information of each preference option:
 Save every time you make an adjustment to the configuration page or they will be lost!
 == XIII.	Special Thanks ==
 ===  (1)	Special Thanks ===
-==== (i)	Cocinella - for Creating the FSH on 9/23/08 ====
-==== (ii)	JeSiegel - for helping Cocinella in creating the FSH and his code contributions, and for creating this guide. ====
+==== (i)	Coccinella - for Creating the FSH on 9/23/08 ====
+==== (ii)	JeSiegel - for helping Coccinella in creating the FSH and his code contributions, and for creating this guide. ====
 ==== (iii)	Tangtop - for taking the lead on the FSH after cocinella retired and making it the great tool that it is today. ====
-==== (iv)	Dkwizard - for turning the FSH into a SSH, and for his valuable contributions in both games. ====
+==== (iv)	dkwizard - for turning the FSH into a SSH, and for his valuable contributions in both games. ====
 ==== (v)	McBush - for his valuable coding in FS ====
 ==== (vi)	ByteBoy - for his valuable coding in FS ====
 ===  (2)	Special Recognition: ===
 ==== (i)	Nabalac ====
 ==== (ii)	Ananasii ====
+==== (iii)      yuuzhan ====
