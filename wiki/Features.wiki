@@ -19,7 +19,7 @@ Changes here can be seen on the sides of your screen, this is where most of the 
      ==   II.	Character ==
           ===  (1)   Profile ===
 FSH adjustments have been made to the following areas of the profile page:
-                   ==== (i)        Bio allows tags for quick buff use {cmd} to insert the button and ‘~BUFFNAME~’ to add buff followed by the fsp cost. (i.e. `~Wither~’ .25 FSP) ====
+                   ==== (i)   Bio allows tags for quick buff use {cmd} to insert the button and ‘~BUFFNAME~’ to add buff followed by the fsp cost. (i.e. `~Wither~’ .25 FSP) ====
                     ==== (ii)	Inventory – Check Items/Quick Wear added. Hover over items to see combat stat totals. ====
                     ==== (iii)	Backpack – Next to manage – shows the # of inventory slots you have.  Below items you have the option for quick Wear/Drink/Extract. ====
                     ==== (iv)	Components – Has options for Enable Quick Delete, Count Components and Quick Extract Components. ====
