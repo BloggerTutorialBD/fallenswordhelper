@@ -81,7 +81,7 @@ FSH adjustments have been made to the following areas of the profile page:
 ==== (iv)	Option for Allies/Enemies ====
 ==== (v)	Option for Online List ====
 ==== (vi)	Will Display the results in same window. ====
-===  (3)	Find Other - *Added by the FSH*
+===  (3)	Find Other - *Added by the FSH* ===
 ==== (i)	Lets you search players Bios for specific text ====
 ==== (ii)	Option for level 500+ only ====
 ==== (iii)	Option for Guild Members Only ====
