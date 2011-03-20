@@ -9,7 +9,7 @@ I will go over page by page what feature the FSH adds to the game.
 = Section 1.	Purpose =
 Fallen Sword Helper is a Greasemonkey script meant to enhance the experience of playing Fallen Sword, by removing repetitive tasks, presenting more information at a glance, enhancing the social aspect of the game and creating shortcuts to common tasks.   HuntedCow Studios bears no liability and no participation in the use or coding of the FSH.  The coders of the FSH bear no liability on any adverse affects it may have on your computer.  Please use at your own risk.
 
-* = Section 2.	Installation =
+         * = Section 2.	Installation =
 
 For help in installing, look at Userscripts.org guide. In short: Firefox (preferably version 3+) and Greasemonkey are required. 
 If you have what you need, you should be able to install the script by clicking here: Install Script
