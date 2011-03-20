@@ -32,11 +32,11 @@ FSH adjustments have been made to the following areas of the profile page:
 ==== (iii)	Backpack – Next to manage – shows the # of inventory slots you have.  Below items you have the option for quick Wear/Drink/Extract. ====
 ==== (iv)	Components – Has options for Enable Quick Delete, Count Components and Quick Extract Components. ====
 ==== (v)	Allies/Enemies – Lists # of Allies and # of Enemies next to the title ====
-#(2)	Log 
+===(2)	Log ===
 ==== (i)	Added coloring if you turned on the option.  Normal background is current messages, brown background are messages older than 20 minutes.====
-#  (3)	Buff Log - Added by the FSH
+===  (3)	Buff Log - *Added by the FSH* ===
 ==== (i)	a log of all the buffs given ====
-# (4)	Medal Guide - Added by the FSH
+===  (4)	Medal Guide - Added by the FSH ===
 ==== (i)	quick link to the progress guide found on the Profile page ====
 ===  (5)	Inventory Manager - Added by the FSH ===
 ==== (i)	Scans through your backpack for all items and displays in a table with its stats sortable. Refresh is necessary to update this, please only refresh when necessary. ====
