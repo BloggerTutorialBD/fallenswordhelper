@@ -17,25 +17,25 @@ If you have what you need, you should be able to install the script by clicking 
      ==    I.	Home ==
 Changes here can be seen on the sides of your screen, this is where most of the general adjustments can be seen. No special adjustments made to the center area in this section
      ==   II.	Character ==
-===  (1)   Profile ===
+          ===  (1)   Profile ===
 FSH adjustments have been made to the following areas of the profile page:
-==== (i)        Bio allows tags for quick buff use {cmd} to insert the button and ‘~BUFFNAME~’ to add buff followed by the fsp cost. (i.e. `~Wither~’ .25 FSP) ====
-==== (ii)	Inventory – Check Items/Quick Wear added. Hover over items to see combat stat totals. ====
-==== (iii)	Backpack – Next to manage – shows the # of inventory slots you have.  Below items you have the option for quick Wear/Drink/Extract. ====
-==== (iv)	Components – Has options for Enable Quick Delete, Count Components and Quick Extract Components. ====
-==== (v)	Allies/Enemies – Lists # of Allies and # of Enemies next to the title ====
-===(2)	Log ===
-==== (i)	Added coloring if you turned on the option.  Normal background is current messages, brown background are messages older than 20 minutes.====
-===  (3)	Buff Log - *Added by the FSH* ===
-==== (i)	a log of all the buffs given ====
-===  (4)	Medal Guide - Added by the FSH ===
-==== (i)	quick link to the progress guide found on the Profile page ====
-===  (5)	Inventory Manager - Added by the FSH ===
-==== (i)	Scans through your backpack for all items and displays in a table with its stats sortable. Refresh is necessary to update this, please only refresh when necessary. ====
-===  (6)	Recipe Manager - Added by the FSH ===
-==== (i)	Shows a quick list of the current recipes and which items/components are required and what the target invention is.  Shows what you have in inventory to make desired item. Refresh is necessary to update new items. ====
-===  (7)	Combat Logs - Added by the FSH ===
-==== (i)	Shows a detailed page of all combats and their outcomes. ====
+               ==== (i)        Bio allows tags for quick buff use {cmd} to insert the button and ‘~BUFFNAME~’ to add buff followed by the fsp cost. (i.e. `~Wither~’ .25 FSP) ====
+               ==== (ii)	Inventory – Check Items/Quick Wear added. Hover over items to see combat stat totals. ====
+               ==== (iii)	Backpack – Next to manage – shows the # of inventory slots you have.  Below items you have the option for quick Wear/Drink/Extract. ====
+               ==== (iv)	Components – Has options for Enable Quick Delete, Count Components and Quick Extract Components. ====
+               ==== (v)	Allies/Enemies – Lists # of Allies and # of Enemies next to the title ====
+          ===(2)	Log ===
+               ==== (i)	Added coloring if you turned on the option.  Normal background is current messages, brown background are messages older than 20 minutes.====
+          ===  (3)	Buff Log - *Added by the FSH* ===
+               ==== (i)	a log of all the buffs given ====
+          ===  (4)	Medal Guide - Added by the FSH ===
+               ==== (i)	quick link to the progress guide found on the Profile page ====
+          ===  (5)	Inventory Manager - Added by the FSH ===
+               ==== (i)	Scans through your backpack for all items and displays in a table with its stats sortable. Refresh is necessary to update this, please only refresh when necessary. ====
+          ===  (6)	Recipe Manager - Added by the FSH ===
+               ==== (i)	Shows a quick list of the current recipes and which items/components are required and what the target invention is.  Shows what you have in inventory to make desired item. Refresh is necessary to update new items. ====
+          ===  (7)	Combat Logs - Added by the FSH ===
+               ==== (i)	Shows a detailed page of all combats and their outcomes. ====
 ===  (8)	Creature Logs - Added by the FSH ===
 ==== (i)	Shows a legend of all the creatures you have encountered, along with their stats and enhancements. ====
 ===  (9)	Quick Links - Added by the FSH ===
