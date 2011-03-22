@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1320 (Coccinella)==
+  # (minor) FS: Changed autoupdate to only use the main javascript file revision instead of the whole repository.
+
 ==Revision 1319 (Tangtop)==
   # (minor) FS: Fixed quick buff buff detect logic where it would detect Deflect instead of Anti Deflect as previous fix did not completely work.
 
