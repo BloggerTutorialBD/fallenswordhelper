@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1322 (Tangtop)==
+  # (minor) FS: Code maintenance - start of removing usage of findNode.
+
 ==Revision 1320 (Coccinella)==
   # (minor) FS: Changed autoupdate to only use the main javascript file revision instead of the whole repository.
 
