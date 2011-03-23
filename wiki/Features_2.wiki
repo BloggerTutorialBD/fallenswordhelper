@@ -14,16 +14,16 @@ Fallen Sword Helper is a Greasemonkey script meant to enhance the experience of 
 For help in installing, look at Userscripts.org guide. In short: Firefox (preferably version 3+) and Greasemonkey are required. 
 If you have what you need, you should be able to install the script by clicking here: Install Script
 = Section 3. FSH Edited areas of the Game =
-== # Home ==
+# Home
 Changes here can be seen on the sides of your screen, this is where most of the general adjustments can be seen. No special adjustments made to the center area in this section
-== # Character ==
-=== # Profile ===
+# Character
+ # Profile
 FSH adjustments have been made to the following areas of the profile page:
-==== # Bio allows tags for quick buff use {cmd} to insert the button and ‘~BUFFNAME~' to add buff followed by the fsp cost. (i.e. `~Wither~' .25 FSP) ====
-==== # Inventory - Check Items/Quick Wear added. Hover over items to see combat stat totals. ====
-==== # Backpack - Next to manage - shows the # of inventory slots you have. Below items you have the option for quick Wear/Drink/Extract. ====
-==== # Components - Has options for Enable Quick Delete, Count Components and Quick Extract Components. ====
-==== # Allies/Enemies - Lists # of Allies and # of Enemies next to the title ====
+  # Bio allows tags for quick buff use {cmd} to insert the button and ‘~BUFFNAME~' to add buff followed by the fsp cost. (i.e. `~Wither~' .25 FSP) ====
+  # Inventory - Check Items/Quick Wear added. Hover over items to see combat stat totals. ====
+  # Backpack - Next to manage - shows the # of inventory slots you have. Below items you have the option for quick Wear/Drink/Extract. ====
+  # Components - Has options for Enable Quick Delete, Count Components and Quick Extract Components. ====
+  # Allies/Enemies - Lists # of Allies and # of Enemies next to the title ====
 === # Log ===
 ==== # Added coloring if you turned on the option. Normal background is current messages, brown background are messages older than 20 minutes.====
 === # Buff Log - *Added by the FSH* ===
