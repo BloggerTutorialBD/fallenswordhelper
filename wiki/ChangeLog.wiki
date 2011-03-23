@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1330 (jes)==
+  # (minor) FS: Code maintenance
+
 ==Revision 1329 (dkw)==
   # (minor) SS2: Fixed to make SS2Helper compatible with Firefox 4.0. Some errors in display are expected, please PM dkw in SS2 about these errors.
 
