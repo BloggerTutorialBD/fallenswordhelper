@@ -53,6 +53,24 @@ Currently:
   * Anything that calls JQuery functions SHOULD NOT be on page load (JQuery needs some time to load before becoming available). Hence it is available for most key/mouse event handlers and within jqFunction in GM_Wait(jqFunction).
   * GM_getValue and GM_setValue cannot be called directly under JQuery functions (Greasemonkey security model that avoids unsafeWindow). A workaround is to use a setTimeout(function() {GM_setValue(....);}, 0). This should be removed in future Greasemonkey updates.
 
+_Example on using $.each to test if an element exists._
+
+Old code:
+{{{
+  var gameHelpNode = System.findNode('//b[contains(.,"Game Help")]');
+  if (gameHelpNode) {
+    gameHelpNode.innerHTML = "<a href='index.php?cmd=settings' style='color: #FFFFFF; text-decoration: underline'>" + gameHelpNode.textContent + "</a>";
+  }
+}}}
+
+New code:
+{{{
+  var gameHelpNode = $('b:contains("Game Help")');
+  $(gameHelpNode).each(function() {
+    $(this).html("<a href='index.php?cmd=settings' style='color: #FFFFFF; text-decoration: underline'>" + $(this).text() + "</a>");
+  });
+}}}
+
 = Procedure =
 == Members ==
 === !ChangeLog ===
