@@ -19,11 +19,11 @@ Changes here can be seen on the sides of your screen, this is where most of the 
      ==   II.	Character ==
           ===  (1)   Profile ===
 FSH adjustments have been made to the following areas of the profile page:
-                         ==== (i)	Bio allows tags for quick buff use {cmd} to insert the button and ‘~BUFFNAME~’ to add buff followed by the fsp cost. (i.e. `~Wither~’ .25 FSP) ====
-                         ==== (ii)	Inventory – Check Items/Quick Wear added. Hover over items to see combat stat totals. ====
-                         ==== (iii)	Backpack – Next to manage – shows the # of inventory slots you have.  Below items you have the option for quick Wear/Drink/Extract. ====
-                         ==== (iv)	Components – Has options for Enable Quick Delete, Count Components and Quick Extract Components. ====
-                         ==== (v)	Allies/Enemies – Lists # of Allies and # of Enemies next to the title ====
+                         ==== (i)	Bio allows tags for quick buff use {cmd} to insert the button and ‘~BUFFNAME~' to add buff followed by the fsp cost. (i.e. `~Wither~' .25 FSP) ====
+                         ==== (ii)	Inventory - Check Items/Quick Wear added. Hover over items to see combat stat totals. ====
+                         ==== (iii)	Backpack - Next to manage - shows the # of inventory slots you have.  Below items you have the option for quick Wear/Drink/Extract. ====
+                         ==== (iv)	Components - Has options for Enable Quick Delete, Count Components and Quick Extract Components. ====
+                         ==== (v)	Allies/Enemies - Lists # of Allies and # of Enemies next to the title ====
           ===(2)	Log ===
                ==== (i)	Added coloring if you turned on the option.  Normal background is current messages, brown background are messages older than 20 minutes.====
           ===  (3)	Buff Log - *Added by the FSH* ===
@@ -48,11 +48,11 @@ FSH adjustments have been made to the following areas of the profile page:
 ==== (i)	Area to setup all the FSH settings, see Section 4 for details. ====
      ==  III.	World ==
 (1)	Map Area
-==== (i)	Links next to map name give you quick/easy access to: Search Map in FSG, Search Map in Wiki, Turn On/Off Hunting Mode, Turn on/off notification of new PM’s, Turn On/Off FastWalk ====
+==== (i)	Links next to map name give you quick/easy access to: Search Map in FSG, Search Map in Wiki, Turn On/Off Hunting Mode, Turn on/off notification of new PM's, Turn On/Off FastWalk ====
 ====(ii)	Pressing N will bring up the mini map which will let you drag your character to create a path to walk on. Pressing Shift+N will auto walk that path if its clear to walk (no walls in the way).  You can also see stairs to other boards and quest locations on the minimap. ====
 ===  (2)	Quick Links ===
-==== (i)	Gold Icon – lets you send gold to the person you specify in preferances====
-====(ii)	Warp to Krul – Can be hidden ====
+==== (i)	Gold Icon - lets you send gold to the person you specify in preferances====
+====(ii)	Warp to Krul - Can be hidden ====
 ====(iii)	Toggle Footprints ====
 ===  (3)	Monster Area ===
 ==== (i)	Will display a color next to creatures of a special type (SE, Legendary, Champions)====
@@ -100,23 +100,23 @@ FSH adjustments have been made to the following areas of the profile page:
 ==== (iii)	Allows autofill of the bid amount ====
 ==== (iv)	Displays any filters below the Create Auction Button ====
 ==== (v)	Allows for creating auctions along with Bulk Selling of items ====
-===== a.	Checks for ST’s before listing an item to sell =====
+===== a.	Checks for ST's before listing an item to sell =====
 ===== b.	Allows you to use an auction template to sell items over and over again w/o having to type in all info every time =====
 ===== c.	Shows image of the item you are selling =====
 ===  (9)	Marketplace ===
 ==== (i)	In Create New Request: ====
-===== a.	Added Logic to display total fsp’s you are looking to buy, if the price is about right to sell your gold. And total cost in gold for the # of fsp’s and the # of gold per point. =====
+===== a.	Added Logic to display total fsp's you are looking to buy, if the price is about right to sell your gold. And total cost in gold for the # of fsp's and the # of gold per point. =====
 ===  (10)	Send to Player ===
-==== (i)	Checks to see if ST’s have been created ====
+==== (i)	Checks to see if ST's have been created ====
 ==== (ii)	Added a Select area to quickly select groups of items ====
 ==== (iii)	Added a Folder area to quickly show specific folder  items ====
 === (11)	Secure Trade ===
-==== (i)	Checks to see if ST’s have been created ====
+==== (i)	Checks to see if ST's have been created ====
 ==== (ii)	Added a Select area to quickly select groups of items ====
 ==== (iii)	Added a Folder area to quickly show specific folder items ====
      ==    V.	Guild ==
 ===  (1)	Manage ===
-==== (i)	Members area – Adjusted to show player activity status ====
+==== (i)	Members area - Adjusted to show player activity status ====
 ===== a.	Green = Active =====
 ===== b.	Yellow = Semi Active =====
 ===== c.	Purple = Inactive and not able to be pvp/gvg targeted =====
@@ -145,7 +145,7 @@ FSH adjustments have been made to the following areas of the profile page:
 ==== (i)	Added Mouseover the picture to get stats on the relic as well as its location ====
 ==   VI.	Top Rated ==
 (1)	Top 250 Players - Added by the FSH
-==== (i)	Adds a link to the top 250 players that’s found on the Top Players Page ====
+==== (i)	Adds a link to the top 250 players that's found on the Top Players Page ====
 ==== (ii)	Allows you to find Online Players out of the top 250 (good for finding buffers) ====
 ==  VII.	Upgrades ==
 ===  (1)	Use Points ===
@@ -170,14 +170,14 @@ Detailed Information of each preference option:
 === (14)	Hide Helper Menu - Hides the helper menu from the top left, below the HCS Top banner. ===
 == II.	Guild > Manage Preferences ==
 ===  (1)	Enter Guild names, separated by commas ===
-==== (i)	Own Guild - Will color all members of your guild’s names (dependent on what you fill in) green on their player profile page, and will write: “Member of your own guild” below their name, Customizable color/message by pressing the >> buttons on the right.  Please enter guild names with commas separating each guild, without spaces around the comma. The only spaces that are allowed here are if they are actually in the guild name. ====
+==== (i)	Own Guild - Will color all members of your guild's names (dependent on what you fill in) green on their player profile page, and will write: “Member of your own guild” below their name, Customizable color/message by pressing the >> buttons on the right.  Please enter guild names with commas separating each guild, without spaces around the comma. The only spaces that are allowed here are if they are actually in the guild name. ====
 ==== (ii)	Friendly Guilds - Same as Own Guild except its defaulted to Yellow and states: “Do not attack - Guild is friendly!” ====
 ==== (iii)	Old Guilds - Same as Own Guild except it is defaulted to Grey and states: “Do not attack - You've been in that guild once!” ====
 ==== (iv)	Enemy Guild - Same as Own Guild except it is defaulted to Red and states: “Enemy guild. Attack at will!” ====
 ===  (2)	Highlight Valid PVP Targets - Enabling this option will highlight targets in OTHER guilds that are within your level range to attack for PvP or GvG.  You can turn this on for PvP (orange) or GvG (Green) independently ===
-===  (3)	Show Rank Controls - Will show rank controls for guild management in the members profile page.  This will add a button below the members picture with the guild’s mini logo, pressing it will let you rank/kick your members. (necessary rights are needed) ===
+===  (3)	Show Rank Controls - Will show rank controls for guild management in the members profile page.  This will add a button below the members picture with the guild's mini logo, pressing it will let you rank/kick your members. (necessary rights are needed) ===
 ===  (4)	AJAXify rank controls - Enables players with the necessary rights to change rank positions without a screen refresh. ===
-===  (5)	Show Conflict Details - Inserts detailed conflict information onto your guild’s manage page. Currently displays the target guild as well as the current score. ===
+===  (5)	Show Conflict Details - Inserts detailed conflict information onto your guild's manage page. Currently displays the target guild as well as the current score. ===
 ==  III.	World Screen/Hunting Preferences ==
 ===  (1)	Quick Kill - This will allow you to press the Number associated with a normal monster to attack it, without having to leave the world screen (#1-8).  Will show the outcome, if any Imps died and if anything was found on the monster. ===
 ===  (2)	Keep Combat logs - Saves a combat log to a temporary location,  Press the Show Logs button (inside the configuration page) to display and copy the logs. ===
@@ -189,10 +189,10 @@ Detailed Information of each preference option:
 ==== (ii)	Semi-Conservative - 1.1 for damage and 1.053 for HP ====
 ==== (iii)	Adventerous - 1.053 for damage and 1 for HP (Bleeding Edge) ====
 ===  (7)	Keep Creature Log - This will show the creature log for each creature you see when you travel.  This requires Show Creature Info to be Enabled. ===
-===  (8)	Hide Krul Portal - This will hide the Krul portal on the world screen so you don’t accidentally click it.===
+===  (8)	Hide Krul Portal - This will hide the Krul portal on the world screen so you don't accidentally click it.===
 ===  (9)	Footprints Color - Changes the color of the footprints.  Useful for maps that have varied colors that make the footprints hard to see. ===
 ===  (10)	Reset Footprints - Resets the footprints Variable (can also be done on the world screen by clicking the Check box, then clicking the X to turn it back into a check box.  This method does it for the current map only. ===
-=== (11)	Show Send Gold - This will show an icon below the world map to allow you to quickly send gold to a friend.  Useful when hunting and you get pvp’d often. ===
+=== (11)	Show Send Gold - This will show an icon below the world map to allow you to quickly send gold to a friend.  Useful when hunting and you get pvp'd often. ===
 === (12)	Do Not Kill List - List of creatures separated by a comma that will not be killed by the quick kill.  You must type the full name of each creature.  Creature name will show up in red color on the world screen and will not be killed by keyboard entry.  You can still kill the creature by clicking on its buttons.  Quick kill must be enabled for this to work. ===
 === (13)	Hunting Buffs - Customize which buffs are designated as hunting buffs.  You must type the full name of each buff, separated by commas.  Use the checkbox to enable/disable them.  This will show you on the world screen which buffs are missing in case any expire. ===
 ==== (i)	Default Hunting Buff List - Customizable to show Default Buffs ====
@@ -226,14 +226,14 @@ Detailed Information of each preference option:
      ==  VII.	Profile Preferences ==
 ===  (1)	Show BP Slots in Profile - This will display a backpack counter on your profile page if enabled. ===
 ===  (2)	Render Self Bio - This determines if your own bio will render the FSH Special bio tags. ===
-===  (3)	Render other players’ Bios - This will determine if other players bios will be rendered using the FSH Special bio tags. ===
+===  (3)	Render other players' Bios - This will determine if other players bios will be rendered using the FSH Special bio tags. ===
 ===  (4)	Enable Bio Compressor - This will compress long bios according to the settings and provide a link to expand the compressed section. ===
 ===  (5)	Buy Buffs Greeting - This is the default text to open a message with when asking to buy buffs. You can use {playername} to insert the target players name.  You can also use {buffs} to insert the list of buffs and you can use {cost} to insert the total cost of the buffs. ===
 ===  (6)	Show Stat Bonus Total - This will show a total of the item stats when you mouseover an item on the profile screen. ===
 ===  (7)	Enable Quick Drink - This enables the quick drink functionality on the profile page. ===
      == VIII.	Arena Preferences ==
 ===  (1)	Auto Sort Arena List - This will automatically sort the arena list based on your last preference for sorting. ===
-===  (2)	Hide Arena Prizes - List the item id’s of arena prizes that should not display on the arena screen separated by commas.  To find the item ID you will have to view the source of the page or mouseover the item on the arena page. ===
+===  (2)	Hide Arena Prizes - List the item id's of arena prizes that should not display on the arena screen separated by commas.  To find the item ID you will have to view the source of the page or mouseover the item on the arena page. ===
      ==   IX.	Bounty Hunting Preferences == 
 ===  (1)	Show Active Bounties - This will show your active bounties on the right hand side of all pages. ===
 ===  (2)	Show Wanted Bounties - This will show when someone you want is on the bounty board list.  The list is displayed on the right hand side of all pages. ===
@@ -249,7 +249,7 @@ Detailed Information of each preference option:
 ===  (3)	Enter Sends Message - Will send a message from the Send Message screen if you press enter.  You can still insert a new line by holding shift when you press enter. ===
 ===  (4)	Navigate after message sent - Will navigate to the referring page after a successful message is sent. ===
 ===  (5)	Disable GS Page Shift - This will disable to page shift on the manage page to shift to the guild store. ===
-===  (6)	Max Group Size to Join - Will disable HCS’s join all functionality and will only join groups less than a set size. ===
+===  (6)	Max Group Size to Join - Will disable HCS's join all functionality and will only join groups less than a set size. ===
 ===  (7)	Enable Titan Log - This will keep a record of guild titan kills while you play.  You can set the number of minutes to delay before checking again.  Setting this to 0 will check every page load.  Setting it to a different number means it will not refresh until the next page load after the time has expired. ===
 ===  (8)	Show Gold on Find Player - Shows gold on hand on the find player screen ===
 ===  (9)	Titan Log Length - this is the number of titan logs that are stored on the scout tower page (including currently active titans) ===
