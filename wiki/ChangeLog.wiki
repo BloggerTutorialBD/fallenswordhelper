@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1328 (dkw)==
+  # (minor) FS: Fixed to make FSH compatible with recently released Firefox 4.0.
+
 ==Revision 1325 (Tangtop)==
   # (minor) FS: Fix to quick buff screen from previous patch changes.
 
