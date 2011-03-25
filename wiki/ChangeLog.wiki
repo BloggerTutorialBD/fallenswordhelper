@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1344 (TT)==
+  # (minor) FS: Fixed quick kill not working correct with latest HCS sneaky code change.
+  # (minor) FS: Fixed error with GM_setValue.
+
 ==Revision 1343 (dkw)==
   # (MAJOR) FS: Combined FSH into one single js file.
   # (MAJOR) FS: FSH can be installed on Chrome using the same js file. Note that many features are not functioning in Chrome for now.
