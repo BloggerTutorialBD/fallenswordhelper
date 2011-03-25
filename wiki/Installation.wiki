@@ -5,15 +5,15 @@ In order to use Fallen Sword Helper, you will need Firefox 3.5 and Greasemonkey.
 
 =Quick installation guide=
 
-For help in installing, look at [http://userscripts.org/about/installing Userscripts.org guide]. In short: [http://getfirefox.com/ Firefox] (preferably version 3.5+) and [https://addons.mozilla.org/firefox/addon/748 Greasemonkey] are required.
+For help in installing, look at [http://userscripts.org/about/installing Userscripts.org guide]. In short: [http://getfirefox.com/ Firefox] (preferably version 4+) and [https://addons.mozilla.org/firefox/addon/748 Greasemonkey] are required. Or just Chrome [http://www.google.com/chrome Chrome]
 
 For more information, see [http://userscripts.org/about/installing UserScripts.org Guide]
 
 =Longer installation guide=
-  # Install [http://www.getfirefox.com/ Firefox 3.5]
-  # After installing Firefox, go to the [https://addons.mozilla.org/en-US/firefox/addon/748 Greasemonkey installation page]
-  # Click on the "Add to Firefox" button
-  # Restart your browser
+  # Install [http://www.getfirefox.com/ Firefox 4+] or [http://www.google.com/chrome Chrome]
+  # After installing Firefox, go to the [https://addons.mozilla.org/en-US/firefox/addon/748 Greasemonkey installation page] (Firefox only)
+  # Click on the "Add to Firefox" button (Firefox only)
+  # Restart your browser (Firefox only)
   # Come back [http://code.google.com/p/fallenswordhelper/ here] and click on [http://fallenswordhelper.googlecode.com/svn/trunk/fallenswordhelper.user.js FS Install Script] for Fallen Sword, or [http://fallenswordhelper.googlecode.com/svn/trunk/sigmastormhelper.user.js SS2 Install Script] for Sigma Storm 2.
   # Press "Install" (you might have to wait 3 seconds before you can)
   # You're done. Return to [http://www.fallensword.com Fallen Sword] or [http://www.sigmastorm2.com SigmaStorm2]
