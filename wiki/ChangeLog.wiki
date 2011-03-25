@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1349 (TT)==
+  # (minor) FS:  Updated auto update to use jquery dialog functions (i.e. make it work better).
+
 ==Revision 1347 (TT)==
   # (minor) FS:  Fixed dialog not closing after auto update.
 
