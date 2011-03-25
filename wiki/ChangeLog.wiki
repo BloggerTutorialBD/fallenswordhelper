@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1343 (dkw)==
+  # (MAJOR) FS: Combined FSH into one single js file.
+  # (MAJOR) FS: FSH can be installed on Chrome using the same js file. Note that many features are not functioning in Chrome for now.
+
 ==Revision 1338 (jes)==
   # (minor) FS: Prepping for catching of new map
 
