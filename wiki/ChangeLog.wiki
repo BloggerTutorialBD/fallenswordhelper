@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1346 (JES)==
+  # (minor) FS:  Fixed minor issue with last update
+
 ==Revision 1345 (JES)==
   # (minor) FS: Fixed issues with new Map code breaking parts of the FSH.  Still not 100% functional with new interface. Getting Close.
 
