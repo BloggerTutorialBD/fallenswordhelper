@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1345 (JES)==
+  # (minor) FS: Fixed issues with new Map code breaking parts of the FSH.  Still not 100% functional with new interface. Getting Close.
+
 ==Revision 1344 (TT)==
   # (minor) FS: Fixed quick kill not working correct with latest HCS sneaky code change.
   # (minor) FS: Fixed error with GM_setValue.
