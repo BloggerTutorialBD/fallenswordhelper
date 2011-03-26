@@ -1,7 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1350 (TT)==
+==Revision 1353 (TT)==
+  # (minor) FS: Fixed issue where recipies in inventory could break quick wear/drink and quick extract. issue 1143
+
+==Revision 1352 (TT)==
   # (minor) FS: More code cleanup for timeout on GM_functions.
   # (minor) FS: Fix for bug on edit bio screen due to change in HCS's change to onkeypress functionality.
 
