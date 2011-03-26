@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1350 (dkw)==
+  # (minor) FS: Fixed GM_functions error when called from jquery.
+  # (minor) FS: Fixed order of including gmApi and System.
+
 ==Revision 1349 (TT)==
   # (minor) FS:  Updated auto update to use jquery dialog functions (i.e. make it work better).
 
