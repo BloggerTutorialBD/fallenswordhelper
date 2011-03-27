@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1354 (TT)==
+  # (minor) FS: A tweak to the auto update dialog. Hopefully it should close properly after this patch.
+
 ==Revision 1353 (TT)==
   # (minor) FS: Fixed issue where recipies in inventory could break quick wear/drink and quick extract. issue 1143
 
