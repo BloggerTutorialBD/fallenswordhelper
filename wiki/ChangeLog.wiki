@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1362 (TT)==
+  # (minor) FS: Fix to relic calculator to correct % decrease in stats per relic held by guild.
+
 ==Revision 1361 (TT)==
   # (minor) FS: Fix to world screen if you have reinforce enabled (imp counter and buff checker didn't show up).
   # (minor) FS: Code clean up for previous fix for consistency.
