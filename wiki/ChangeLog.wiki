@@ -2,7 +2,7 @@
 =A version by version list of changes made to the script=
 
 ==Revision 1356 (yuuzhan)==
-  #(minor) FS: Quick fix to make most of FSH work with latest update.  More updates coming for fix
+  # (minor) FS: Quick fix to make most of FSH work with latest update.  More updates coming for fix
 
 ==Revision 1355 (TT)==
   # (minor) FS: Fix to view guild page so that all pvp and gvg targets are colored correctly.
