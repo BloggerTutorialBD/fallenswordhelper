@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1355 (TT)==
+  # (minor) FS: Fix to view guild page so that all pvp and gvg targets are colored correctly.
+  # (minor) FS: Fixed error on preferences page so you could not see the GVG highlight checkbox setting correctly.
+
 ==Revision 1354 (TT)==
   # (minor) FS: A tweak to the auto update dialog. Hopefully it should close properly after this patch.
 
