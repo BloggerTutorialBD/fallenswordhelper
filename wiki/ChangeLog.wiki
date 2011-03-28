@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1361 (TT)==
+  # (minor) FS: Fix to world screen if you have reinforce enabled (imp counter and buff checker didn't show up).
+  # (minor) FS: Code clean up for previous fix for consistency.
+
 ==Revision 1359 (yuuzhan)==
   # (minor) FS: Fixed to work with new Tip version
 
