@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1363 (TT)==
+  # (minor) FS: Chrome fix for coloring of crafting on AH page.
+
 ==Revision 1362 (TT)==
   # (minor) FS: Fix to relic calculator to correct % decrease in stats per relic held by guild.
 
