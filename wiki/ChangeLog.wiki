@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1364 (TT)==
+  # (minor) FS: Chrome fix for existing secure trade checker on AH and trade screens.
+  # (minor) FS: FF fix for existing secure trade checker on AH create auction screen.
+  # (minor) FS: Fix for ensp bug on trade and ST pages.
+
 ==Revision 1363 (TT)==
   # (minor) FS: Chrome fix for coloring of crafting on AH page.
 
