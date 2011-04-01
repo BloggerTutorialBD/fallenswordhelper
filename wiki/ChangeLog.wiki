@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1368 (yuuzhan)==
+  # (minor) FS: Fixed the reply button in log screen.
+  # (minor) FS: Upgraded most of the layout functions to jquery.  Should see a slight speed increase.
+
 ==Revision 1366 (dkw)==
   # (minor) FS: Fixed errors in quick buff screen (Added another version of jquery on pages if jquery is not loaded).
 
