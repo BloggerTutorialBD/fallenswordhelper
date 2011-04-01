@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1366 (dkw)==
+  # (minor) FS: Fixed errors in quick buff screen (Added another version of jquery on pages if jquery is not loaded).
+
 ==Revision 1365 (TT)==
   # (minor) FS: Fixed minor error on world transition screens.
   # (minor) FS: Fixed item name coloring on profile>manage screen.
