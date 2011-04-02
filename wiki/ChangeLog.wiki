@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1371 (TT)==
+  # (minor) FS: Fix to recent inventory updates to populate the durability data correctly.
+
 ==Revision 1370 (TT)==
   # (minor) FS: Updated the guild inventory manager to use jquery so it is now faster. Also, it works for chrome.
 
