@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1374 (TT)==
+  # (minor) FS: Fix for both inventory managers where craft and forge might not be correct.
+
 ==Revision 1373 (TT)==
   # (minor) FS: New guild log should work in Chrome now.
   # (minor) FS: Fixed bug in helper if FS box is moved to the LHS.
