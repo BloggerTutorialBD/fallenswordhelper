@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1372 (TT)==
+  # (minor) FS: Fixed bug with both inventory managers where correct data was not being fetched in some cases.
+
 ==Revision 1371 (TT)==
   # (minor) FS: Fix to recent inventory updates to populate the durability data correctly.
 
