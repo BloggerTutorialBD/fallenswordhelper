@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1377 (TT)==
+  # (minor) FS: Another attempt at fixing guild inventory issue.
+  # (minor) FS: Fixed bulk sell when selling from all bags (FF only atm).
+
 ==Revision 1375 (yuuzhan)==
   # (minor) FS: Fixed menu ordering bug.
 
