@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1375 (yuuzhan)==
+  # (minor) FS: Fixed menu ordering bug.
+
 ==Revision 1375 (TT)==
   # (minor) FS: Fix for both inventory managers where craft and forge might not be correct.
   # (minor) FS: Fixed relic empower to level functionality.
