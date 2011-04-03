@@ -1,8 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1374 (TT)==
+==Revision 1375 (TT)==
   # (minor) FS: Fix for both inventory managers where craft and forge might not be correct.
+  # (minor) FS: Fixed relic empower to level functionality.
 
 ==Revision 1373 (TT)==
   # (minor) FS: New guild log should work in Chrome now.
