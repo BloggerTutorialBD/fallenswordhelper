@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1373 (TT)==
+  # (minor) FS: New guild log should work in Chrome now.
+  # (minor) FS: Fixed bug in helper if FS box is moved to the LHS.
+
 ==Revision 1372 (TT)==
   # (minor) FS: Fixed bug with both inventory managers where correct data was not being fetched in some cases.
 
