@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1380 (yuuzhan)==
+  # (minor) FS: Updated some layout functions to jQuery.
+
 ==Revision 1379 (TT)==
   # (minor) FS: Updated bulk sell so it now works with Chrome browser.
 
