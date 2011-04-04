@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1379 (TT)==
+  # (minor) FS: Updated bulk sell so it now works with Chrome browser.
+
 ==Revision 1378 (TT)==
   # (minor) FS: Another attempt at fixing guild inventory issue.
   # (minor) FS: Fixed bulk sell when selling from all bags (FF only atm).
