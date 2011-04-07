@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1386 (TT)==
+  # (minor) FS: Added another potential fix for issue with New Guild Log that prevented the log from finishing loading. Logging added too if there is still an issue.
+  # (minor) FS: Fixed moving the allies and guild info side bars so they moved like they previously did (up not to the LHS).
+
 ==Revision 1385 (dkw)==
   # (minor) SS2: Added some fixes for GM_functions.
   # (minor) SS2: Removed SS2H faction chat (please use the in-game feature).
