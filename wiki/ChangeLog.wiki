@@ -1,6 +1,18 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1385 (dkw)==
+  # (minor) SS2: Added some fixes for GM_functions.
+  # (minor) SS2: Removed SS2H faction chat (please use the in-game feature).
+  # (minor) SS2: Fixed a bug prevent using inventory in hunting mode.
+  # (minor) SS2: Changed autoupdate to only use the main javascript file revision instead of the whole repository (ported).
+  # (minor) SS2: Updated auto update to use jquery dialog functions (i.e. make it work better) (ported). 
+  # (minor) SS2: Changed some texts from "guild" to "faction".
+  # (minor) SS2: Added some fixes for FF4 (do NOT use FF4 yet please).
+  # (minor) SS2: Fixed a bug in faction log coloring.
+  # (minor) SS2: Fixed a bug in parsing inventory when special offer with rewards is on.
+  # (minor) SS2: Changed to show current buffs in the buff dialog in hunting mode.
+
 ==Revision 1384 (TT)==
   # (minor) FS: Fixed issue with New Guild Log that prevented the log from finishing loading.
 
