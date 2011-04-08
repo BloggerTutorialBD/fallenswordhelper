@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1389 (dkw)==
+  # (minor) SS2: Do you have too many skill power while you hunt? Want to cast your class skills on some random online players for fun? Use the newly added "Get random online players" in the buff dialog.
+  # (minor) SS2: Added toggle all class buffs, core buffs in buff dialog.
+
 ==Revision 1387 (dkw)==
   # (minor) FS: Fixed new guild log bug.
 
