@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1396 (TT)==
+  # (minor) FS: Quick buff extras now work for Chrome.
+  # (minor) FS: Kill Streak indicator on world screen fixed for Chrome.
+
 ==Revision 1395 (TT)==
   # (minor) FS: Find Buff and Find Other now work for Chrome. This functionality should be faster now also for FF.
 
