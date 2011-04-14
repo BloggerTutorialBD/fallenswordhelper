@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1397 (TT)==
+  # (minor) FS: Updated relic calculator to use jquery. It should work on Chrome now and be faster.
+
 ==Revision 1396 (TT)==
   # (minor) FS: Quick buff extras now work for Chrome.
   # (minor) FS: Kill Streak indicator on world screen fixed for Chrome.
