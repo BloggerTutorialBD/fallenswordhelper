@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1398 (TT)==
+  # (minor) FS: Empower to level functionality updated to use jquery.
+  # (minor) FS: Fix to new guild log as it sometimes missed updating the first message in the log.
+  # (minor) FS: Fix to the quick buff screen to properly format buffs on the target player.
+
 ==Revision 1397 (TT)==
   # (minor) FS: Updated relic calculator to use jquery. It should work on Chrome now and be faster.
 
