@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1400 (yuuz)==
+  # (minor) FS: Added Check All button on the guild tag screen
+  # (minor) FS: Fixed false coloring of log for similar names
+
 ==Revision 1399 (TT)==
   # (minor) FS: Relic calc - stats for cloaked players now default to level * 10 rather than a flat 5000 to be more realistic (e.g. assume 1k player has 10k att/def/arm/dam).
 
