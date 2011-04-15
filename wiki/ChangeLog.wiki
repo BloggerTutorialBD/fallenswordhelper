@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1399 (TT)==
+  # (minor) FS: Relic calc - stats for cloaked players now default to level * 10 rather than a flat 5000 to be more realistic (e.g. assume 1k player has 10k att/def/arm/dam).
+
 ==Revision 1398 (TT)==
   # (minor) FS: Empower to level functionality updated to use jquery.
   # (minor) FS: Fix to new guild log as it sometimes missed updating the first message in the log.
