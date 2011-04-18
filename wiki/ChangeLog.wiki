@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1401 (dkw)==
+  # (minor) FS: Ported Quest Helper from SS2. Next stages of each quest are retrieved from the Ultimate Guide and displayed at the end of the quest details.
+
 ==Revision 1400 (yuuz)==
   # (minor) FS: Added Check All button on the guild tag screen
   # (minor) FS: Fixed false coloring of log for similar names
