@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1401 (TT)==
+  # (minor) FS: Fixed message link on report page.
+
 ==Revision 1401 (dkw)==
   # (minor) FS: Ported Quest Helper from SS2. Next stages of each quest are retrieved from the Ultimate Guide and displayed at the end of the quest details.
 
