@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1405 (dkw)==
+  # (Major) FS: Added master map creator tool for your own preference of level. TRY IT OUT from Character -> Create Maps. Algorithm ported from SS2 with some rewritten interface. 
+  # (minor) FS: Fixed bug in character level retrieval.
+
 ==Revision 1403 (yuuz)==
   # (minor) FS: Fixed Select all Thistles, and added Beetlejuice and mortar and pestle.
   # (minor) FS: Added a "bid on all" button that will trigger all the bid no refresh buttons on AH page.  Confirmed OK with Hoof.
