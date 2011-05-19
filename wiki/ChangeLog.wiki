@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1406 (yuuz)==
+  # (minor) FS: Added quick drop links to the Inventory Manager (not guild).  Enable Show Quick Drop links to see.
+
 ==Revision 1405 (dkw)==
   # (Major) FS: Added master map creator tool for your own preference of level. TRY IT OUT from Character -> Create Maps. Algorithm ported from SS2 with some rewritten interface. 
   # (minor) FS: Fixed bug in character level retrieval.
