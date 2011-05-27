@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1407 (TT)==
+  # (minor) FS: Fixed the logic that calculates the total cost of a marketplace listing. Previously it did not take the amount you were selling into account when adding on the cost of the request fee. 
+
 ==Revision 1406 (yuuz)==
   # (minor) FS: Added quick drop links to the Inventory Manager (not guild).  Enable Show Quick Drop links to see.
 
