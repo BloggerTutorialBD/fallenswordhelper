@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1409 (dkw)==
+  # (minor) FS: Added Inventory Manager Counter filtered by AH Quick Search (issue 1109), accessed from Quick Wear Manager, 2nd tab (shortcut 'v'). A feature of auto-checking AH price will be added later.
+
 ==Revision 1408 (dkw)==
   # (minor) FS: Fixed tooltip in Check for Best Damage screen.
 
