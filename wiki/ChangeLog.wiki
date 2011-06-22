@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1410 (TT)==
+  # (minor) FS and SS2: Fixed code to work with FF5.
+
 ==Revision 1409 (dkw)==
   # (minor) FS: Added Inventory Manager Counter filtered by AH Quick Search (issue 1109), accessed from Quick Wear Manager, 2nd tab (shortcut 'v'). A feature of auto-checking AH price will be added later.
 
