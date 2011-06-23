@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1411 (TT)==
+  # (minor) FS and SS2: Fixed issue with quick wear/drink (and other profile screen widgets) in FF5.
+
 ==Revision 1410 (TT)==
   # (minor) FS and SS2: Fixed code to work with FF5.
 
