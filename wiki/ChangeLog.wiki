@@ -1,6 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1412 (TT)==
+  # (minor) FS and SS2: Fixed issue with quick wear/take (and other guild manage screen widgets) in FF5.
+  # (minor) FS: Fixed an issue with some images not being pulled from the cachefly site (e.g. bulk sell list for newer potions). Should also be faster.
+  # (minor) FS: Fixed mini map in chrome ('n' to bring it up, 'N' to move after path is set).
+  # (minor) FS: Removed links to www.fallenswordguide.com as they are no longer needed.
+  # (minor) FS: Fixed quest book sort store functionality in chrome.
+
 ==Revision 1411 (TT)==
   # (minor) FS and SS2: Fixed issue with quick wear/drink (and other profile screen widgets) in FF5.
 
