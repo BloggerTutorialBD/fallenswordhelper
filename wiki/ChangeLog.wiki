@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1413 (dkw)==
+  # (minor) SS2: Removed the shortkey to kill HK to prevent an accidental hit. Thanks Joosy.
+
 ==Revision 1412 (TT)==
   # (minor) FS and SS2: Fixed issue with quick wear/take (and other guild manage screen widgets) in FF5.
   # (minor) FS: Fixed an issue with some images not being pulled from the cachefly site (e.g. bulk sell list for newer potions). Should also be faster.
