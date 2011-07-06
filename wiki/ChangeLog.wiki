@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1414 (dkw)==
+  # (minor) SS2: Fixed personal log and squad pages broken after HCS updates.
+
 ==Revision 1413 (dkw)==
   # (minor) SS2: Removed the shortkey to kill HK to prevent an accidental hit. Thanks Joosy.
 
