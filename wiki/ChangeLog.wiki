@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1419 (TT)==
+  # (minor) FS: Fixed quest book next steps functionality to pull data from the UFSG. Added option to disable this functionality.
+
 ==Revision 1417 (TT)==
   # (minor) FS: Fixed quick buff logic to deal with new info in mouseover for potions that cannot be removed by spell leech or spell breaker.
 
