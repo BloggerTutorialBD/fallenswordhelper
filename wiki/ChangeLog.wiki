@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1421 (TT)==
+  # (minor) FS: Fixed issues on profile manage backpack and guild store manage backpack after the new guild store was added by HCS. Check all should now work for example.
+  # (minor) FS: Added link on drop items pages to link directly to the UFSG page for that item.
+
 ==Revision 1420 (TT)==
   # (minor) FS: Removed quick take/wear code from guild manage screen as new guild store has this functionality now.
   # (minor) FS: Enhanced link from world screen to the realm on UFSG so it goes directly to the map.
