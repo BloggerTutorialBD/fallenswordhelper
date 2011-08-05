@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1420 (TT)==
+  # (minor) FS: Removed quick take/wear code from guild manage screen as new guild store has this functionality now.
+  # (minor) FS: Enhanced link from world screen to the realm on UFSG so it goes directly to the map.
+  # (minor) FS: Fixed bug on the quest book pages that fetches the next step of quest data so it shows up correctly now.
+  # (minor) FS: Removed some unused code on the guild manage page that blocked the page jump down to the guild store.
+
 ==Revision 1419 (TT)==
   # (minor) FS: Fixed quest book next steps functionality to pull data from the UFSG. Added option to disable this functionality.
 
