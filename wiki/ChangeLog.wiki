@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1423 (TT)==
+  # (minor) FS: Fixed the FSH guild inventory list so it will now fetch the guild inventory list. It is faster now too.
+
 ==Revision 1422 (TT)==
   # (MAJOR) FS: Fixed performance issue with guild list caching (identified by LawDog26). Without this update, your FSH will run slower and cause more server hits. Strongly recommended update. Also optimized the code so it is now faster.
   # (minor) FS: Fixed the stamina cost for Fist Fight (was 35, now 30).
