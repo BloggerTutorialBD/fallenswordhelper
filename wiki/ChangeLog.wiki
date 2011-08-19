@@ -1,11 +1,15 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1425 (TT)==
+  # (minor) FS: Backed out changes regarding loading images as many people were experiencing issues. Will do some more testing and add this back in later.
+
 ==Revision 1424 (TT)==
   # (major) FS: Based on a suggestion from from LawDog26, changed the logic behind the scenes to not load images for some background tasks. Please notify Tangtop if you see a FSH function not working as expected. Some things should run faster after this fix.
   # (minor) FS: Fixed FSBox log link position and removed the Report Msg link from the log.
   # (minor) FS: Fixed wiki link for quests. issue 1193
   # (minor) FS: Fixed mini map after HCS titan map fix.
+  # (minor) FS: Fixed guild inventory issue if there is a special offer with potion.
 
 ==Revision 1423 (TT)==
   # (minor) FS: Fixed the FSH guild inventory list so it will now fetch the guild inventory list. It is faster now too.
