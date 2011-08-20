@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1426 (TT)==
+  # (minor) FS: Fix mini map to show POIs (points of interest).
+
 ==Revision 1425 (TT)==
   # (minor) FS: Backed out changes regarding loading images as many people were experiencing issues. Will do some more testing and add this back in later.
 
