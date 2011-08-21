@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1427 (TT)==
+  # (minor) FS: Attempt to fix the keyboard issue in FF4+. Hopefully someone can test this and see if after this change the keyboard commands stop working and require a FF restart.
+
 ==Revision 1426 (TT)==
   # (minor) FS: Fix mini map to show POIs (points of interest).
 
