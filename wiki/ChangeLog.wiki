@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1428 (TT)==
+  # (minor) FS: Fixed to Move FSBox to LHS logic which failed if the news post or a profile post had the text 'FSBox' in bold in it.
+
 ==Revision 1427 (TT)==
   # (minor) FS: Attempt to fix the keyboard issue in FF4+. Hopefully someone can test this and see if after this change the keyboard commands stop working and require a FF restart.
 
