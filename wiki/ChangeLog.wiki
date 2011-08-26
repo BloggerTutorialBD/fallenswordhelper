@@ -2,6 +2,9 @@
 =A version by version list of changes made to the script=
 
 ==Revision 1428 (TT)==
+  # (minor) FS: Looks like keyboard fix for FF broke the Chrome version so I put logic in to make Chrome work again.
+
+==Revision 1428 (TT)==
   # (minor) FS: Fixed to Move FSBox to LHS logic which failed if the news post or a profile post had the text 'FSBox' in bold in it.
 
 ==Revision 1427 (TT)==
