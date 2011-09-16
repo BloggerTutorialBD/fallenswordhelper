@@ -1,7 +1,17 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1428 (TT)==
+==Revision 1430 (TT)==
+  # (minor) FS: Fixed logic to position "Ask for buffs" button in bio. Note you will need to change your tag from {cmd} to [cmd] to make it work right. issue 1194
+  # (minor) FS: Added logic to fix the quick buff links while in hunting mode.
+  # (minor) FS: Added ignore link to FSBox. issue 1197
+  # (minor) FS: Added logic to process Sanctuary buff for Armor while fetching stats for relics. issue 1203
+  # (minor) FS: Fixed a couple of minor buffs regarding fetching group stats for relics.
+  # (minor) FS: Fixed arena filters for matches over level 1000.
+  # (minor) FS: Updated relic list for mouseover. Hopefully HCS can implement this though and we can remove it from the helper. issue 1186
+  # (minor) FS: Fixed a bug with findbuffs that would cause players older than 5 mins to show up. Also tried to make tooltip easier to read.
+
+==Revision 1429 (TT)==
   # (minor) FS: Looks like keyboard fix for FF broke the Chrome version so I put logic in to make Chrome work again.
 
 ==Revision 1428 (TT)==
