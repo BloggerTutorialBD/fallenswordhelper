@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1431 (TT)==
+  # (minor) FS: Tweaked the sum item stats functionality to make it easier to read and easier to compare item totals (not counting set bonuses).
+
 ==Revision 1430 (TT)==
   # (minor) FS: Fixed logic to position "Ask for buffs" button in bio. Note you will need to change your tag from {cmd} to [cmd] to make it work right. issue 1194
   # (minor) FS: Added logic to fix the quick buff links while in hunting mode.
