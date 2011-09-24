@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1432 (TT)==
+  # (minor) FS: Chrome - Fixed the recipe manager.
+  # (minor) FS: Removed the line blocking the helper from the alpha site. Use at your own risk. Nothing has been tested to any great extent and all features on the world screen no longer work.
+
 ==Revision 1431 (TT)==
   # (minor) FS: Tweaked the sum item stats functionality to make it easier to read and easier to compare item totals (not counting set bonuses).
 
