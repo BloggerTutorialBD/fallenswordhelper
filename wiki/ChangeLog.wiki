@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1433 (TT)==
+  # (minor) FS: (NewUI) - Fixed features which use the notepad page (new guild log, inventory manager, etc).
+  # (minor) FS: (NewUI) - Fixed widgets not showing up on the world screen (still need to fix ufsg link - waiting for HCS input)
+  # (minor) FS: (NewUI) - Fixed FSH helper menu (top left) to access all the helper features
+
 ==Revision 1432 (TT)==
   # (minor) FS: Chrome - Fixed the recipe manager.
   # (minor) FS: Removed the line blocking the helper from the alpha site. Use at your own risk. Nothing has been tested to any great extent and all features on the world screen no longer work.
