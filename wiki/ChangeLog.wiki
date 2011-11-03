@@ -1,7 +1,14 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1434 (TT)==
+==Revision 1437 (TT)==
+  # (minor) FS: Minor tweak to info screen for auto updater so it shows what updates and in what version
+  # (minor) FS: Fixed ignore and log links in FS box for new interface
+  # (minor) FS: Fixed double page arrows in AH with new interface
+  # (minor) FS: Fixed group screen (join all groups < x, fetch group stats), also fixed join all groups notification for new interface
+  # (minor) FS: Fixed temple notification for new interface
+
+==Revision 1436 (TT)==
   # (minor) FS: Fixed auto updater (crude but it works) - you need this version before it will start working again though
 
 ==Revision 1433 (TT)==
