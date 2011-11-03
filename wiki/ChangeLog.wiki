@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1434 (TT)==
+  # (minor) FS: Fixed auto updater (crude but it works) - you need this version before it will start working again though
+
 ==Revision 1433 (TT)==
   # (minor) FS: (NewUI) - Fixed features which use the notepad page (new guild log, inventory manager, etc).
   # (minor) FS: (NewUI) - Fixed widgets not showing up on the world screen (still need to fix ufsg link - waiting for HCS input)
