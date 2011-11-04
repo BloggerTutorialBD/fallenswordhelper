@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1438 (TT)==
+  # (minor) FS: Minor fix to logic on the UFSG from the changes made in r1436 to make it work again
+
 ==Revision 1437 (TT)==
   # (minor) FS: Minor tweak to info screen for auto updater so it shows what updates and in what version
   # (minor) FS: Fixed ignore and log links in FS box for new interface
