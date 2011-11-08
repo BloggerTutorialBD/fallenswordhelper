@@ -1,15 +1,22 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1439 (TT)==
+  # (minor) FS: (New UI) Updated menu helper links for new UI.
+  # (minor) FS: (New UI) Quick and dirty fix for the quick links for new UI.
+  # (minor) FS: (New UI) Fixed max stamina time calculator for new UI.
+  # (minor) FS: (New UI) Fixed bug with new guild log for new UI.
+  # (minor) FS: Tweaked helper menu layout slightly.
+
 ==Revision 1438 (TT)==
   # (minor) FS: Minor fix to logic on the UFSG from the changes made in r1436 to make it work again
 
 ==Revision 1437 (TT)==
   # (minor) FS: Minor tweak to info screen for auto updater so it shows what updates and in what version
-  # (minor) FS: Fixed ignore and log links in FS box for new interface
-  # (minor) FS: Fixed double page arrows in AH with new interface
-  # (minor) FS: Fixed group screen (join all groups < x, fetch group stats), also fixed join all groups notification for new interface
-  # (minor) FS: Fixed temple notification for new interface
+  # (minor) FS: (New UI) Fixed ignore and log links in FS box for new interface
+  # (minor) FS: (New UI) Fixed double page arrows in AH with new interface
+  # (minor) FS: (New UI) Fixed group screen (join all groups < x, fetch group stats), also fixed join all groups notification for new interface
+  # (minor) FS: (New UI) Fixed temple notification for new interface
 
 ==Revision 1436 (TT)==
   # (minor) FS: Fixed auto updater (crude but it works) - you need this version before it will start working again though
