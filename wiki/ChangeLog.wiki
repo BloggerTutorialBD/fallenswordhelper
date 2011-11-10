@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1441 (TT)==
+  # (minor) FS: (New UI) Fixed sound notification on log message for new UI
+  # (minor) FS: (New UI) Fixed guild info widgets for new UI
+
 ==Revision 1440 (TT)==
   # (minor) FS: Fixed world screen widgets from changes made in r1433 and fixed UFSG realmId link for new UI.
 
