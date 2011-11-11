@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1443 (TT)==
+  # (minor) FS: (New UI) Fixed quick buff size from guild info and allies links on new UI
+  # (minor) FS: (New UI) Fixed quick buff sustain and fury caster widgets on new UI
+  # (minor) FS: Added Severe Condition and Nightmare Visage default buff levels to quick buff screen
+
 ==Revision 1442 (TT)==
   # (minor) FS: (New UI) Fixed creature evaluator for new UI
   # (minor) FS: (New UI) Fixed do not kill list coloring on world screen for new UI. However quick kill still broken (working on it).
