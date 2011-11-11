@@ -1,8 +1,14 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1446 (TT)==
+  # (minor) FS: (New UI) Fixed find buffs/other for new UI
+  # (minor) FS: (New UI) Fixed bug in critter evaluator for new UI
+  # (minor) FS: (New Map) Added code to not interfere with repair or action refresh from help
+
 ==Revision 1445 (TT)==
   # (minor) FS: (New UI) Fixed quick kill for new UI
+  # (minor) FS: (New UI) Fixed auto walk also for new UI?
 
 ==Revision 1444 (TT)==
   # (minor) FS: (New UI) Fixed issue where RHS sidebar sometimes showed gibberish
