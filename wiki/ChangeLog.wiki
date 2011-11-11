@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1444 (TT)==
+  # (minor) FS: (New UI) Fixed issue where RHS sidebar sometimes showed gibberish
+  # (minor) FS: (New UI) Tweaked quick buff so the buffs don't appear to jump down as data comes in
+  # (minor) FS: Changed links for bound items so it auto searches AH without confirmation
+  # (minor) FS: Changed links for container items asks if you want to search the AH (if not it allows you to open the container)
+
 ==Revision 1443 (TT)==
   # (minor) FS: (New UI) Fixed quick buff size from guild info and allies links on new UI
   # (minor) FS: (New UI) Fixed quick buff sustain and fury caster widgets on new UI
