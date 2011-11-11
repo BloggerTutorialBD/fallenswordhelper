@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1445 (TT)==
+  # (minor) FS: (New UI) Fixed quick kill for new UI
+
 ==Revision 1444 (TT)==
   # (minor) FS: (New UI) Fixed issue where RHS sidebar sometimes showed gibberish
   # (minor) FS: (New UI) Tweaked quick buff so the buffs don't appear to jump down as data comes in
@@ -10,6 +13,7 @@
 ==Revision 1443 (TT)==
   # (minor) FS: (New UI) Fixed quick buff size from guild info and allies links on new UI
   # (minor) FS: (New UI) Fixed quick buff sustain and fury caster widgets on new UI
+  # (minor) FS: (New UI) Fixed guild inventory to pick up report page
   # (minor) FS: Added Severe Condition and Nightmare Visage default buff levels to quick buff screen
 
 ==Revision 1442 (TT)==
