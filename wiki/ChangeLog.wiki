@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1448 (TT)==
+  # (minor) FS: (New UI - chrome) Fixed menu item sizes for Chrome on new UI
+  # (minor) FS: (New UI) Fixed move FS box, move guild info and move online allies boxes for new UI
+  # (minor) FS: (New UI) Fixed widgets for online allies for new UI
+  # (minor) FS: (Chrome) Fixed quick extract for Chrome
+
 ==Revision 1447 (TT)==
   # (minor) FS: (New UI) Fixed quick buff detection of self on new UI
   # (minor) FS: (New UI) Fixed arena widgets on new UI
