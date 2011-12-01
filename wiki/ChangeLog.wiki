@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1451 (TT)==
+  # (minor) FS: (New UI) Modified how quick links show on the screen so they do not get in the way of other text for the new UI
+  # (minor) FS: (New UI) Fixed bounty widgets for new UI
+  # (minor) FS: (New UI) Fixed allies/enemies list for new UI (although you should use the HCS version for allies list until they add enemies to it also)
+
 ==Revision 1450 (TT)==
   # (minor) FS: Removed helper code for relic list mouseover as HCS version now works.
   # (minor) FS: Removed helper code for guild info list to only has message icon for self as HCS version works.
