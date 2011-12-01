@@ -1,6 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1450 (TT)==
+  # (minor) FS: Removed helper code for relic list mouseover as HCS version now works.
+  # (minor) FS: Removed helper code for guild info list to only has message icon for self as HCS version works.
+  # (minor) FS: (New UI) Fixed footprints for new UI (old map)
+  # (minor) FS: (New UI) Enhanced Helper Menu so it now follows you down the page if you scroll down.
+  # (minor) FS: (New UI - FF3.6) added fix where helper with new UI would sometimes not load (still looking into this one, this is a temp fix)
+
 ==Revision 1449 (TT)==
   # (minor) FS: (New UI - chrome) Fix for double move on keypress on new UI (old map).
 
