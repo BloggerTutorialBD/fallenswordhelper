@@ -2,6 +2,10 @@
 =A version by version list of changes made to the script=
 
 ==Revision 1452 (TT)==
+  # (minor) FS: (New UI) Fixed code so that you can see scout tower data on the titan log page
+  # (minor) FS: (New UI - New Map) Enabled the combat evaluator to the creature dialog on the world screen
+
+==Revision 1452 (TT)==
   # (minor) FS: (New UI) Changed quick links so it always shows open and can be moved around the screen. You can also change where it shows up by default on the preferences page.
   # (minor) FS: Added an option to disable the helper menu and quick links moving as you scroll down the page (default enabled).
 
