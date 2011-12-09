@@ -1,7 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1452 (TT)==
+==Revision 1454 (TT)==
+  # (minor) FS: (New Map) Implemented do-not-kill list
+  # (minor) FS: (Old UI) Changed helper menu and quick links to look the same on both old and new UI
+
+==Revision 1453 (TT)==
   # (minor) FS: (New UI) Fixed code so that you can see scout tower data on the titan log page
   # (minor) FS: (New UI - New Map) Enabled the combat evaluator to the creature dialog on the world screen
 
