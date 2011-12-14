@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+
+==Revision 1456 (yuuzhan)==
+  # (minor) FS: small fix/upgrade to get fix fetching the info box text
+
 ==Revision 1455 (TT)==
   # (minor) FS: (New UI) Fixed link on guild store items page
   # (minor) FS: Fixed it so you do not need helper menu enabled to have quick links enabled
