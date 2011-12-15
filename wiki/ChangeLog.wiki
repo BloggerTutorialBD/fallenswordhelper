@@ -2,7 +2,7 @@
 =A version by version list of changes made to the script=
 
 
-==Revision 1457 (yuuzhan)==
+==Revision 1458 (yuuzhan)==
   # (minor) FS: Small fix to quick wear / quick drink / etc functions
   # (minor) FS: Fixed FSH settigns page display issue (still issues in chrome)
   # (major) FS: Updated guild inventory manager (no longer cached, live, many more options upon clicking on item)
