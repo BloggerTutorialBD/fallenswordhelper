@@ -2,6 +2,17 @@
 =A version by version list of changes made to the script=
 
 
+==Revision 1457 (yuuzhan)==
+  # (minor) FS: Small fix to quick wear / quick drink / etc functions
+  # (minor) FS: Fixed FSH settigns page display issue (still issues in chrome)
+  # (major) FS: Updated guild inventory manager (no longer cached, live, many more options upon clicking on item)
+  # (major) FS: Updated player inventory manager (no longer cached, live, many more options upon clicking on item)
+  # (major) FS: Updated ah bulk posting (much more dynamic, can sell different types of items at one time)
+  # (major) FS: Updated quick extract (can hide items in ST to not extract them, no longer shows non resources)
+  # (major) FS: Updated trade screens (much quicker and more dynamic.  bags now show tagged items)
+  # (minor) FS: Fixed arena sort issue
+  # (minor) FS: Added yuuzhan's FSH Log Parser to the combat log page
+
 ==Revision 1456 (yuuzhan)==
   # (minor) FS: small fix/upgrade to get fix fetching the info box text
 
