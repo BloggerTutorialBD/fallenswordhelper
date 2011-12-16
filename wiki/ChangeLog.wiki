@@ -1,6 +1,8 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1459 (yuuzhan)==
+  # (minor) FS: Small modification to guild report - now can determine who is wearing it.
 
 ==Revision 1458 (yuuzhan)==
   # (minor) FS: Small fix to quick wear / quick drink / etc functions
