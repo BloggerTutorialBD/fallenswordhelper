@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1461 (yuuzhan)==
+  # (minor) FS: quick fix to fix FSH after latest HCS update
+
 ==Revision 1459 (yuuzhan)==
   # (minor) FS: Small modification to guild report - now can determine who is wearing it.
 
