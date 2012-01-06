@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1462 (yuuzhan)==
+  # (minor) FS: Upgraded guild inventory page to show who is wearing the item.
+  # (minor) FS: Added a quick wear function to player inventory information screen.
+
 ==Revision 1461 (yuuzhan)==
   # (minor) FS: quick fix to fix FSH after latest HCS update
 
