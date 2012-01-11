@@ -1,6 +1,15 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1463 (yuuzhan)==
+  # (major) FS: Note to everyone: We no longer support the Old UI.  Please upgrade to the new UI in the prefreneces screen.  All bug reports should indicate that you are using the new UI to speed up debugging.
+  # (minor) FS: Fixed recall from BP or GS in guild inventory screen
+  # (minor) FS: Added "L" shortcut to log screen
+  # (minor) FS: Added a limit to how many items to select in trade screens
+  # (minor) FS: cleaned up code
+  # (minor) FS: Removed following options: hide top banner, show ST/Date at top, Show BP Slots In Profile
+  # (major) FS/SS2: Cleaned up the issue tracker. Closed over 200 old/irrelevant tickets.  If you have an issue that is still an issue, please re-submit your problem / suggestion.
+
 ==Revision 1462 (yuuzhan)==
   # (minor) FS: Upgraded guild inventory page to show who is wearing the item.
   # (minor) FS: Added a quick wear function to player inventory information screen.
