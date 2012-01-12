@@ -1,8 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1466 (yuuzhan)==
+  # (minor) FS: Fixed settings in chrome
+  # (minor) FS: Cleaned up some more code
+
 ==Revision 1465 (yuuzhan)==
-  # (major) FS: Fixed bulk sell when triggering from Manage Backpack (Issue 1230)
+  # (minor) FS: Fixed bulk sell when triggering from Manage Backpack (Issue 1230)
   # (minor) FS: Added chime sound on new guild chat messages (Issue 1218)
 
 ==Revision 1464 (yuuzhan)==
