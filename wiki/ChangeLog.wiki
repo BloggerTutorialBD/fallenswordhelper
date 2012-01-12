@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1464 (yuuzhan)==
+  # (major) FS: Solved guild sorting issue (issue 1228)
+  # (minor) FS: Fixed a bug in the quick buy function from shops
+  # (minor) FS: Added quick buy from Bazaar in previous update
+
 ==Revision 1463 (yuuzhan)==
   # (major) FS: Note to everyone: We no longer support the Old UI.  Please upgrade to the new UI in the prefreneces screen.  All bug reports should indicate that you are using the new UI to speed up debugging.
   # (minor) FS: Fixed recall from BP or GS in guild inventory screen
