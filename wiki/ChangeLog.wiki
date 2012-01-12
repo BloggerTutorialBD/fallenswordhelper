@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1465 (yuuzhan)==
+  # (major) FS: Fixed bulk sell when triggering from Manage Backpack (Issue 1230)
+  # (minor) FS: Added chime sound on new guild chat messages (Issue 1218)
+
 ==Revision 1464 (yuuzhan)==
   # (major) FS: Solved guild sorting issue (issue 1228)
   # (minor) FS: Fixed a bug in the quick buy function from shops
