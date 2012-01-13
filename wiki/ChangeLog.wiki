@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1467 (yuuzhan)==
+  # (minor) FS: Fixed issue with some of the quick links (issue 1231)
+  # (minor) FS: fixed FSbox link color after you move it to the Left
+
 ==Revision 1466 (yuuzhan)==
   # (minor) FS: Fixed settings in chrome
   # (minor) FS: Cleaned up some more code
