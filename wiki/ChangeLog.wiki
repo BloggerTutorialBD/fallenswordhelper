@@ -1,6 +1,11 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1468 (yuuzhan)==
+  # (minor) FS: Increased size of "Send X" link
+  # (minor) FS: Removed FSH "Take All" from mail box, added hard link to use HCS function at top
+  # (major) FS: Added combat logging for the new map system.  **DISLAMER** currently in beta stages, use at own risk.  Any debug info send to yuuzhan for further investigation
+
 ==Revision 1467 (yuuzhan)==
   # (minor) FS: Fixed issue with some of the quick links (issue 1231)
   # (minor) FS: fixed FSbox link color after you move it to the Left
