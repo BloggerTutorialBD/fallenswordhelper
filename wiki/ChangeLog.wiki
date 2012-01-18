@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1469 (yuuzhan)==
+  # (minor) FS: Fixed a date parsing bug in chrome that caused functions to fail (buff log, combat logs)
+  # (minor) FS: Fixed minor bug in chome combat logging.
+
 ==Revision 1468 (yuuzhan)==
   # (minor) FS: Increased size of "Send X" link
   # (minor) FS: Removed FSH "Take All" from mail box, added hard link to use HCS function at top
