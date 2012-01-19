@@ -1,6 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1471 (yuuzhan)==
+  # (major) FS: Added a settings export / import feature
+  # (major) FS: Added world widgits to new map page.
+  # (minor) FS: Fixed bug with new IMP highlighting
+  # (minor) FS: Fixed sorting glitch on inventory manager
+  # (minor) FS: Fixed wav icon not displaying on Chrome
+
 ==Revision 1470 (yuuzhan)==
   # (minor) FS: Fixed a date parsing bug in chrome that caused functions to fail (buff log, combat logs)
   # (minor) FS: Fixed minor bug in chome combat logging.
