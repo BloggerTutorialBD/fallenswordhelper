@@ -1,6 +1,18 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1472 (yuuzhan)==
+  # (minor) FS: Added a quick take by type function
+  # (minor) FS: Added a quick invent function
+  # (minor) FS: Fixed Death Wish typo
+  # (minor) FS: Dramatically reduced size of new combat log.
+  # (minor) FS: Added send gold on new map (gold bar will highligh red if you have more gold then your quick send amount) (Issue 912)
+  # (minor) FS: Fixed duplicating wiki/guide icons on new map (Issue 1238)
+  # (minor) FS: Fixed stam count when you use HCSs select all button (Issue 1239)
+  # (minor) FS: Added buff links to guild manage page (each person, and mass buff) (issue 1057)
+  # (minor) FS: Added quick self buffing from quick buff screen (Bum, Ext, ReInf) (Issue 1217)
+  # (minor) FS: Titans in the Land of the Element are no longer stored in your titan log (Issue 1206)
+
 ==Revision 1471 (yuuzhan)==
   # (major) FS: Added a settings export / import feature
   # (major) FS: Added world widgits to new map page.
