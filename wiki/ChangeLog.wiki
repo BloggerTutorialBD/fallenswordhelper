@@ -1,6 +1,16 @@
 #labels Featured
 =A version by version list of changes made to the script=
  
+==Revision 1474 (yuuzhan)==
+  # (minor) FS: Self bio parsing now works if you visit from guild link (Issue 1246)
+  # (minor) FS: Counting buff stam now works properly in firefox when using HCS Select All (Issue 1244)
+  # (minor) FS: Added orange imp highlighting for 1 imp left (Issue 1245)
+  # (minor) FS: Fixed issue of duplicating icons on world map when moving from master realm back to a ralm (Issue 1243)
+  # (minor) FS: Find buffs now sorted alphebetically (Issue 1073)
+  # (minor) FS: Changed allied guild colors (Issue 1008)
+  # (minor) FS: Bound the repair action to aslo refresh the action list (new Map)
+  # (minor) FS: Bulk list will no longer try to sell guild locked or bound items.
+
 ==Revision 1473 (yuuzhan)==
   # (minor) FS: Fixed minor bug with quick send gold on new map
   # (minor) FS: Tested new combat loggging, updated combat log page and yuuzhan's log parser to give statistics for new logs.
