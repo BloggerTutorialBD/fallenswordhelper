@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
  
+==Revision 1475 (yuuzhan)==
+  # (minor) FS: Small buff log bug fix
+
 ==Revision 1474 (yuuzhan)==
   # (minor) FS: Self bio parsing now works if you visit from guild link (Issue 1246)
   # (minor) FS: Counting buff stam now works properly in firefox when using HCS Select All (Issue 1244)
