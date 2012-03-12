@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
- 
+
+==Revision 1477 (yuuzhan)==
+  # (minor) FS: Fixed quick buy from store (old map) (Issue 1257)
+  # (minor) FS: Fixed long auction house quick search affecting auction house display with long short names. (issue 1249)
+
 ==Revision 1475 (yuuzhan)==
   # (minor) FS: Small buff log bug fix
 
