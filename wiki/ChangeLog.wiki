@@ -2,6 +2,9 @@
 =A version by version list of changes made to the script=
 
 ==Revision 1477 (yuuzhan)==
+  # (minor) FS: Added Stam calculations to buff costs in profile.  See yuuzhan's profile for an example. (Issue 941)
+  
+  ==Revision 1477 (yuuzhan)==
   # (minor) FS: Fixed quick buy from store (old map) (Issue 1257)
   # (minor) FS: Fixed long auction house quick search affecting auction house display with long short names. (issue 1249)
 
