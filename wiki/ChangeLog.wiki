@@ -1,7 +1,7 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1477 (yuuzhan)==
+==Revision 1479 (yuuzhan)==
   # (minor) FS: Added Stam calculations to buff costs in profile.  See yuuzhan's profile for an example. (Issue 941)
   
   ==Revision 1477 (yuuzhan)==
