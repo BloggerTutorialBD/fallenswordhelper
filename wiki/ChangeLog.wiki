@@ -1,6 +1,17 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1480 (yuuzhan)==
+  # (minor) FS: Updated all the custom fs pages to point to cmd=notepad&blank=1 for faster load times
+  # (minor) FS: Added a custimzation for select all similar items on send screen
+  # (minor) FS: Fixed GvG highlighting (Issue 1273)
+  # (minor) FS: Added PvP Arena filtering (Issue 1271)
+  # (minor) FS: Bolded various sub-sections of settings page.
+  # (minor) FS: Fixed the count components function
+  # (minor) FS: Fixed quick invent.
+  # (minor) FS: Removed "take all" from guild inventory.
+  # (minor) FS: Reminder: add any bugs you find to http://code.google.com/p/fallenswordhelper/ to ensure they get looked at.
+
 ==Revision 1479 (yuuzhan)==
   # (minor) FS: Added Stam calculations to buff costs in profile.  See yuuzhan's profile for an example. (Issue 941)
   
