@@ -1,6 +1,17 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+
+==Revision 1481 (yuuzhan)==
+  # (minor) FS: Fixed GvG highlihging in Firefox (Issue 1286)
+  # (minor) FS: Fixed Online Indicators in Guild Manage Page
+  # (minor) FS: Fixed PvP arena hiding level 1,000 and above
+  # (minor) FS: Fixed Wanted Bountes (Issue 1282)
+  # (minor) FS: Fixed Allies/Enemies and many more functions in chrome
+  # (minor) FS: Fixed guild inventory stats not displaying correctly (Issue 1261)
+  # (minor) FS: Fixed arena display bug (Issue 1268)
+  # (minor) FS: Reminder: add any bugs you find to http://code.google.com/p/fallenswordhelper/ to ensure they get looked at.
+
 ==Revision 1480 (yuuzhan)==
   # (minor) FS: Updated all the custom fs pages to point to cmd=notepad&blank=1 for faster load times
   # (minor) FS: Added a custimzation for select all similar items on send screen
