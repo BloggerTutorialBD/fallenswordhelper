@@ -1,7 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1482 (yuuzhan)==
+==Revision 1483 (yuuzhan)==
+  # (minor) FS: Added support for new 1600 buffs (Thanks aa0007)
+  # (minor) FS: Fixed Extractor II being highlighted when only Extractor is active
+  # (minor) ALL: Sorry for the lack of updates.  As most of you know yuuzhan is the only one updating this and he now has a 7 month old.  Updating when I can.
+
+  ==Revision 1482 (yuuzhan)==
   # (minor) FS: Fixed Manage backpack links not displaying (Issue 1289 1290 1291 1293)
   # (minor) FS: Fixed move to folder not refreshing fast enough
   # (minor) FS: Reminder: add any bugs you find to http://code.google.com/p/fallenswordhelper/ to ensure they get looked at.
