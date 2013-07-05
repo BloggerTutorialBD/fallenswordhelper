@@ -1,8 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
-==Revision 1483 (yuuzhan)==
+==Revision 14834 (yuuzhan)==
   # (minor) FS: Added support for new 1600 buffs (Thanks aa0007)
+  # (minor) FS: Fixed Armor Boost spelling
   # (minor) FS: Fixed Extractor II being highlighted when only Extractor is active
   # (minor) ALL: Sorry for the lack of updates.  As most of you know yuuzhan is the only one updating this and he now has a 7 month old.  Updating when I can.
 
