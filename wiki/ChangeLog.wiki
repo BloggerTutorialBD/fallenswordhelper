@@ -1,6 +1,9 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1486 (yuuzhan)==
+  # (minor) FS: Updated IP address for image server to new host.
+  
 ==Revision 1485 (yuuzhan)==
   # (minor) FS: Added support for new 1600 buffs (Thanks aa0007)
   # (minor) FS: Fixed Armor Boost spelling
