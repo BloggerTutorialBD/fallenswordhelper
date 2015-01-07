@@ -1,6 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1487 (yuuzhan)==
+  # (major) FS: Updated to use GreaseMonkey 2.
+  # (minor) FS: commented out a few broken functions.
+  # (notes) FS: Thanks to PointyHair for these changes.
+  # (minor) FS: Profile enhancements show again.
+  # (notes) FS: Still lots of work to do, but we are still around.
+  
 ==Revision 1486 (yuuzhan)==
   # (minor) FS: Updated IP address for image server to new host.
   
