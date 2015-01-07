@@ -2,6 +2,9 @@
 =A version by version list of changes made to the script=
 
 ==Revision 1488 (yuuzhan)==
+  # (minor) FS: Checked in the wrong file in the previous checkin, all of PointyHair's fixes are in this one
+  
+==Revision 1488 (yuuzhan)==
   # (minor) FS: Fixed a small bug in the Profile Enhancements.
 
 ==Revision 1487 (yuuzhan)==
