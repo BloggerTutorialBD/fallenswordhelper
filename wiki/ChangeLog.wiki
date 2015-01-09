@@ -1,6 +1,13 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1491 (yuuzhan)==
+  # (minor) FS: Fixed bio compressor
+  # (minor) FS: Shrunk Edit Bio box
+  # (minor) FS: Mouseover on Settings Page, as well as a few other tweaks
+  # (minor) FS: Inventory forge icon has been fixed on the Bio page
+  # (minor) FS: Removed a few more broken functions
+  
 ==Revision 1490 (yuuzhan)==
   # (minor) FS: Checked in the wrong file in the previous checkin, all of PointyHair's fixes are in this one
   
