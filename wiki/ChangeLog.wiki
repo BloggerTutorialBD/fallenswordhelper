@@ -1,6 +1,23 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1492 (PointyHair via yuuzhan)==
+  # (minor) FS: Bio Expander / Hider updates
+  # (minor) FS: Fixed guild manage page on Chrome
+  # (minor) FS: Fixed offline member check (kenwyl)
+  # (minor) FS: Fix buff 16 in group page (kenwyl)
+  # (minor) FS: Fix nulls in combat evaluator (kenwyl)
+  # (minor) FS: Fix Krul portal icon in old map
+  # (minor) FS: Fix Search FSG icon in new world map, map page, creature dialog
+  # (minor) FS: Fix self and group stats in relic defence
+  # (minor) FS: Fix for Scout Tower
+  # (minor) FS: Fix for Recall button on Profile Page in Chrome
+  # (minor) FS: Additional combat bias setting (Based on RJEMs suggestion)
+  # (minor) FS: Fix/enhance PvP stat display
+  # (minor) FS: Fix internal search parameters
+
+
+
 ==Revision 1491 (yuuzhan)==
   # (minor) FS: Fixed bio compressor
   # (minor) FS: Shrunk Edit Bio box
