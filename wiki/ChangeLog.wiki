@@ -1,6 +1,15 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1493 (PointyHair via yuuzhan)==
+  # (minor) FS: Update download URL for GreaseMonkey auto-update
+  # (minor) FS: Fix view other guilds
+  # (minor) FS: Fix Log parser in Chrome
+  # (minor) FS: Added ability to quick drop bound items
+  # (minor) FS: Fix url of various images
+  # (minor) FS: fix regression in gold upgrades
+  # (minor) FS: Fix quick invent
+
 ==Revision 1492 (PointyHair via yuuzhan)==
   # (minor) FS: Bio Expander / Hider updates
   # (minor) FS: Fixed guild manage page on Chrome
@@ -15,8 +24,6 @@
   # (minor) FS: Additional combat bias setting (Based on RJEMs suggestion)
   # (minor) FS: Fix/enhance PvP stat display
   # (minor) FS: Fix internal search parameters
-
-
 
 ==Revision 1491 (yuuzhan)==
   # (minor) FS: Fixed bio compressor
