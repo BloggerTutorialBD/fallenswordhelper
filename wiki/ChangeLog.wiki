@@ -1,6 +1,12 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1494 (PointyHair via yuuzhan)==
+  # (minor) FS: Fixed Do-Not-Kill list preventing you from killing Titan / Champions on same square
+  # (minor) FS: Changed Inventory Filters to default to level 9999 from 2000
+  # (minor) FS: Fixed a bug with displaying titan kill percentage
+  # (minor) FS: Commented out some unused / broken code.
+  
 ==Revision 1493 (PointyHair via yuuzhan)==
   # (minor) FS: Update download URL for GreaseMonkey auto-update
   # (minor) FS: Fix view other guilds
