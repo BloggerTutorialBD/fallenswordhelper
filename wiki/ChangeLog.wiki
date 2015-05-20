@@ -1,6 +1,10 @@
 #labels Featured
 =A version by version list of changes made to the script=
 
+==Revision 1495 (PointyHair via yuuzhan)==
+  # (minor) FS: Moved FSH Code Base to GitHub, and updated the automatic update URL.
+  # (minor) FS: Visit https://github.com/fallenswordhelper/fallenswordhelper to view the source code  
+  
 ==Revision 1494 (PointyHair via yuuzhan)==
   # (minor) FS: Fixed Do-Not-Kill list preventing you from killing Titan / Champions on same square
   # (minor) FS: Changed Inventory Filters to default to level 9999 from 2000
