@@ -1,0 +1,82 @@
+# Introduction #
+
+This page is meant for developers that want to contribute. This has details on:
+  * How to get the code.
+  * How to navigate through the code and description of some major functions.
+  * Description of some major functions.
+  * Discussion of style
+  * Procedure to upload (even if not a member)
+
+This is preliminary documentation, it **will** be expanded.
+
+# Get the Code #
+
+Code is stored at Google Code and can be retrieved by using Subversion.
+
+# Navigation #
+
+Each Helper script is based on 5 different files (two are common between the two scripts).
+## System (calfSystem.js) ##
+
+This file contains system function, which have nothing to do with direct page manipulation. In general, most of this file could be used as is in any site.
+
+## JSON (json2.js) ##
+
+This file is taken from http://www.json.org/ and it contains all necessary functions to serialize and deserialize objects into JSON (JavaScript Object Notation), making it easy to store raw objects in the GreaseMonkey store as strings.
+
+## Data (fsData.js/ssData.js) ##
+
+
+
+## Layout (fsLayout.js/ssLayout.js) ##
+## Helper (fallenswordhelper.js/sigmastormhelper.js ##
+This is the main script file, which contains most of the code. Since it was **grown** and not designed, it can be a little difficult to navigate, as the functions are not in much of an order.
+
+# Style #
+## HTML ##
+
+Modern HTML is prefered, regardless of underlying (HCS) HTML coding standards. This means that SPAN and DIV tags are preferred from FONT or TABLE tags (of course in many cases TABLE tags are going to be required.
+
+## Javascript ##
+### Coding style ###
+### Variable naming ###
+### Porting to Chrome ###
+A how-to is in the first post in http://forum.fallensword.com/phpBB3/viewtopic.php?f=1&t=92686
+### Using JQuery and JQueryUI ###
+Since FS and SS2 already included JQuery and its UI in the page, we can make use of those libraries to enhance the user interface (and hopefully reduce our code side).
+JQuery is not particularly designed for running within a sandbox (Greasemonkey), we might need some tweaking. These tweaks (http://joanpiedra.com/jquery/greasemonkey/) are required for JQuery version 1.4.x (check the end of the fs.user.js and ss2.user.js).
+Currently:
+  * JQuery MUST be loaded by the webpage, not by the script (or bypass by those above tweaks).
+  * Anything that calls JQuery functions SHOULD NOT be on page load (JQuery needs some time to load before becoming available). Hence it is available for most key/mouse event handlers and within jqFunction in GM\_Wait(jqFunction).
+  * GM\_getValue and GM\_setValue cannot be called directly under JQuery functions (Greasemonkey security model that avoids unsafeWindow). A workaround is to use a setTimeout(function() {GM\_setValue(....);}, 0). This should be removed in future Greasemonkey updates.
+
+_Example on using $.each to test if an element exists._
+
+Old code:
+```
+  var gameHelpNode = System.findNode('//b[contains(.,"Game Help")]');
+  if (gameHelpNode) {
+    gameHelpNode.innerHTML = "<a href='index.php?cmd=settings' style='color: #FFFFFF; text-decoration: underline'>" + gameHelpNode.textContent + "</a>";
+  }
+```
+
+New code:
+```
+  var gameHelpNode = $('b:contains("Game Help")');
+  $(gameHelpNode).each(function() {
+    $(this).html("<a href='index.php?cmd=settings' style='color: #FFFFFF; text-decoration: underline'>" + $(this).text() + "</a>");
+  });
+```
+
+# Procedure #
+## Members ##
+### ChangeLog ###
+
+Each code change should also be reflected on the ChangeLog.wiki, as the users see what has changed from the version they have to the current version. This is more important than commenting on each commit.
+
+Changes reflected on the ChangeLog are separated on minor and major changes. Minor changes are small changes that don't have new functionality, but either refine an existing functionality or fix a bug. Major changes are changes that add new functionality, and as such, an entry should be added to the Index (list of Features).
+
+Also, if the change only applies to one of the games, add a "FS:" or "SS2:" before the actual text (after the "(minor)"/"(Major)" label).
+
+## Non-members ##
+We always appreciate a change request that comes with its own code. Since most of non-members may not be familiar with source control and such, we will probably accept any format of submitted code. The preferred format would be of course an SVN patch (created by SVN diff), so we can easily review and apply it.

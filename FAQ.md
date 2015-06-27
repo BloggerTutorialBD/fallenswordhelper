@@ -1,0 +1,63 @@
+# Frequently Asked Questions #
+
+Q: How does quick kill work?
+
+A: It's quite easy. When "Quick Kill" is enabled, keys 1-8 on the keyboard kill creatures without displaying a different page. The battle result is displayed in place, and details are displayed when you mouse over the result.
+
+---
+
+Q: What are the numbers in parentheses at the right of the gold gained? (e.g. "XP:123 Gold:91 (23)")
+
+A: This is the guild tax, the money that goes to the guild.
+
+---
+
+Q: Can you auto repair after all kills?
+
+A: No, you need to press 'r' yourself to repair. The auto repair feature was removed due to HCS request.
+
+---
+
+Q: How do I report a bug or request an enhancement for the Helper?
+
+A: Click on Issues tab, select Search within "All Issues" for your report/request. If there is no report/request similar to yours, click on "New issue" to make a new report/request. Otherwise, please leave your comment on the existing issue.
+
+---
+
+Q: What do the colors on the guild members list mean?
+
+A: White is for normal. Dark orange means the member has just logged in. Gold denotes yourself (to find yourself easily and e.g. buff yourself)
+
+---
+
+Q: I installed the latest update and nothing is working any more!
+
+A: Some times there are issues with caching. I would suggest removing FSH (or SSH), clearing Firefox's cache, and reinstalling FSH/SSH.
+  * To uninstall a script, right click on the greasemonkey icon and select "Manage User Scripts...". Select FallenSwordHelper (or SigmaStormHelper on the left and click "Uninstall" ("Also uninstall associated preferences" should NOT be checked, or you're going to lose any preferences you have selected).
+  * To clear the cache, select "Tools > Clear Private Data..." from Firefox's menu, check only "Cache" and click on "Clear Private Data Now".
+  * To reinstall the script, just go click [here](http://fallenswordhelper.googlecode.com/svn/trunk/fallenswordhelper.user.js), after you're done with the other steps.
+
+---
+
+Q: It's not working at all, and I've uninstalled and reinstalled it.
+
+A: Perhaps you've clicked on the Greasemonkey icon on the statusbar by mistake. When Greasemonkey is working, the icon is a brown smiling monkey, and if you mouseover it, it says "Greasemonkey is enabled". When it's not wokring, the icon is a gray frowning monkey, and if you mouseover it, it says "Greasemonkey is disabled". To switch between enabled and disabled, just click (left-click) on it once.
+
+---
+
+Q: I'm a seasoned developer, and I'd like to help, is that possible?
+
+A: Look at DeveloperInfo.
+
+---
+
+Q: Is there a list of currently used hotkeys?
+
+A: Look at the [Index#Ingame\_Shortcut\_Keys\_and\_Links](Index#Ingame_Shortcut_Keys_and_Links.md) of the Wiki
+
+---
+
+Q: Are there many extensions that can cause funky FSH behavior?
+
+A: AVG save search is known to cause issues. To disable it do the following:
+Tools -> Add-ons -> Extensions. Disable AVG save search!
